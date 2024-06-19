@@ -1,6 +1,62 @@
 {
   "intents": [
     {
+      "tag": "salam",
+      "patterns": [
+        "Hai",
+        "Halo",
+        "Hi",
+        "Selamat pagi",
+        "Selamat siang",
+        "Selamat sore",
+        "Selamat malam"
+      ],
+      "responses": [
+        "Halo! Ada yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+    {
+      "tag": "teks_kosong",
+      "patterns": [
+        "",
+        " ",
+        "\t",
+        "\n"
+      ],
+      "responses": [
+        "Sepertinya Anda tidak mengetikkan apa pun. Ada yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+{
+      "tag": "luar_konteks",
+      "patterns": [
+        "Apa kabar?",
+        "Sedang apa?",
+        "Siapa kamu?",
+        "Bisa bantu saya?",
+        "Saya butuh bantuan",
+        "Apa makanan favoritmu?",
+        "Kamu dari mana?",
+        "Berapa umurmu?",
+        "Ceritakan lelucon",
+        "Bagaimana cuaca hari ini?",
+        "Apa film favoritmu?",
+        "Buku apa yang kamu rekomendasikan?",
+        "Apa hobimu?",
+        "Apakah kamu punya teman?",
+        "Dimana kamu tinggal?",
+        "Siapa presiden sekarang?",
+        "Ceritakan tentang dirimu",
+        "Apakah kamu robot?",
+        "Apa kamu bisa bernyanyi?",
+        "Siapa pembuatmu?",
+        "Kamu bisa main game?"
+      ],
+      "responses": [
+        "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
+      ]
+    },
+    {
       "tag": "sejarah_muhammadiyah",
       "patterns": [
         "Apa sejarah Muhammadiyah?",
