@@ -92,17 +92,6 @@
     ]
   },
   {
-    "tag": "fasilitas_kampus",
-    "patterns": [
-      "Apa saja fasilitas yang tersedia di kampus UMMI?",
-      "Apakah UMMI memiliki perpustakaan?",
-      "Bagaimana fasilitas laboratorium di UMMI?"
-    ],
-    "responses": [
-      "UMMI menyediakan berbagai fasilitas termasuk perpustakaan, laboratorium komputer, laboratorium sains, pusat bahasa, pusat olahraga, dan layanan kesehatan. Perpustakaan UMMI memiliki koleksi buku, jurnal, dan akses ke database online. Fasilitas laboratorium di UMMI dilengkapi dengan peralatan modern untuk menunjang kegiatan praktikum dan penelitian."
-    ]
-  },
-  {
     "tag": "prosedur_pendaftaran",
     "patterns": [
       "Bagaimana cara mendaftar di UMMI?",
@@ -111,17 +100,6 @@
     ],
     "responses": [
       "Pendaftaran di UMMI dapat dilakukan secara online melalui situs resmi UMMI. Persyaratan pendaftaran termasuk ijazah SMA/SMK/sederajat, nilai rapor, dan pas foto. Pendaftaran mahasiswa baru biasanya dibuka pada bulan Mei dan berlangsung hingga Agustus setiap tahunnya."
-    ]
-  },
-  {
-    "tag": "beasiswa",
-    "patterns": [
-      "Apakah UMMI menyediakan beasiswa?",
-      "Bagaimana cara mendapatkan beasiswa di UMMI?",
-      "Apa saja jenis beasiswa yang ada di UMMI?"
-    ],
-    "responses": [
-      "UMMI menyediakan berbagai jenis beasiswa untuk mahasiswa berprestasi dan kurang mampu. Cara mendapatkan beasiswa di UMMI termasuk memenuhi persyaratan akademik dan administratif, serta mengikuti seleksi yang diadakan oleh universitas. Jenis beasiswa di UMMI meliputi beasiswa prestasi, beasiswa kurang mampu, dan beasiswa dari pihak ketiga seperti pemerintah atau perusahaan swasta."
     ]
   },
   {
@@ -188,7 +166,7 @@
     {
       "tag": "kegiatan_kemahasiswaan",
       "patterns": [
-        "Apa saja kegiatan kemahasiswaan di UMMI?",
+        "",
         "Apa itu KM-UMMI?",
         "Ada organisasi mahasiswa apa di UMMI?",
         "Saya ingin bergabung dengan UKM di UMMI, bagaimana caranya?",
@@ -420,19 +398,6 @@
       ]
     },
     {
-      "tag": "beasiswa",
-      "patterns": [
-        "Adakah beasiswa di UMMI?",
-        "Bagaimana cara mendapatkan beasiswa di UMMI?",
-        "Jenis beasiswa apa saja yang ditawarkan UMMI?",
-        "Syarat mendapatkan beasiswa di UMMI?",
-        "Beasiswa untuk mahasiswa baru di UMMI?"
-      ],
-      "responses": [
-        "UMMI menawarkan berbagai jenis beasiswa untuk mahasiswa berprestasi dan yang membutuhkan. Informasi mengenai jenis beasiswa dan cara pendaftarannya dapat dilihat di website resmi UMMI."
-      ]
-    },
-    {
       "tag": "kegiatan_alumni",
       "patterns": [
         "Apa kegiatan alumni UMMI?",
@@ -443,19 +408,6 @@
       ],
       "responses": [
         "Alumni UMMI aktif dalam berbagai kegiatan seperti seminar, workshop, reuni, dan kegiatan sosial. UMMI juga memiliki Ikatan Alumni yang menjaga hubungan baik antara alumni dan universitas."
-      ]
-    },
-    {
-      "tag": "kalender_akademik",
-      "patterns": [
-        "Apa saja tanggal penting di kalender akademik UMMI?",
-        "Kapan libur semester di UMMI?",
-        "Mulai kuliah semester baru di UMMI?",
-        "Tanggal-tanggal penting akademik UMMI?",
-        "Dimana saya bisa melihat kalender akademik UMMI?"
-      ],
-      "responses": [
-        "Kalender akademik UMMI dapat dilihat di website resmi UMMI. Kalender ini mencakup informasi tentang jadwal kuliah, libur, ujian, dan kegiatan akademik lainnya."
       ]
     },
     {
@@ -547,19 +499,6 @@
       ],
       "responses": [
         "Keamanan di kampus UMMI dijaga oleh petugas keamanan yang bertugas 24 jam. UMMI juga dilengkapi dengan sistem keamanan dan pengawasan untuk memastikan keselamatan seluruh civitas akademika."
-      ]
-    },
-    {
-      "tag": "pendidikan_jarak_jauh",
-      "patterns": [
-        "Adakah program pendidikan jarak jauh di UMMI?",
-        "Bagaimana cara mengikuti pendidikan jarak jauh di UMMI?",
-        "Program pendidikan jarak jauh apa yang ditawarkan UMMI?",
-        "Apa saja syarat mengikuti pendidikan jarak jauh di UMMI?",
-        "Bagaimana sistem pembelajaran jarak jauh di UMMI?"
-      ],
-      "responses": [
-        "UMMI menawarkan program pendidikan jarak jauh (PJJ) untuk beberapa program studi. Sistem pembelajaran menggunakan platform e-learning yang dapat diakses oleh mahasiswa secara fleksibel."
       ]
     },
     {
@@ -862,19 +801,6 @@
       ]
     },
     {
-      "tag": "perpustakaan",
-      "patterns": [
-        "Bagaimana cara meminjam buku di perpustakaan UMMI?",
-        "Apa saja fasilitas perpustakaan di UMMI?",
-        "Jam buka perpustakaan UMMI?",
-        "Adakah koleksi e-book di perpustakaan UMMI?",
-        "Bagaimana cara mengakses perpustakaan online UMMI?"
-      ],
-      "responses": [
-        "Perpustakaan UMMI menyediakan berbagai koleksi buku, jurnal, dan e-book. Anda bisa meminjam buku dengan menunjukkan kartu mahasiswa. Jam buka perpustakaan dan informasi mengenai akses perpustakaan online dapat dilihat di website resmi UMMI."
-      ]
-    },
-    {
       "tag": "pembayaran",
       "patterns": [
         "Bagaimana cara membayar biaya kuliah di UMMI?",
@@ -1109,19 +1035,6 @@
       ]
     },
     {
-      "tag": "magang",
-      "patterns": [
-        "Bagaimana cara mengikuti program magang di UMMI?",
-        "Adakah program magang di UMMI?",
-        "Apa saja syarat untuk magang di UMMI?",
-        "Bagaimana prosedur pendaftaran magang di UMMI?",
-        "Apakah UMMI memiliki kerjasama dengan perusahaan untuk magang?"
-      ],
-      "responses": [
-        "UMMI menyediakan program magang untuk membantu mahasiswa mendapatkan pengalaman kerja. Informasi mengenai syarat, prosedur pendaftaran, dan kerjasama dengan perusahaan dapat dilihat di portal akademik atau menghubungi pusat karir UMMI."
-      ]
-    },
-    {
       "tag": "fasilitas_kantin",
       "patterns": [
         "Apakah UMMI memiliki kantin?",
@@ -1244,17 +1157,6 @@
     ]
   },
   {
-    "tag": "kalender_akademik",
-    "patterns": [
-      "Kapan dimulai tahun akademik di UMMI?",
-      "Berapa lama satu semester di UMMI?",
-      "Kapan libur semester di UMMI?"
-    ],
-    "responses": [
-      "Tahun akademik di UMMI dimulai pada bulan September dan berakhir pada bulan Agustus tahun berikutnya. Satu semester di UMMI berlangsung sekitar 16 minggu, termasuk waktu untuk ujian tengah semester dan ujian akhir semester. Libur semester biasanya berlangsung selama dua minggu setelah ujian akhir semester."
-    ]
-  },
-  {
     "tag": "kerjasama_universitas",
     "patterns": [
       "Apakah UMMI memiliki kerjasama dengan universitas lain?",
@@ -1348,7 +1250,6 @@
   "patterns": [
     "Apa saja kegiatan mahasiswa di UMMI?",
     "Apakah ada organisasi mahasiswa di UMMI?",
-    "Bagaimana cara bergabung dengan organisasi mahasiswa di UMMI?",
     "Apakah ada kegiatan ekstrakurikuler di UMMI?",
     "Bagaimana cara ikut serta dalam kegiatan mahasiswa di UMMI?"
   ],
