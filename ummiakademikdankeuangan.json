@@ -56,6 +56,85 @@
         "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
       ]
     },
+      {
+    "tag": "visi_misi_ummi",
+    "patterns": [
+      "Apa visi Universitas Muhammadiyah Sukabumi?",
+      "Sebutkan misi UMMI.",
+      "Apa tujuan UMMI?"
+    ],
+    "responses": [
+      "Visi UMMI adalah terwujudnya Universitas Muhammadiyah Sukabumi yang unggul dalam keilmuan dan keislaman pada tahun 2022.",
+      "Misi UMMI meliputi: 1) Menyelenggarakan pendidikan tinggi yang berkualitas, 2) Mengembangkan IPTEKS melalui penelitian, 3) Melaksanakan pengabdian kepada masyarakat, 4) Mengembangkan Al-Islam dan Kemuhammadiyahan, 5) Meningkatkan kualitas UMMI dalam SDM, sarana, dan prasarana.",
+      "Tujuan UMMI antara lain: 1) Terselenggaranya layanan akademik berkualitas, 2) Berkembangnya IPTEKS berdasarkan Al-Qur’an dan Sunnah, 3) Implementasi hasil penelitian untuk pemberdayaan masyarakat, 4) UMMI menjadi pusat kajian Al-Islam dan Kemuhammadiyahan, 5) Meningkatkan kualitas SDM, sarana, dan prasarana."
+    ]
+  },
+    {
+    "tag": "nilai_akademik",
+    "patterns": [
+      "Bagaimana sistem penilaian di UMMI?",
+      "Apa arti dari nilai A di UMMI?",
+      "Berapa IPK minimal untuk lulus di UMMI?"
+    ],
+    "responses": [
+      "Sistem penilaian di UMMI menggunakan skala huruf dengan nilai mutu: A (4,0), A- (3,7), B+ (3,3), B (3,0), B- (2,7), C+ (2,3), C (2,0), D (1,0), E (0,0). IPK minimal untuk lulus adalah 2,00 dengan nilai minimal C pada setiap mata kuliah wajib."
+    ]
+  },
+  {
+    "tag": "jadwal_perkuliahan",
+    "patterns": [
+      "Kapan dimulainya semester ganjil di UMMI?",
+      "Berapa lama waktu libur semester di UMMI?",
+      "Kapan ujian tengah semester diadakan di UMMI?"
+    ],
+    "responses": [
+      "Semester ganjil di UMMI biasanya dimulai pada awal September dan berlangsung hingga pertengahan Januari. Libur semester biasanya berlangsung selama dua minggu setelah akhir ujian semester. Ujian tengah semester biasanya diadakan pada minggu ke-8 atau ke-9 perkuliahan."
+    ]
+  },
+  {
+    "tag": "fasilitas_kampus",
+    "patterns": [
+      "Apa saja fasilitas yang tersedia di kampus UMMI?",
+      "Apakah UMMI memiliki perpustakaan?",
+      "Bagaimana fasilitas laboratorium di UMMI?"
+    ],
+    "responses": [
+      "UMMI menyediakan berbagai fasilitas termasuk perpustakaan, laboratorium komputer, laboratorium sains, pusat bahasa, pusat olahraga, dan layanan kesehatan. Perpustakaan UMMI memiliki koleksi buku, jurnal, dan akses ke database online. Fasilitas laboratorium di UMMI dilengkapi dengan peralatan modern untuk menunjang kegiatan praktikum dan penelitian."
+    ]
+  },
+  {
+    "tag": "prosedur_pendaftaran",
+    "patterns": [
+      "Bagaimana cara mendaftar di UMMI?",
+      "Apa saja persyaratan pendaftaran di UMMI?",
+      "Kapan pendaftaran mahasiswa baru dibuka?"
+    ],
+    "responses": [
+      "Pendaftaran di UMMI dapat dilakukan secara online melalui situs resmi UMMI. Persyaratan pendaftaran termasuk ijazah SMA/SMK/sederajat, nilai rapor, dan pas foto. Pendaftaran mahasiswa baru biasanya dibuka pada bulan Mei dan berlangsung hingga Agustus setiap tahunnya."
+    ]
+  },
+  {
+    "tag": "beasiswa",
+    "patterns": [
+      "Apakah UMMI menyediakan beasiswa?",
+      "Bagaimana cara mendapatkan beasiswa di UMMI?",
+      "Apa saja jenis beasiswa yang ada di UMMI?"
+    ],
+    "responses": [
+      "UMMI menyediakan berbagai jenis beasiswa untuk mahasiswa berprestasi dan kurang mampu. Cara mendapatkan beasiswa di UMMI termasuk memenuhi persyaratan akademik dan administratif, serta mengikuti seleksi yang diadakan oleh universitas. Jenis beasiswa di UMMI meliputi beasiswa prestasi, beasiswa kurang mampu, dan beasiswa dari pihak ketiga seperti pemerintah atau perusahaan swasta."
+    ]
+  },
+  {
+    "tag": "kegiatan_mahasiswa",
+    "patterns": [
+      "Apa saja organisasi mahasiswa yang ada di UMMI?",
+      "Apakah ada unit kegiatan mahasiswa di UMMI?",
+      "Bagaimana cara bergabung dengan organisasi mahasiswa di UMMI?"
+    ],
+    "responses": [
+      "UMMI memiliki berbagai organisasi mahasiswa termasuk Badan Eksekutif Mahasiswa (BEM), Himpunan Mahasiswa Jurusan (HMJ), dan unit kegiatan mahasiswa seperti teater, paduan suara, dan olahraga. Untuk bergabung dengan organisasi mahasiswa, mahasiswa dapat mendaftar melalui sekretariat organisasi yang bersangkutan atau mengikuti open recruitment yang biasanya diadakan pada awal semester."
+    ]
+  },
     {
       "tag": "sejarah_muhammadiyah",
       "patterns": [
@@ -1119,6 +1198,72 @@
       "responses": [
         "UMMI menyediakan berbagai layanan akademik seperti bimbingan akademik, layanan administrasi, dan konsultasi kurikulum. Mahasiswa dapat mengakses layanan ini melalui portal akademik atau menghubungi bagian akademik."
       ]
-    }
+    },
+    {
+    "tag": "kode_etik_mahasiswa",
+    "patterns": [
+      "Apa saja kode etik mahasiswa UMMI?",
+      "Bagaimana tata tertib mahasiswa di UMMI?",
+      "Apa sanksi bagi pelanggaran kode etik di UMMI?"
+    ],
+    "responses": [
+      "Kode etik mahasiswa UMMI mencakup integritas akademik, penghormatan terhadap sesama, dan kepatuhan terhadap peraturan kampus. Tata tertib mahasiswa termasuk berpakaian sopan, tidak merokok di area kampus, dan menjaga kebersihan lingkungan. Sanksi bagi pelanggaran kode etik dapat berupa teguran, skorsing, hingga dikeluarkan dari universitas tergantung pada tingkat pelanggaran."
+    ]
+  },
+  {
+    "tag": "program_studi",
+    "patterns": [
+      "Apa saja program studi yang ditawarkan UMMI?",
+      "Apakah UMMI memiliki program studi teknik?",
+      "Bagaimana akreditasi program studi di UMMI?"
+    ],
+    "responses": [
+      "UMMI menawarkan berbagai program studi termasuk Teknik Informatika, Agribisnis, Manajemen, Pendidikan Bahasa Inggris, dan Ilmu Hukum. UMMI memiliki program studi teknik yang meliputi Teknik Informatika dan Teknik Mesin. Akreditasi program studi di UMMI umumnya sudah terakreditasi oleh BAN-PT dengan nilai yang bervariasi dari B hingga A."
+    ]
+  },
+  {
+    "tag": "biaya_kuliah",
+    "patterns": [
+      "Berapa biaya kuliah di UMMI?",
+      "Apakah UMMI menyediakan cicilan biaya kuliah?",
+      "Bagaimana cara pembayaran biaya kuliah di UMMI?"
+    ],
+    "responses": [
+      "Biaya kuliah di UMMI bervariasi tergantung pada program studi yang dipilih. UMMI menyediakan fasilitas cicilan biaya kuliah untuk meringankan beban mahasiswa. Pembayaran biaya kuliah dapat dilakukan melalui transfer bank, pembayaran di loket keuangan kampus, atau melalui platform pembayaran online yang disediakan oleh universitas."
+    ]
+  },
+  {
+    "tag": "layanan_mahasiswa",
+    "patterns": [
+      "Apa saja layanan yang disediakan untuk mahasiswa UMMI?",
+      "Apakah UMMI memiliki layanan konseling?",
+      "Bagaimana layanan kesehatan di UMMI?"
+    ],
+    "responses": [
+      "UMMI menyediakan berbagai layanan untuk mahasiswa termasuk layanan konseling, layanan kesehatan, pusat karir, dan layanan bimbingan akademik. Layanan konseling membantu mahasiswa dalam mengatasi masalah pribadi, akademik, dan karir. Layanan kesehatan UMMI memberikan fasilitas pemeriksaan kesehatan dan konsultasi medis untuk mahasiswa."
+    ]
+  },
+  {
+    "tag": "kalender_akademik",
+    "patterns": [
+      "Kapan dimulai tahun akademik di UMMI?",
+      "Berapa lama satu semester di UMMI?",
+      "Kapan libur semester di UMMI?"
+    ],
+    "responses": [
+      "Tahun akademik di UMMI dimulai pada bulan September dan berakhir pada bulan Agustus tahun berikutnya. Satu semester di UMMI berlangsung sekitar 16 minggu, termasuk waktu untuk ujian tengah semester dan ujian akhir semester. Libur semester biasanya berlangsung selama dua minggu setelah ujian akhir semester."
+    ]
+  },
+  {
+    "tag": "kerjasama_universitas",
+    "patterns": [
+      "Apakah UMMI memiliki kerjasama dengan universitas lain?",
+      "Bagaimana bentuk kerjasama internasional di UMMI?",
+      "Apakah UMMI memiliki program pertukaran mahasiswa?"
+    ],
+    "responses": [
+      "UMMI memiliki kerjasama dengan berbagai universitas di dalam dan luar negeri. Bentuk kerjasama internasional meliputi program pertukaran mahasiswa, joint research, dan pengembangan kurikulum. UMMI juga memiliki program pertukaran mahasiswa dengan beberapa universitas mitra di Asia dan Eropa."
+    ]
+  }
   ]
 }
