@@ -1264,6 +1264,123 @@
     "responses": [
       "UMMI memiliki kerjasama dengan berbagai universitas di dalam dan luar negeri. Bentuk kerjasama internasional meliputi program pertukaran mahasiswa, joint research, dan pengembangan kurikulum. UMMI juga memiliki program pertukaran mahasiswa dengan beberapa universitas mitra di Asia dan Eropa."
     ]
-  }
+  },
+    {
+  "tag": "peraturan_akademik",
+  "patterns": [
+    "Apa saja peraturan akademik di UMMI?",
+    "Bagaimana kebijakan akademik di UMMI?",
+    "Apa peraturan tentang kehadiran di UMMI?",
+    "Bagaimana tata tertib akademik di UMMI?",
+    "Apa saja peraturan disiplin akademik di UMMI?"
+  ],
+  "responses": [
+    "Peraturan akademik di UMMI mencakup ketentuan tentang kehadiran, penilaian, ujian, tugas akhir, dan kode etik akademik. Mahasiswa diharapkan mematuhi semua peraturan untuk menjaga ketertiban dan kualitas pendidikan."
+  ]
+},
+{
+  "tag": "jadwal_perkuliahan",
+  "patterns": [
+    "Bagaimana jadwal perkuliahan di UMMI?",
+    "Kapan perkuliahan dimulai di UMMI?",
+    "Apakah jadwal kuliah tetap di UMMI?",
+    "Bagaimana saya bisa melihat jadwal kuliah di UMMI?",
+    "Apakah ada perubahan jadwal kuliah di UMMI?"
+  ],
+  "responses": [
+    "Jadwal perkuliahan di UMMI disusun setiap semester dan dapat diakses melalui portal akademik UMMI. Perubahan jadwal akan diumumkan secara resmi oleh pihak universitas."
+  ]
+},
+{
+  "tag": "skripsi_tugas_akhir",
+  "patterns": [
+    "Bagaimana prosedur skripsi di UMMI?",
+    "Apa syarat mengajukan skripsi di UMMI?",
+    "Kapan saya bisa mulai mengerjakan skripsi di UMMI?",
+    "Bagaimana bimbingan skripsi di UMMI?",
+    "Apa format penulisan skripsi di UMMI?"
+  ],
+  "responses": [
+    "Prosedur skripsi di UMMI mencakup pengajuan proposal, bimbingan dengan dosen pembimbing, pelaksanaan penelitian, penulisan laporan, dan sidang skripsi. Mahasiswa harus memenuhi syarat akademik tertentu untuk dapat mengajukan skripsi."
+  ]
+},
+{
+  "tag": "nilai_dan_transkrip",
+  "patterns": [
+    "Bagaimana cara melihat nilai di UMMI?",
+    "Apa itu transkrip nilai di UMMI?",
+    "Kapan nilai semester keluar di UMMI?",
+    "Bagaimana cara mendapatkan transkrip nilai di UMMI?",
+    "Apa syarat untuk melihat nilai di UMMI?"
+  ],
+  "responses": [
+    "Nilai dapat dilihat melalui portal akademik UMMI setelah diumumkan oleh dosen. Transkrip nilai resmi dapat diminta di bagian administrasi akademik setelah semua nilai semester lengkap."
+  ]
+},
+{
+  "tag": "layanan_kemahasiswaan",
+  "patterns": [
+    "Apa saja layanan kemahasiswaan di UMMI?",
+    "Bagaimana layanan kesehatan untuk mahasiswa di UMMI?",
+    "Apakah ada layanan konseling di UMMI?",
+    "Bagaimana cara mengakses layanan kemahasiswaan di UMMI?",
+    "Apa saja fasilitas untuk mahasiswa di UMMI?"
+  ],
+  "responses": [
+    "UMMI menyediakan berbagai layanan kemahasiswaan termasuk layanan kesehatan, konseling, pusat karir, dan fasilitas olahraga. Mahasiswa dapat mengakses layanan ini dengan mengunjungi bagian kemahasiswaan atau melalui portal mahasiswa."
+  ]
+},
+{
+  "tag": "fasilitas_kampus",
+  "patterns": [
+    "Apa saja fasilitas yang ada di kampus UMMI?",
+    "Bagaimana fasilitas perpustakaan di UMMI?",
+    "Apakah UMMI memiliki fasilitas olahraga?",
+    "Apa saja laboratorium yang tersedia di UMMI?",
+    "Bagaimana fasilitas teknologi di UMMI?"
+  ],
+  "responses": [
+    "UMMI memiliki berbagai fasilitas termasuk perpustakaan, laboratorium, fasilitas olahraga, dan fasilitas teknologi seperti Wi-Fi kampus. Fasilitas ini disediakan untuk mendukung kegiatan akademik dan non-akademik mahasiswa."
+  ]
+},
+{
+  "tag": "kegiatan_mahasiswa",
+  "patterns": [
+    "Apa saja kegiatan mahasiswa di UMMI?",
+    "Apakah ada organisasi mahasiswa di UMMI?",
+    "Bagaimana cara bergabung dengan organisasi mahasiswa di UMMI?",
+    "Apakah ada kegiatan ekstrakurikuler di UMMI?",
+    "Bagaimana cara ikut serta dalam kegiatan mahasiswa di UMMI?"
+  ],
+  "responses": [
+    "UMMI memiliki berbagai organisasi mahasiswa dan kegiatan ekstrakurikuler, termasuk klub olahraga, seni, dan ilmiah. Mahasiswa dapat bergabung dengan organisasi ini melalui pendaftaran yang biasanya dilakukan di awal semester."
+  ]
+},
+{
+  "tag": "etika_akademik",
+  "patterns": [
+    "Apa saja etika akademik di UMMI?",
+    "Bagaimana etika berperilaku di UMMI?",
+    "Apa yang dimaksud dengan etika akademik di UMMI?",
+    "Bagaimana cara menjaga etika akademik di UMMI?",
+    "Apa yang terjadi jika melanggar etika akademik di UMMI?"
+  ],
+  "responses": [
+    "Etika akademik di UMMI mencakup perilaku jujur, tidak mencontek, tidak melakukan plagiarisme, dan menjaga integritas dalam semua kegiatan akademik. Pelanggaran etika akademik dapat dikenakan sanksi sesuai dengan aturan yang berlaku."
+  ]
+},
+{
+  "tag": "layanan_teknologi",
+  "patterns": [
+    "Apakah UMMI memiliki layanan teknologi untuk mahasiswa?",
+    "Bagaimana cara mengakses Wi-Fi kampus di UMMI?",
+    "Apakah UMMI memiliki portal akademik?",
+    "Bagaimana cara menggunakan layanan teknologi di UMMI?",
+    "Apa saja layanan teknologi yang disediakan oleh UMMI?"
+  ],
+  "responses": [
+    "UMMI menyediakan berbagai layanan teknologi termasuk Wi-Fi kampus, portal akademik untuk melihat jadwal dan nilai, serta sistem informasi akademik. Mahasiswa dapat mengakses layanan ini dengan menggunakan akun mahasiswa."
+  ]
+}
   ]
 }
