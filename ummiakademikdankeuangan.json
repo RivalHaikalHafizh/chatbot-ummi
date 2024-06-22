@@ -425,7 +425,7 @@
     "Mahasiswa dapat mengikuti pelatihan hardskill dan softskill yang diselenggarakan oleh Pusat Karir UMMI.",
     "Pusat Karir UMMI menyediakan informasi karir dan membantu mahasiswa mempersiapkan diri untuk dunia profesional."
   ]
-}
+},
 {
   "tag": "kewirausahaan",
   "patterns": [
@@ -440,7 +440,7 @@
     "Mahasiswa bisa mendapatkan pendampingan dalam perencanaan bisnis dan akses permodalan untuk memulai bisnis.",
     "Program ini juga terkait dengan kegiatan pembelajaran MB-KM di UMMI."
   ]
-}
+},
 {
   "tag": "minat_bakat_penalaran",
   "patterns": [
@@ -455,7 +455,7 @@
     "Kegiatan ini bertujuan untuk meningkatkan jiwa leadership, semangat berkompetisi, dan budaya berprestasi.",
     "Mahasiswa dapat berpartisipasi dalam kegiatan baik secara individual maupun tim bersama dosen."
   ]
-}
+},
 {
   "tag": "pembinaan_al_islam_kemuhammadiyahan",
   "patterns": [
@@ -485,7 +485,7 @@
     "Untuk mendapatkan beasiswa di UMMI, mahasiswa harus memenuhi syarat yang ditentukan untuk masing-masing jenis beasiswa.",
     "Beasiswa di UMMI dapat diakses melalui bagian kemahasiswaan, fakultas, program studi, atau unit kerja lainnya yang menyediakan fasilitas tersebut."
   ]
-}
+},
 {
   "tag": "unit_kegiatan_mahasiswa",
   "patterns": [
@@ -500,7 +500,7 @@
     "Mahasiswa dapat bergabung dengan UKM sesuai dengan minat dan bakat mereka untuk mengembangkan diri dan meraih prestasi.",
     "Beberapa UKM di UMMI antara lain UKM Basket, UKM Futsal, UKM Volley Ball, UKM Sepak Bola, Teater Arkamaya, dan Lingkung Seni Asmarandhana."
   ]
-}
+},
 {
   "tag": "kemahasiswaan",
   "patterns": [
@@ -515,7 +515,7 @@
     "UMMI mendukung pengembangan diri mahasiswa melalui kegiatan yang mencakup akademik dan non-akademik dengan integrasi nilai-nilai Al-Islam dan Kemuhammadiyahan.",
     "Seluruh kegiatan kemahasiswaan dilaksanakan di bawah Organisasi Mahasiswa (ORMAWA) dengan peraturan dan ketentuan yang diatur dalam Pedoman Kemahasiswaan."
   ]
-}
+},
 {
   "tag": "fasilitas_perpustakaan",
   "patterns": [
@@ -530,7 +530,7 @@
     "Mahasiswa dapat meminjam buku di perpustakaan UMMI dengan menggunakan kartu mahasiswa.",
     "Perpustakaan UMMI juga menyediakan ruang belajar yang nyaman bagi mahasiswa untuk mendukung kegiatan akademik mereka."
   ]
-}
+},
 {
   "tag": "laboratorium",
   "patterns": [
@@ -545,7 +545,7 @@
     "Mahasiswa dapat menggunakan laboratorium di UMMI sesuai dengan jadwal yang telah ditentukan dan dengan mematuhi peraturan yang berlaku.",
     "Laboratorium di UMMI dilengkapi dengan fasilitas modern untuk mendukung pembelajaran dan penelitian di berbagai program studi."
   ]
-}
+},
 {
   "tag": "program_studi",
   "patterns": [
@@ -560,7 +560,7 @@
     "Program studi di UMMI mencakup berbagai bidang ilmu yang dapat dipilih sesuai minat dan bakat mahasiswa.",
     "Pendaftaran program studi di UMMI dapat dilakukan melalui portal pendaftaran online dengan mengikuti prosedur yang ditentukan."
   ]
-}
+},
 {
   "tag": "prestasi_mahasiswa",
   "patterns": [
