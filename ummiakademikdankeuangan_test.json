@@ -1,0 +1,178 @@
+{
+  "intents": [
+    {
+      "tag": "salam",
+      "patterns": [
+        "Halo, apa kabar?",
+        "Selamat pagi, ada yang bisa saya bantu?",
+        "Hi, bagaimana hari Anda?",
+        "Selamat siang, apakah Anda butuh bantuan?"
+      ],
+      "responses": [
+        "Halo! Apa yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+    {
+      "tag": "teks_kosong",
+      "patterns": [
+        " ",
+        "\t\t",
+        "\n\n"
+      ],
+      "responses": [
+        "Sepertinya Anda tidak mengetikkan apa pun. Apakah Anda memerlukan informasi tentang akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+    {
+      "tag": "luar_konteks",
+      "patterns": [
+        "Apa hobi kamu?",
+        "Berapa umurmu?",
+        "Dimana kamu tinggal?",
+        "Apakah kamu bisa menari?"
+      ],
+      "responses": [
+        "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
+      ]
+    },
+    {
+      "tag": "visi_misi_tujuan_UMMI",
+      "patterns": [
+        "Ceritakan tentang visi UMMI.",
+        "Apa misi dari Universitas Muhammadiyah Sukabumi?",
+        "Apa saja tujuan UMMI?"
+      ],
+      "responses": [
+        "Visi UMMI: Terwujudnya Universitas Muhammadiyah Sukabumi yang unggul dalam keilmuan dan keislaman pada tahun 2022.",
+        "Misi UMMI meliputi penyelenggaraan pendidikan tinggi yang berkualitas, pengembangan IPTEKS melalui penelitian, pengabdian kepada masyarakat, pengembangan Al-Islam dan Kemuhammadiyahan, serta peningkatan kualitas SDM, sarana, dan prasarana.",
+        "Tujuan UMMI adalah terselenggaranya layanan akademik berkualitas, berkembangnya IPTEKS berdasarkan Al-Qur’an dan Sunnah, tersebarluasnya hasil penelitian untuk pengembangan masyarakat, siapnya UMMI menjadi pusat kajian Al-Islam, dan meningkatnya kualitas SDM serta kerja sama."
+      ]
+    },
+    {
+      "tag": "sejarah_muhammadiyah",
+      "patterns": [
+        "Siapa yang mendirikan Muhammadiyah?",
+        "Kapan Muhammadiyah mulai berdiri?",
+        "Apa latar belakang pendirian Muhammadiyah?"
+      ],
+      "responses": [
+        "Muhammadiyah didirikan oleh K.H. Ahmad Dahlan pada 18 November 1912 di Yogyakarta.",
+        "Muhammadiyah adalah Gerakan Islam dan Dakwah Amar Makruf Nahi Munkar yang beraqidah Islam bersumber pada Al-Quran dan Sunnah.",
+        "Tujuan utama Muhammadiyah adalah mencerdaskan masyarakat agar terlepas dari belenggu kebodohan dan kemiskinan."
+      ]
+    },
+    {
+      "tag": "organisasi_UMMI",
+      "patterns": [
+        "Apa saja organisasi mahasiswa di UMMI?",
+        "Bagaimana struktur organisasi di UMMI?",
+        "Apa fungsi dari KM-UMMI?"
+      ],
+      "responses": [
+        "Struktur organisasi UMMI berdasarkan Surat Keputusan Rektor No. 1021/KEP/I.0/A/2020 meliputi Badan Pembina Harian (BPH) dan perangkat penyelenggara lainnya.",
+        "KM-UMMI adalah Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi yang terdiri dari ORMAWA seperti BEM, DPM, dan HIMA.",
+        "ORTOM di UMMI termasuk Ikatan Mahasiswa Muhammadiyah (IMM), Tapak Suci Putera Muhammadiyah, dan Hizbul Wathon (HW)."
+      ]
+    },
+    {
+      "tag": "nilai_nilai_UMMI",
+      "patterns": [
+        "Apa nilai-nilai utama di UMMI?",
+        "Sebutkan nilai-nilai penting di UMMI.",
+        "Bagaimana nilai-nilai tersebut diterapkan di UMMI?"
+      ],
+      "responses": [
+        "Nilai-nilai UMMI meliputi kejujuran, keadilan, tanggung jawab, dan kepedulian sosial.",
+        "UMMI mengimplementasikan nilai-nilai ini dalam setiap aspek kegiatan akademik dan non-akademik.",
+        "Nilai-nilai ini bertujuan untuk membentuk pribadi yang unggul dalam keilmuan dan keislaman."
+      ]
+    },
+     {
+      "tag": "salam",
+      "patterns": [
+        "Hai, bagaimana kabarmu?",
+        "Selamat sore, butuh bantuan?",
+        "Hello, apa yang bisa saya bantu hari ini?",
+        "Selamat malam, ada yang ingin ditanyakan?"
+      ],
+      "responses": [
+        "Hai! Apa yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+    {
+      "tag": "teks_kosong",
+      "patterns": [
+        "",
+        "   ",
+        "\t"
+      ],
+      "responses": [
+        "Sepertinya Anda belum mengetikkan sesuatu. Apa ada informasi akademik atau keuangan yang Anda butuhkan?"
+      ]
+    },
+    {
+      "tag": "luar_konteks",
+      "patterns": [
+        "Apa warna favoritmu?",
+        "Siapa penyanyi favoritmu?",
+        "Apakah kamu suka film?",
+        "Kapan kamu lahir?"
+      ],
+      "responses": [
+        "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
+      ]
+    },
+    {
+      "tag": "visi_misi_tujuan_UMMI",
+      "patterns": [
+        "Visi UMMI apa?",
+        "Bisa jelaskan misi Universitas Muhammadiyah Sukabumi?",
+        "Apa saja tujuan dari UMMI?"
+      ],
+      "responses": [
+        "Visi UMMI adalah menjadi universitas unggul dalam keilmuan dan keislaman pada tahun 2022.",
+        "Misi UMMI mencakup pendidikan tinggi berkualitas, penelitian IPTEKS, pengabdian masyarakat, pengembangan Al-Islam dan Kemuhammadiyahan, serta peningkatan kualitas SDM dan infrastruktur.",
+        "Tujuan UMMI adalah menyediakan layanan akademik berkualitas, mengembangkan IPTEKS berbasis Al-Qur’an dan Sunnah, menyebarluaskan hasil penelitian untuk masyarakat, menjadi pusat kajian Al-Islam, dan meningkatkan kualitas SDM serta kemitraan."
+      ]
+    },
+    {
+      "tag": "sejarah_muhammadiyah",
+      "patterns": [
+        "Muhammadiyah didirikan oleh siapa?",
+        "Kapan berdirinya Muhammadiyah?",
+        "Latar belakang Muhammadiyah bagaimana?"
+      ],
+      "responses": [
+        "Muhammadiyah didirikan oleh K.H. Ahmad Dahlan pada 18 November 1912 di Yogyakarta.",
+        "Muhammadiyah merupakan Gerakan Islam dan Dakwah Amar Makruf Nahi Munkar yang berdasarkan Al-Quran dan Sunnah.",
+        "Tujuan utama Muhammadiyah adalah mencerdaskan masyarakat dan mengentaskan dari kebodohan serta kemiskinan."
+      ]
+    },
+    {
+      "tag": "organisasi_UMMI",
+      "patterns": [
+        "Organisasi mahasiswa apa saja yang ada di UMMI?",
+        "Bagaimana struktur organisasi UMMI?",
+        "Apa peran dari KM-UMMI?"
+      ],
+      "responses": [
+        "Struktur organisasi UMMI berdasarkan Surat Keputusan Rektor No. 1021/KEP/I.0/A/2020 mencakup Badan Pembina Harian (BPH) dan perangkat penyelenggara lainnya.",
+        "KM-UMMI adalah Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi yang terdiri dari ORMAWA seperti BEM, DPM, dan HIMA.",
+        "ORTOM di UMMI meliputi Ikatan Mahasiswa Muhammadiyah (IMM), Tapak Suci Putera Muhammadiyah, dan Hizbul Wathon (HW)."
+      ]
+    },
+    {
+      "tag": "nilai_nilai_UMMI",
+      "patterns": [
+        "Nilai-nilai di UMMI apa saja?",
+        "Sebutkan nilai-nilai penting UMMI.",
+        "Bagaimana penerapan nilai-nilai tersebut di UMMI?"
+      ],
+      "responses": [
+        "Nilai-nilai UMMI meliputi kejujuran, keadilan, tanggung jawab, dan kepedulian sosial.",
+        "UMMI menerapkan nilai-nilai ini dalam semua kegiatan akademik dan non-akademik.",
+        "Nilai-nilai ini bertujuan untuk membentuk individu yang unggul dalam ilmu dan Islam."
+      ]
+    },
+  ]
+}
