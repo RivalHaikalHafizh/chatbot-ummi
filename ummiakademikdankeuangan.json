@@ -102,21 +102,6 @@
   ]
 },
 {
-  "tag": "visi_misi_tujuan_UMMI",
-  "patterns": [
-    "Apa visi dari Universitas Muhammadiyah Sukabumi?",
-    "Sebutkan misi UMMI",
-    "Apa tujuan dari Universitas Muhammadiyah Sukabumi?",
-    "Bagaimana visi UMMI?",
-    "Apa yang menjadi visi, misi, dan tujuan UMMI?"
-  ],
-  "responses": [
-    "Visi UMMI: Terwujudnya Universitas Muhammadiyah Sukabumi yang unggul dalam keilmuan dan keislaman pada tahun 2022.",
-    "Misi UMMI meliputi penyelenggaraan pendidikan tinggi yang berkualitas, pengembangan IPTEKS melalui penelitian, pengabdian kepada masyarakat, pengembangan Al-Islam dan Kemuhammadiyahan, serta peningkatan kualitas SDM, sarana, dan prasarana.",
-    "Tujuan UMMI adalah terselenggaranya layanan akademik berkualitas, berkembangnya IPTEKS berdasarkan Al-Qur’an dan Sunnah, tersebarluasnya hasil penelitian untuk pengembangan masyarakat, siapnya UMMI menjadi pusat kajian Al-Islam, dan meningkatnya kualitas SDM serta kerja sama."
-  ]
-},
-{
   "tag": "nilai_nilai_UMMI",
   "patterns": [
     "Apa saja nilai-nilai yang dipegang oleh UMMI?",
