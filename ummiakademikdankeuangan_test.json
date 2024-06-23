@@ -1,94 +1,169 @@
 {
   "intents": [
-     {
-    "tag": "Akreditasi_UMMI",
-    "patterns": [
-      "Apa status akreditasi UMMI saat ini?",
-      "Bagaimana cara UMMI mendapatkan akreditasi?",
-      "Apa keuntungan akreditasi bagi UMMI?",
-      "Apa saja syarat untuk memperoleh akreditasi?",
-      "Apakah akreditasi UMMI dapat berubah?"
-    ],
-    "responses": [
-      "UMMI memiliki status akreditasi yang diakui secara nasional.",
-      "Proses akreditasi melibatkan penilaian dari badan akreditasi independen.",
-      "Akreditasi meningkatkan reputasi dan kualitas pendidikan di UMMI."
-    ]
-  },
-  {
-    "tag": "Amal_Usaha_Muhammadiyah",
-    "patterns": [
-      "Apa itu Amal Usaha Muhammadiyah?",
-      "Bagaimana kontribusi Amal Usaha Muhammadiyah bagi UMMI?",
-      "Apa saja bentuk Amal Usaha Muhammadiyah?",
-      "Siapa yang dapat berpartisipasi dalam Amal Usaha Muhammadiyah?",
-      "Bagaimana cara mendukung Amal Usaha Muhammadiyah?"
-    ],
-    "responses": [
-      "Amal Usaha Muhammadiyah mencakup berbagai kegiatan sosial dan pendidikan.",
-      "Kontribusi Amal Usaha Muhammadiyah sangat penting bagi pengembangan UMMI.",
-      "Bentuknya meliputi pendirian sekolah, rumah sakit, dan lembaga sosial."
-    ]
-  },
-  {
-    "tag": "Beasiswa_UMMI",
-    "patterns": [
-      "Bagaimana cara mendaftar beasiswa di UMMI?",
-      "Apa saja jenis beasiswa yang tersedia di UMMI?",
-      "Siapa yang berhak mendapatkan beasiswa di UMMI?",
-      "Apa saja persyaratan beasiswa di UMMI?",
-      "Kapan pendaftaran beasiswa dibuka?"
-    ],
-    "responses": [
-      "UMMI menawarkan berbagai jenis beasiswa untuk mahasiswa berprestasi.",
-      "Pendaftaran beasiswa dapat dilakukan secara online melalui situs resmi UMMI.",
-      "Persyaratan beasiswa biasanya mencakup prestasi akademik dan keterbatasan finansial."
-    ]
-  },
-  {
-    "tag": "Cuti_Akademik",
-    "patterns": [
-      "Bagaimana cara mengurus cuti akademik di UMMI?",
-      "Apa syarat untuk mengajukan cuti akademik?",
-      "Berapa lama durasi cuti akademik di UMMI?",
-      "Apa yang harus dilakukan mahasiswa setelah cuti akademik?",
-      "Apakah ada biaya untuk cuti akademik?"
-    ],
-    "responses": [
-      "Mahasiswa yang ingin mengajukan cuti akademik harus memenuhi syarat dan prosedur yang ditetapkan oleh UMMI.",
-      "Durasi cuti akademik biasanya satu semester dengan kemungkinan perpanjangan.",
-      "Setelah cuti, mahasiswa harus mengurus registrasi ulang untuk melanjutkan studi."
-    ]
-  },
-  {
-    "tag": "Drop_Out",
-    "patterns": [
-      "Apa yang dimaksud dengan drop out di UMMI?",
-      "Apa penyebab mahasiswa drop out di UMMI?",
-      "Bagaimana prosedur drop out di UMMI?",
-      "Apakah mahasiswa drop out bisa kembali berkuliah di UMMI?",
-      "Apa dampak dari drop out bagi mahasiswa?"
-    ],
-    "responses": [
-      "Drop out (DO) terjadi ketika mahasiswa tidak dapat melanjutkan studi karena berbagai alasan akademik atau administrasi.",
-      "Penyebab DO dapat meliputi kegagalan akademik, pelanggaran aturan, atau masalah keuangan.",
-      "Mahasiswa yang drop out biasanya tidak dapat kembali melanjutkan studi di UMMI."
-    ]
-  },
-  {
-    "tag": "Evaluasi_Akademik",
-    "patterns": [
-      "Bagaimana sistem evaluasi akademik di UMMI?",
-      "Apa saja metode evaluasi akademik yang digunakan di UMMI?",
-      "Bagaimana cara mahasiswa mengetahui hasil evaluasi akademik?",
-      "Kapan evaluasi akademik dilakukan di UMMI?",
-      "Apakah ada remedial untuk evaluasi akademik di UMMI?"
-    ],
-    "responses": [
-      "Evaluasi akademik di UMMI meliputi ujian, tugas, dan presentasi.",
-      "Hasil evaluasi dapat dilihat melalui portal akademik UMMI.",
-      "Evaluasi dilakukan setiap akhir semester dengan kemungkinan remedial bagi yang tidak lulus."
-    ]
-  }
+    {
+      "tag": "salam",
+      "patterns": [
+        "Halo!",
+        "Hai semuanya",
+        "Hallo",
+        "Selamat pagi semuanya",
+        "Selamat siang teman-teman",
+        "Selamat sore semuanya",
+        "Selamat malam semuanya",
+        "Waalaikumsalam"
+      ],
+      "responses": [
+        "Hai! Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan di Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+    {
+      "tag": "teks_kosong",
+      "patterns": [
+        "  ",
+        "\t\t",
+        "\n\n"
+      ],
+      "responses": [
+        "Sepertinya Anda tidak mengetik apa pun. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan di Universitas Muhammadiyah Sukabumi?"
+      ]
+    },
+    {
+      "tag": "luar_konteks",
+      "patterns": [
+        "Apa kabar?",
+        "Lagi ngapain?",
+        "Kamu siapa?",
+        "Bisa tolong saya?",
+        "Saya butuh bantuan",
+        "Apa makanan kesukaanmu?",
+        "Kamu berasal dari mana?",
+        "Berapa usiamu?",
+        "Ceritakan lelucon",
+        "Bagaimana cuaca?",
+        "Film favoritmu apa?",
+        "Buku apa yang kamu sarankan?",
+        "Apa hobi kamu?",
+        "Punya teman nggak?",
+        "Tinggal dimana?",
+        "Siapa presiden sekarang?",
+        "Ceritakan tentang dirimu",
+        "Kamu robot ya?",
+        "Bisa nyanyi nggak?",
+        "Siapa yang membuatmu?",
+        "Bisa main game?"
+      ],
+      "responses": [
+        "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
+      ]
+    },
+    {
+      "tag": "visi_misi_tujuan_UMMI",
+      "patterns": [
+        "Apa visi Universitas Muhammadiyah Sukabumi?",
+        "Sebutkan misi UMMI",
+        "Apa tujuan Universitas Muhammadiyah Sukabumi?",
+        "Bagaimana visi UMMI?",
+        "Apa visi, misi, dan tujuan UMMI?"
+      ],
+      "responses": [
+        "Visi UMMI: Terwujudnya Universitas Muhammadiyah Sukabumi yang unggul dalam keilmuan dan keislaman pada tahun 2022.",
+        "Misi UMMI meliputi penyelenggaraan pendidikan tinggi yang berkualitas, pengembangan IPTEKS melalui penelitian, pengabdian kepada masyarakat, pengembangan Al-Islam dan Kemuhammadiyahan, serta peningkatan kualitas SDM, sarana, dan prasarana.",
+        "Tujuan UMMI adalah terselenggaranya layanan akademik berkualitas, berkembangnya IPTEKS berdasarkan Al-Qur’an dan Sunnah, tersebarluasnya hasil penelitian untuk pengembangan masyarakat, siapnya UMMI menjadi pusat kajian Al-Islam, dan meningkatnya kualitas SDM serta kerja sama."
+      ]
+    },
+    {
+      "tag": "sejarah_muhammadiyah",
+      "patterns": [
+        "Apa itu Muhammadiyah?",
+        "Bagaimana sejarah Muhammadiyah?",
+        "Siapa yang mendirikan Muhammadiyah?",
+        "Kapan Muhammadiyah didirikan?",
+        "Apa tujuan utama Muhammadiyah?"
+      ],
+      "responses": [
+        "Muhammadiyah didirikan oleh K.H. Ahmad Dahlan pada 18 November 1912 di Yogyakarta.",
+        "Muhammadiyah adalah Gerakan Islam dan Dakwah Amar Makruf Nahi Munkar yang beraqidah Islam bersumber pada Al-Quran dan Sunnah.",
+        "Tujuan utama Muhammadiyah adalah mencerdaskan masyarakat agar terlepas dari belenggu kebodohan dan kemiskinan."
+      ]
+    },
+    {
+      "tag": "organisasi_UMMI",
+      "patterns": [
+        "Bagaimana struktur organisasi UMMI?",
+        "Apa saja perangkat penyelenggara di UMMI?",
+        "Apa itu KM-UMMI?",
+        "Apa saja organisasi kemahasiswaan di UMMI?",
+        "Apa itu ORTOM di UMMI?"
+      ],
+      "responses": [
+        "Struktur organisasi UMMI berdasarkan Surat Keputusan Rektor No. 1021/KEP/I.0/A/2020 meliputi Badan Pembina Harian (BPH) dan perangkat penyelenggara lainnya.",
+        "KM-UMMI adalah Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi yang terdiri dari ORMAWA seperti BEM, DPM, dan HIMA.",
+        "ORTOM di UMMI termasuk Ikatan Mahasiswa Muhammadiyah (IMM), Tapak Suci Putera Muhammadiyah, dan Hizbul Wathon (HW)."
+      ]
+    },
+    {
+      "tag": "nilai_nilai_UMMI",
+      "patterns": [
+        "Apa saja nilai-nilai yang dijunjung oleh UMMI?",
+        "Sebutkan nilai-nilai UMMI",
+        "Apa nilai utama UMMI?",
+        "Bagaimana nilai-nilai UMMI diterapkan?",
+        "Nilai-nilai apa yang penting di UMMI?"
+      ],
+      "responses": [
+        "Nilai-nilai UMMI meliputi kejujuran, keadilan, tanggung jawab, dan kepedulian sosial.",
+        "UMMI mengimplementasikan nilai-nilai ini dalam setiap aspek kegiatan akademik dan non-akademik.",
+        "Nilai-nilai ini bertujuan untuk membentuk pribadi yang unggul dalam keilmuan dan keislaman."
+      ]
+    },
+    {
+      "tag": "kebijakan_catur_darma_PTMA",
+      "patterns": [
+        "Apa itu Catur Darma PTMA?",
+        "Sebutkan kebijakan Catur Darma PTMA",
+        "Bagaimana kebijakan Catur Darma di UMMI?",
+        "Apa fokus Catur Darma PTMA?",
+        "Bagaimana Catur Darma PTMA diterapkan di UMMI?"
+      ],
+      "responses": [
+        "Catur Darma PTMA meliputi pendidikan, penelitian, pengabdian kepada masyarakat, dan pengembangan Al-Islam dan Kemuhammadiyahan.",
+        "UMMI menerapkan kebijakan ini dengan menyelenggarakan pendidikan berkualitas, penelitian inovatif, pengabdian kepada masyarakat, dan pengembangan nilai-nilai Islam.",
+        "Fokus utama adalah pada pengembangan sumber daya manusia yang unggul dalam keilmuan dan keislaman."
+      ]
+    },
+    {
+      "tag": "kurikulum_MBKM",
+      "patterns": [
+        "Apa itu Kurikulum Merdeka Belajar-Kampus Merdeka?",
+        "Bagaimana konsep kurikulum MBKM?",
+        "Apa dasar kurikulum MBKM?",
+        "Seperti apa kurikulum MBKM di UMMI?",
+        "Bagaimana penerapan kurikulum MBKM di UMMI?"
+      ],
+      "responses": [
+        "Kurikulum Merdeka Belajar-Kampus Merdeka (MBKM) di UMMI didasarkan pada Permendikbud No.03 Tahun 2020 tentang SNPT.",
+        "Kurikulum MBKM memungkinkan mahasiswa mengikuti pembelajaran di dalam dan di luar program studi untuk memenuhi beban belajar.",
+        "Program studi di UMMI diharapkan mengarahkan kurikulum berbasis Capaian Pembelajaran (CP) yang ditetapkan SN-Dikti dan KKNI.",
+        "UMMI menerbitkan Pedoman Pengembangan Kurikulum untuk menghasilkan kurikulum berbasis Outcome Based Curriculum (OBC) dan Outcome Based Education (OBE).",
+        "Proses pembelajaran di luar program studi diatur dalam pasal 15 dan pasal 18 Permendikbud No.03 Tahun 2020."
+      ]
+    },
+    {
+      "tag": "jalur_penerimaan_mahasiswa",
+      "patterns": [
+        "Apa saja jalur penerimaan mahasiswa di UMMI?",
+        "Bagaimana cara daftar di UMMI?",
+        "Apa itu Jalur Umum untuk pendaftaran mahasiswa baru di UMMI?",
+        "Apa saja jalur khusus masuk UMMI?",
+        "Bagaimana proses pendaftaran mahasiswa baru di UMMI?"
+      ],
+      "responses": [
+        "UMMI memiliki berbagai jalur penerimaan mahasiswa baru, termasuk Jalur Umum dan Jalur Khusus.",
+        "Jalur Umum mencakup Jalur Reguler, Jalur Transfer/Pindahan, Jalur Rekognisi Pembelajaran Lampau (RPL), Jalur Course, dan Jalur Fastrack.",
+        "Jalur Khusus termasuk Jalur Prestasi dan Jalur Undangan/Beasiswa.",
+        "Jalur Umum mencakup tes akademik dasar dan jalur pindahan dari perguruan tinggi lain dengan akreditasi setara.",
+        "Jalur Khusus dirancang untuk menerima mahasiswa baru yang memiliki prestasi dan potensi unggul di bidang tertentu."
+      ]
+    }
   ]
 }
