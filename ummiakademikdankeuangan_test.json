@@ -3,54 +3,53 @@
     {
       "tag": "salam",
       "patterns": [
-        "Halo!",
-        "Hai semuanya",
-        "Hallo",
-        "Selamat pagi semuanya",
-        "Selamat siang teman-teman",
-        "Selamat sore semuanya",
-        "Selamat malam semuanya",
+        "Hai, apa kabar?",
+        "Halo, selamat pagi!",
+        "Hi, ada yang bisa dibantu?",
+        "Selamat siang, bagaimana kabarnya?",
+        "Selamat sore, ada informasi akademik?",
+        "Selamat malam, bisa bantu saya?",
         "Waalaikumsalam"
       ],
       "responses": [
-        "Hai! Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan di Universitas Muhammadiyah Sukabumi?"
+        "Halo! Ada yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
       ]
     },
     {
       "tag": "teks_kosong",
       "patterns": [
-        "  ",
+        "",
+        "   ",
         "\t\t",
         "\n\n"
       ],
       "responses": [
-        "Sepertinya Anda tidak mengetik apa pun. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan di Universitas Muhammadiyah Sukabumi?"
+        "Sepertinya Anda tidak mengetikkan apa pun. Ada yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
       ]
     },
     {
       "tag": "luar_konteks",
       "patterns": [
-        "Apa kabar?",
-        "Lagi ngapain?",
-        "Kamu siapa?",
-        "Bisa tolong saya?",
-        "Saya butuh bantuan",
-        "Apa makanan kesukaanmu?",
-        "Kamu berasal dari mana?",
-        "Berapa usiamu?",
-        "Ceritakan lelucon",
-        "Bagaimana cuaca?",
-        "Film favoritmu apa?",
-        "Buku apa yang kamu sarankan?",
-        "Apa hobi kamu?",
-        "Punya teman nggak?",
-        "Tinggal dimana?",
-        "Siapa presiden sekarang?",
-        "Ceritakan tentang dirimu",
-        "Kamu robot ya?",
-        "Bisa nyanyi nggak?",
-        "Siapa yang membuatmu?",
-        "Bisa main game?"
+        "Bagaimana hari Anda?",
+        "Apa kegiatan Anda?",
+        "Bisa beri saya informasi?",
+        "Saya perlu bantuan",
+        "Apa makanan favorit Anda?",
+        "Dari mana asal Anda?",
+        "Berapa usia Anda?",
+        "Ceritakan sesuatu yang lucu",
+        "Bagaimana cuaca sekarang?",
+        "Apa film yang bagus?",
+        "Buku apa yang Anda sukai?",
+        "Hobi Anda apa?",
+        "Apakah Anda punya teman?",
+        "Di mana Anda tinggal?",
+        "Siapa presiden saat ini?",
+        "Ceritakan tentang diri Anda",
+        "Apakah Anda AI?",
+        "Apa Anda bisa bernyanyi?",
+        "Siapa yang membuat Anda?",
+        "Anda bisa bermain game?"
       ],
       "responses": [
         "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
@@ -59,11 +58,11 @@
     {
       "tag": "visi_misi_tujuan_UMMI",
       "patterns": [
-        "Apa visi Universitas Muhammadiyah Sukabumi?",
-        "Sebutkan misi UMMI",
-        "Apa tujuan Universitas Muhammadiyah Sukabumi?",
-        "Bagaimana visi UMMI?",
-        "Apa visi, misi, dan tujuan UMMI?"
+        "Bagaimana visi Universitas Muhammadiyah Sukabumi?",
+        "Apa misi dari UMMI?",
+        "Apa saja tujuan UMMI?",
+        "Visi UMMI bagaimana?",
+        "Sebutkan visi, misi, dan tujuan UMMI"
       ],
       "responses": [
         "Visi UMMI: Terwujudnya Universitas Muhammadiyah Sukabumi yang unggul dalam keilmuan dan keislaman pada tahun 2022.",
@@ -74,11 +73,11 @@
     {
       "tag": "sejarah_muhammadiyah",
       "patterns": [
-        "Apa itu Muhammadiyah?",
-        "Bagaimana sejarah Muhammadiyah?",
+        "Apa itu organisasi Muhammadiyah?",
+        "Ceritakan sejarah Muhammadiyah",
         "Siapa yang mendirikan Muhammadiyah?",
-        "Kapan Muhammadiyah didirikan?",
-        "Apa tujuan utama Muhammadiyah?"
+        "Kapan berdirinya Muhammadiyah?",
+        "Apa tujuan Muhammadiyah?"
       ],
       "responses": [
         "Muhammadiyah didirikan oleh K.H. Ahmad Dahlan pada 18 November 1912 di Yogyakarta.",
@@ -89,10 +88,10 @@
     {
       "tag": "organisasi_UMMI",
       "patterns": [
-        "Bagaimana struktur organisasi UMMI?",
-        "Apa saja perangkat penyelenggara di UMMI?",
+        "Bagaimana susunan organisasi UMMI?",
+        "Siapa saja perangkat di UMMI?",
         "Apa itu KM-UMMI?",
-        "Apa saja organisasi kemahasiswaan di UMMI?",
+        "Sebutkan organisasi kemahasiswaan di UMMI",
         "Apa itu ORTOM di UMMI?"
       ],
       "responses": [
@@ -104,11 +103,11 @@
     {
       "tag": "nilai_nilai_UMMI",
       "patterns": [
-        "Apa saja nilai-nilai yang dijunjung oleh UMMI?",
-        "Sebutkan nilai-nilai UMMI",
-        "Apa nilai utama UMMI?",
+        "Apa saja nilai yang dijunjung oleh UMMI?",
+        "Sebutkan nilai-nilai di UMMI",
+        "Apa nilai utama yang dipegang UMMI?",
         "Bagaimana nilai-nilai UMMI diterapkan?",
-        "Nilai-nilai apa yang penting di UMMI?"
+        "Nilai apa yang penting di UMMI?"
       ],
       "responses": [
         "Nilai-nilai UMMI meliputi kejujuran, keadilan, tanggung jawab, dan kepedulian sosial.",
@@ -119,11 +118,11 @@
     {
       "tag": "kebijakan_catur_darma_PTMA",
       "patterns": [
-        "Apa itu Catur Darma PTMA?",
+        "Apa yang dimaksud dengan Catur Darma PTMA?",
         "Sebutkan kebijakan Catur Darma PTMA",
-        "Bagaimana kebijakan Catur Darma di UMMI?",
+        "Bagaimana penerapan Catur Darma di UMMI?",
         "Apa fokus Catur Darma PTMA?",
-        "Bagaimana Catur Darma PTMA diterapkan di UMMI?"
+        "Bagaimana implementasi Catur Darma PTMA di UMMI?"
       ],
       "responses": [
         "Catur Darma PTMA meliputi pendidikan, penelitian, pengabdian kepada masyarakat, dan pengembangan Al-Islam dan Kemuhammadiyahan.",
@@ -134,11 +133,11 @@
     {
       "tag": "kurikulum_MBKM",
       "patterns": [
-        "Apa itu Kurikulum Merdeka Belajar-Kampus Merdeka?",
-        "Bagaimana konsep kurikulum MBKM?",
-        "Apa dasar kurikulum MBKM?",
-        "Seperti apa kurikulum MBKM di UMMI?",
-        "Bagaimana penerapan kurikulum MBKM di UMMI?"
+        "Apa itu Kurikulum Merdeka Belajar-Kampus Merdeka di UMMI?",
+        "Bagaimana konsep kurikulum MBKM diterapkan?",
+        "Dasar dari kurikulum MBKM apa saja?",
+        "Bagaimana kurikulum MBKM di UMMI diterapkan?",
+        "Seperti apa penerapan kurikulum MBKM di UMMI?"
       ],
       "responses": [
         "Kurikulum Merdeka Belajar-Kampus Merdeka (MBKM) di UMMI didasarkan pada Permendikbud No.03 Tahun 2020 tentang SNPT.",
@@ -151,11 +150,11 @@
     {
       "tag": "jalur_penerimaan_mahasiswa",
       "patterns": [
-        "Apa saja jalur penerimaan mahasiswa di UMMI?",
+        "Jalur apa saja untuk penerimaan mahasiswa di UMMI?",
         "Bagaimana cara daftar di UMMI?",
-        "Apa itu Jalur Umum untuk pendaftaran mahasiswa baru di UMMI?",
+        "Apa itu Jalur Umum pendaftaran mahasiswa baru di UMMI?",
         "Apa saja jalur khusus masuk UMMI?",
-        "Bagaimana proses pendaftaran mahasiswa baru di UMMI?"
+        "Bagaimana proses penerimaan mahasiswa baru di UMMI?"
       ],
       "responses": [
         "UMMI memiliki berbagai jalur penerimaan mahasiswa baru, termasuk Jalur Umum dan Jalur Khusus.",
@@ -163,6 +162,222 @@
         "Jalur Khusus termasuk Jalur Prestasi dan Jalur Undangan/Beasiswa.",
         "Jalur Umum mencakup tes akademik dasar dan jalur pindahan dari perguruan tinggi lain dengan akreditasi setara.",
         "Jalur Khusus dirancang untuk menerima mahasiswa baru yang memiliki prestasi dan potensi unggul di bidang tertentu."
+      ]
+    },
+    {
+      "tag": "masa_studi",
+      "patterns": [
+        "Berapa lama program diploma di UMMI?",
+        "Berapa total SKS untuk sarjana di UMMI?",
+        "Program studi apa saja yang tersedia di UMMI?",
+        "Apa ketentuan masa studi di UMMI?",
+        "Durasi studi program pascasarjana di UMMI berapa lama?"
+      ],
+      "responses": [
+        "Program Diploma III di UMMI memerlukan minimal 108 SKS dan dapat diselesaikan dalam maksimal 10 semester atau 5 tahun.",
+        "Program sarjana membutuhkan minimal 144 SKS dan dapat diselesaikan dalam maksimal 14 semester atau 7 tahun.",
+        "Program pascasarjana magister (S2) memerlukan minimal 36 SKS dan masa studi maksimal 8 semester.",
+        "Program pascasarjana doktoral (S3) memerlukan minimal 42 SKS dan masa studi maksimal 10 semester.",
+        "UMMI menawarkan berbagai program studi termasuk program vokasi, sarjana, dan pascasarjana."
+      ]
+    },
+    {
+      "tag": "tugas_akhir",
+      "patterns": [
+        "Apa itu tugas akhir di UMMI?",
+        "Bagaimana prosedur penyelesaian tugas akhir di UMMI?",
+        "Jenis tugas akhir apa saja di UMMI?",
+        "Apa syarat kelulusan mahasiswa di UMMI?",
+        "Standar tugas akhir di UMMI bagaimana?"
+      ],
+      "responses": [
+        "Tugas akhir di UMMI adalah karya tulis ilmiah yang menjadi syarat kelulusan untuk semua jenjang pendidikan.",
+        "Jenis tugas akhir berbeda sesuai jenjang pendidikan: Laporan Tugas Akhir untuk Program Vokasi, Skripsi untuk Program Sarjana, Tesis untuk Program Pascasarjana/Magister (S2), dan Disertasi untuk Program Pascasarjana/Doktoral (S3).",
+        "Penyelesaian tugas akhir harus sesuai standar luaran tugas akhir yang ditetapkan oleh UMMI.",
+        "Tugas akhir di UMMI mencakup berbagai jenis karya tulis ilmiah tergantung jenjang pendidikan mahasiswa.",
+        "Standar tugas akhir di UMMI didasarkan pada Pedoman Penulisan Karya Ilmiah dan Pedoman Tugas Akhir yang ditetapkan oleh UMMI."
+      ]
+    },
+    {
+      "tag": "mata_kuliah_wajib_umum",
+      "patterns": [
+        "Apa itu Mata Kuliah Wajib Umum di UMMI?",
+        "Sebutkan mata kuliah wajib di UMMI",
+        "Bagaimana struktur kurikulum di UMMI?",
+        "Mata kuliah apa yang harus diambil di UMMI?",
+        "Jumlah SKS mata kuliah wajib di UMMI berapa?"
+      ],
+      "responses": [
+        "Mata Kuliah Wajib Umum (MKWU) di UMMI meliputi Aqidah Akhlak, Pendidikan Pancasila, Bahasa Asing, Ibadah Muamalah, Pendidikan Kewarganegaraan, Bahasa Indonesia untuk Penulisan Karya Ilmiah, Kemuhammadiyahan, Kewirausahaan, Islam dan Ilmu Pengetahuan, dan Kuliah Kerja Nyata (KKN).",
+        "Bahasa Asing pada semester I adalah MKWU yang wajib tercantum dalam seluruh kurikulum program studi.",
+        "Program studi dapat menambah pembelajaran bahasa asing lanjutan di semester yang berbeda.",
+        "ESP dilaksanakan selama 2 semester sebagai mata kuliah non kurikulum yang wajib diikuti oleh seluruh mahasiswa UMMI.",
+        "Jumlah SKS MKWU adalah 21 SKS yang tersebar di berbagai semester."
+      ]
+    },
+    {
+      "tag": "Informasi_Kemahasiswaan",
+      "patterns": [
+        "Layanan bimbingan konseling di UMMI bagaimana?",
+        "Apa yang dimaksud dengan PUKAU di UMMI?",
+        "Bagaimana UMMI membantu mahasiswa dalam karir?",
+        "Kegiatan kewirausahaan apa yang ada di UMMI?",
+        "Pembinaan Al-Islam di UMMI seperti apa?"
+      ],
+      "responses": [
+        "UMMI menyediakan layanan bimbingan konseling dengan pendampingan psikolog profesional.",
+        "Pusat Karir dan Alumni UMMI (PUKAU) membantu mahasiswa merancang karir profesional mereka.",
+        "UMMI mengembangkan model kegiatan kewirausahaan, termasuk incubator bisnis dan permodalan."
+      ]
+    },
+    {
+      "tag": "Beasiswa_UMMI",
+      "patterns": [
+        "Jenis beasiswa apa saja yang ada di UMMI?",
+        "Cara mendapatkan Beasiswa PPA bagaimana?",
+        "Apa persyaratan untuk Beasiswa Bidikmisi?",
+        "Proses pendaftaran Beasiswa KIP di UMMI bagaimana?",
+        "Apa yang dimaksud dengan Beasiswa Putera Daerah?"
+      ],
+      "responses": [
+        "UMMI menyediakan berbagai beasiswa seperti PPA, KIP, Bidikmisi, ADIK, Putera Daerah, Kader, dan LazisMu.",
+        "Untuk mendapatkan Beasiswa PPA, mahasiswa harus memenuhi syarat yang ditentukan.",
+        "Beasiswa Bidikmisi ditujukan untuk mahasiswa berprestasi dari keluarga kurang mampu."
+      ]
+    },
+    {
+      "tag": "Organisasi_Mahasiswa",
+      "patterns": [
+        "Apa itu KM-UMMI?",
+        "Apa saja unit kegiatan mahasiswa di UMMI?",
+        "Bagaimana struktur organisasi mahasiswa di UMMI?",
+        "Fungsi ORMAWA di UMMI apa?",
+        "Apa yang dimaksud dengan ORTOM di UMMI?"
+      ],
+      "responses": [
+        "KM-UMMI adalah Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi.",
+        "Unit Kegiatan Mahasiswa (UKM) fokus pada pengembangan hardskill, softskill, dan leadership.",
+        "ORMAWA di UMMI memiliki struktur dari tingkat universitas, fakultas, hingga program studi."
+      ]
+    },
+    {
+      "tag": "Kegiatan_Ekstrakurikuler",
+      "patterns": [
+        "Apa kegiatan ekstrakurikuler yang ada di UMMI?",
+        "Cara bergabung dengan UKM di UMMI bagaimana?",
+        "Manfaat mengikuti kegiatan ekstrakurikuler di UMMI apa?",
+        "Apa itu Hizbul Wathon di UMMI?",
+        "Pengembangan softskill di UMMI bagaimana?"
+      ],
+      "responses": [
+        "UMMI menyediakan berbagai kegiatan ekstrakurikuler seperti seni budaya, olahraga, kegiatan ilmiah, dan jurnalistik.",
+        "Mahasiswa dapat bergabung dengan Unit Kegiatan Mahasiswa (UKM) sesuai minat mereka.",
+        "Kegiatan ekstrakurikuler membantu pengembangan softskill dan prestasi mahasiswa."
+      ]
+    },
+    {
+      "tag": "Fasilitas_UMMI",
+      "patterns": [
+        "Fasilitas apa saja yang tersedia di UMMI?",
+        "Kondisi perpustakaan UMMI seperti apa?",
+        "Fasilitas laboratorium di UMMI apa saja?",
+        "Apakah UMMI menyediakan fasilitas untuk disabilitas?",
+        "Layanan kesehatan di UMMI bagaimana?"
+      ],
+      "responses": [
+        "UMMI menyediakan fasilitas seperti perpustakaan, laboratorium, dan layanan kesehatan.",
+        "Perpustakaan UMMI dilengkapi dengan berbagai sumber referensi untuk mendukung pembelajaran.",
+        "Laboratorium UMMI dirancang untuk mendukung kegiatan praktikum mahasiswa."
+      ]
+    },
+    {
+      "tag": "Pusat_Karir_dan_Alumni_UMMI",
+      "patterns": [
+        "Apa fungsi PUKAU di UMMI?",
+        "Bagaimana PUKAU membantu mahasiswa?",
+        "Layanan apa yang disediakan oleh Pusat Karir UMMI?",
+        "Bagaimana PUKAU membantu pengembangan softskill?",
+        "Apa itu PUKAU di UMMI?"
+      ],
+      "responses": [
+        "Pusat Karir dan Alumni UMMI (PUKAU) membantu mahasiswa merancang karir profesional dengan menyediakan informasi karir dan pelatihan keterampilan.",
+        "PUKAU menyediakan pelatihan hardskill dan softskill untuk mendukung profesionalisme mahasiswa.",
+        "Mahasiswa dapat menggunakan layanan PUKAU untuk mempersiapkan diri menghadapi dunia kerja melalui berbagai pelatihan dan kegiatan."
+      ]
+    },
+    {
+      "tag": "Pelayanan_Bimbingan_dan_Konseling_UMMI",
+      "patterns": [
+        "Bagaimana layanan bimbingan konseling di UMMI?",
+        "Apa yang dilakukan oleh Unit Bimbingan Konseling UMMI?",
+        "Bagaimana cara mengakses layanan konseling di UMMI?",
+        "Siapa yang bisa mendapatkan layanan konseling di UMMI?",
+        "Apa manfaat layanan konseling di UMMI?"
+      ],
+      "responses": [
+        "Unit Bimbingan Konseling UMMI menyediakan layanan untuk membantu mahasiswa mengatasi kendala pribadi, keluarga, dan akademik.",
+        "Mahasiswa dapat memanfaatkan layanan konseling dengan pendampingan psikolog profesional.",
+        "Layanan konseling di UMMI membantu mengatasi hambatan yang dapat mempengaruhi perkembangan diri mahasiswa."
+      ]
+    },
+    {
+      "tag": "Pendidikan_Karakter_di_UMMI",
+      "patterns": [
+        "Apa itu pendidikan karakter di UMMI?",
+        "Bagaimana UMMI mengimplementasikan pendidikan karakter?",
+        "Apa tujuan pendidikan karakter di UMMI?",
+        "Bagaimana pendidikan karakter mendukung pengembangan mahasiswa?",
+        "Apa manfaat pendidikan karakter di UMMI?"
+      ],
+      "responses": [
+        "Pendidikan karakter di UMMI bertujuan untuk membentuk mahasiswa yang berintegritas dan memiliki moral yang baik.",
+        "UMMI mengimplementasikan pendidikan karakter melalui kegiatan pembinaan dan program-program yang mendukung pengembangan diri.",
+        "Pendidikan karakter membantu mahasiswa mengembangkan sikap kritis, inovatif, dan kreatif."
+      ]
+    },
+    {
+      "tag": "Kegiatan_Penelitian_di_UMMI",
+      "patterns": [
+        "Kegiatan penelitian apa saja yang ada di UMMI?",
+        "Bagaimana UMMI mendukung penelitian mahasiswa?",
+        "Apa tujuan penelitian di UMMI?",
+        "Bagaimana cara mahasiswa berpartisipasi dalam penelitian di UMMI?",
+        "Apa manfaat penelitian bagi mahasiswa UMMI?"
+      ],
+      "responses": [
+        "UMMI mendukung kegiatan penelitian mahasiswa melalui berbagai program dan fasilitas penelitian.",
+        "Penelitian di UMMI bertujuan untuk mengembangkan pengetahuan dan keterampilan mahasiswa dalam bidang akademik.",
+        "Mahasiswa dapat berpartisipasi dalam penelitian dengan bimbingan dosen dan fasilitas laboratorium yang tersedia."
+      ]
+    },
+    {
+      "tag": "Pengabdian_kepada_Masyarakat_UMMI",
+      "patterns": [
+        "Apa itu program pengabdian kepada masyarakat di UMMI?",
+        "Bagaimana UMMI melaksanakan pengabdian kepada masyarakat?",
+        "Apa manfaat pengabdian kepada masyarakat bagi mahasiswa?",
+        "Bagaimana cara mahasiswa berpartisipasi dalam program pengabdian di UMMI?",
+        "Apa tujuan pengabdian kepada masyarakat di UMMI?"
+      ],
+      "responses": [
+        "Program pengabdian kepada masyarakat di UMMI bertujuan untuk menerapkan ilmu pengetahuan dan keterampilan mahasiswa dalam kehidupan masyarakat.",
+        "UMMI melaksanakan pengabdian kepada masyarakat melalui berbagai kegiatan yang melibatkan mahasiswa dan dosen.",
+        "Pengabdian kepada masyarakat memberikan pengalaman praktis dan kontribusi nyata bagi pengembangan masyarakat."
+      ]
+    },
+    {
+      "tag": "Kerjasama_UMMI",
+      "patterns": [
+        "Apa bentuk kerjasama UMMI dengan institusi lain?",
+        "Bagaimana kerjasama internasional di UMMI?",
+        "Apa manfaat kerjasama bagi mahasiswa UMMI?",
+        "Bagaimana UMMI mengembangkan kerjasama dengan industri?",
+        "Apa program kerjasama UMMI yang mendukung akademik?"
+      ],
+      "responses": [
+        "UMMI menjalin kerjasama dengan berbagai institusi dalam dan luar negeri untuk mendukung pengembangan akademik dan profesional mahasiswa.",
+        "Kerjasama internasional di UMMI membuka peluang bagi mahasiswa untuk mengikuti program pertukaran pelajar dan penelitian.",
+        "Kerjasama dengan industri membantu mahasiswa mendapatkan pengalaman praktis dan jaringan profesional."
       ]
     }
   ]
