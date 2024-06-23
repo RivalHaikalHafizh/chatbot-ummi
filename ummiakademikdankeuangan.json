@@ -1102,19 +1102,6 @@
   ]
 },
 {
-  "tag": "Semester_Antara",
-  "patterns": [
-    "Apa itu semester antara di UMMI?",
-    "Bagaimana pelaksanaan semester antara di UMMI?",
-    "Apa saja ketentuan semester antara di UMMI?",
-    "Jelaskan tentang semester antara di UMMI.",
-    "Apa saja syarat mengikuti semester antara di UMMI?"
-  ],
-  "responses": [
-    "Semester antara di UMMI adalah periode perkuliahan di antara semester gasal dan genap. Mahasiswa dengan IPK minimal 3,00 atau yang terkena perubahan kurikulum dapat mengikuti semester antara. Biaya dihitung berdasarkan jumlah SKS yang diambil."
-  ]
-},
-{
   "tag": "Layanan_Laboratorium",
   "patterns": [
     "Apa saja laboratorium yang tersedia di UMMI?",
