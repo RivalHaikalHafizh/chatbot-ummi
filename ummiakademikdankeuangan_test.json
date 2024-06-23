@@ -853,7 +853,10 @@
         "Apakah UMMI telah diakreditasi oleh BAN-PT?",
         "Bagaimana dengan akreditasi program studi di UMMI?",
         "Status akreditasi UMMI saat ini?"
-      ]
+      ],
+      "responses": [
+        "UMMI telah mendapatkan akreditasi institusi BAN-PT dengan peringkat B.",
+        "Sebagian besar program studi di UMMI telah diakreditasi oleh BAN-PT dengan peringkat yang baik."]
     },
     {
       "tag": "Kemitraan_UMMI",
@@ -863,6 +866,11 @@
         "Bagaimana dengan program kerjasama UMMI?",
         "Kemitraan akademik UMMI di bidang apa?",
         "Program kerjasama UMMI dengan perusahaan?"
+      ],
+      "responses": [
+        "UMMI menjalin kerjasama dengan berbagai institusi dalam dan luar negeri untuk meningkatkan kualitas pendidikan dan penelitian.",
+        "Kemitraan UMMI meliputi pertukaran mahasiswa, dosen, penelitian bersama, dan program akademik lainnya.",
+        "UMMI juga menjalin kerjasama dengan perusahaan dan industri untuk mendukung pengembangan kurikulum dan penelitian terapan."
       ]
     },
     {
@@ -873,6 +881,9 @@
         "Sebutkan program pascasarjana yang ditawarkan UMMI.",
         "Informasi tentang pendidikan S2 di UMMI?",
         "Program studi magister yang tersedia di UMMI?"
+      ],      
+      "responses": [
+        ""
       ]
     },
     {
@@ -883,6 +894,9 @@
         "Jalur pendaftaran apa yang sedang dibuka di UMMI?",
         "Proses pendaftaran mahasiswa baru di UMMI saat ini?",
         "Dokumen apa yang perlu disiapkan untuk mendaftar di UMMI?"
+      ],
+      "responses": [
+        ""
       ]
     },
     {
@@ -893,6 +907,9 @@
         "Apa langkah-langkah registrasi mahasiswa di UMMI saat ini?",
         "Bagaimana registrasi mahasiswa lama di UMMI?",
         "Apakah ada biaya yang harus dibayar saat registrasi mahasiswa?"
+      ],
+      "responses": [
+        ""
       ]
     },
     {
@@ -903,6 +920,9 @@
         "Bagaimana susunan kalender akademik UMMI?",
         "Apa fungsi utama kalender akademik UMMI?",
         "Apakah kalender akademik UMMI mencakup kegiatan non-akademik?"
+      ],
+      "responses": [
+        ""
       ]
     },
     {
@@ -913,6 +933,9 @@
         "Bagaimana pelaksanaan ujian di UMMI saat ini?",
         "Apakah ada sesi remedial di UMMI?",
         "Bagaimana penilaian dilakukan di UMMI saat ini?"
+      ],
+      "responses": [
+        ""
       ]
     },
     {
@@ -923,6 +946,9 @@
         "Apa syarat untuk mengikuti semester antara di UMMI?",
         "Apakah ada biaya yang harus dibayar untuk mengikuti semester antara di UMMI?",
         "Siapa saja yang boleh mengikuti semester antara di UMMI?"
+      ],
+      "responses": [
+        ""
       ]
     },
     {
@@ -933,6 +959,9 @@
         "Apa itu evaluasi berbasis komputer di UMMI?",
         "Bagaimana proses evaluasi hasil belajar di UMMI dilakukan?",
         "Kapan jadwal evaluasi hasil belajar di UMMI?"
+      ],
+      "responses": [
+        ""
       ]
     },
     {
@@ -943,6 +972,9 @@
         "Bagaimana bobot nilai dihitung di UMMI?",
         "Bagaimana cara mendapatkan transkrip nilai di UMMI?",
         "Apa aturan yang berlaku untuk nilai dalam transkrip di UMMI?"
+      ],
+      "responses": [
+        ""
       ]
     }
   ]
