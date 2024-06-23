@@ -863,21 +863,6 @@
   ]
 },
 {
-  "tag": "Kegiatan_Akademik",
-  "patterns": [
-    "Kegiatan akademik di UMMI",
-    "Apa saja kegiatan akademik di Universitas Muhammadiyah Sukabumi?",
-    "Aktivitas akademik UMMI",
-    "Rencana kegiatan akademik UMMI",
-    "Kegiatan belajar mengajar di UMMI"
-  ],
-  "responses": [
-    "Kegiatan akademik di UMMI meliputi perkuliahan, praktikum, penelitian, dan berbagai program pengembangan diri serta kompetisi akademik.",
-    "UMMI juga menyelenggarakan seminar, workshop, dan konferensi untuk meningkatkan wawasan dan keterampilan mahasiswa.",
-    "Untuk jadwal dan detail lebih lanjut mengenai kegiatan akademik, silakan merujuk pada kalender akademik UMMI atau menghubungi bagian akademik."
-  ]
-},
-{
   "tag": "Kemitraan_UMMI",
   "patterns": [
     "Kemitraan UMMI dengan institusi lain",
@@ -1466,6 +1451,176 @@
   ],
   "responses": [
     "Kriteria lulusan terbaik di UMMI ditentukan melalui kriteria akademik dan non-akademik. Kriteria akademik meliputi IPK minimal 3,51 untuk DIII/S1 dan 3,75 untuk Pascasarjana, predikat kelulusan pujian tanpa mengulang mata kuliah, dan masa studi yang sesuai. Kriteria non-akademik meliputi prestasi nasional/internasional dan kepemimpinan yang diakui."
+  ]
+},
+{
+  "tag": "Layanan_Mahasiswa",
+  "patterns": [
+    "Layanan apa saja yang tersedia untuk mahasiswa UMMI?",
+    "Bagaimana cara mengakses layanan kesehatan di UMMI?",
+    "Apakah UMMI memiliki pusat karir?",
+    "Layanan perpustakaan apa saja yang tersedia di UMMI?",
+    "Bagaimana cara mendapatkan layanan konseling di UMMI?"
+  ],
+  "responses": [
+    "UMMI menyediakan berbagai layanan untuk mahasiswa, termasuk layanan kesehatan, layanan perpustakaan, pusat karir, dan layanan konseling.",
+    "Untuk mengakses layanan kesehatan di UMMI, mahasiswa dapat mengunjungi klinik kesehatan yang ada di kampus atau menghubungi petugas layanan kesehatan melalui telepon.",
+    "UMMI memiliki pusat karir yang membantu mahasiswa dalam persiapan memasuki dunia kerja, termasuk layanan bimbingan karir dan informasi lowongan pekerjaan.",
+    "Layanan perpustakaan di UMMI mencakup peminjaman buku, akses jurnal online, ruang baca, dan layanan bantuan penelitian.",
+    "Untuk mendapatkan layanan konseling di UMMI, mahasiswa dapat membuat janji dengan konselor di pusat layanan konseling atau melalui sistem pendaftaran online."
+  ]
+},
+{
+  "tag": "Kegiatan_Akademik",
+  "patterns": [
+    "Apa saja kegiatan akademik di UMMI?",
+    "Bagaimana sistem evaluasi akademik di UMMI?",
+    "Kapan jadwal akademik UMMI?",
+    "Apakah UMMI memiliki program magang?",
+    "Bagaimana proses evaluasi pembelajaran di UMMI?"
+  ],
+  "responses": [
+    "Kegiatan akademik di UMMI mencakup perkuliahan, seminar, workshop, penelitian, dan pengabdian kepada masyarakat.",
+    "Sistem evaluasi akademik di UMMI dilakukan melalui ujian tengah semester, ujian akhir semester, tugas, dan proyek.",
+    "Jadwal akademik UMMI tersedia di kalender akademik yang diterbitkan setiap tahun akademik dan dapat diakses di situs web resmi UMMI.",
+    "UMMI memiliki program magang yang wajib diikuti oleh mahasiswa untuk mendapatkan pengalaman kerja praktis di bidang studi mereka.",
+    "Proses evaluasi pembelajaran di UMMI dilakukan secara berkelanjutan melalui berbagai metode seperti tes, observasi, dan penilaian proyek."
+  ]
+},
+{
+  "tag": "Layanan_Teknologi",
+  "patterns": [
+    "Apa saja layanan teknologi yang tersedia di UMMI?",
+    "Bagaimana cara mengakses fasilitas IT di UMMI?",
+    "Apakah UMMI memiliki layanan Wi-Fi untuk mahasiswa?",
+    "Apa itu Pusat Komputer di UMMI?",
+    "Bagaimana cara mendapatkan bantuan teknis di UMMI?"
+  ],
+  "responses": [
+    "UMMI menyediakan berbagai layanan teknologi, termasuk layanan Wi-Fi, pusat komputer, dan akses ke perangkat lunak akademik.",
+    "Untuk mengakses fasilitas IT di UMMI, mahasiswa dapat mengunjungi pusat komputer atau menghubungi petugas IT untuk bantuan.",
+    "UMMI menyediakan layanan Wi-Fi yang dapat diakses oleh seluruh mahasiswa dan staf di seluruh area kampus.",
+    "Pusat Komputer di UMMI adalah fasilitas yang menyediakan akses komputer, internet, dan perangkat lunak untuk keperluan akademik mahasiswa.",
+    "Untuk mendapatkan bantuan teknis di UMMI, mahasiswa dapat menghubungi layanan bantuan IT melalui email atau nomor telepon yang tersedia."
+  ]
+},
+{
+  "tag": "Integrasi_Pendidikan",
+  "patterns": [
+    "Apa yang dimaksud dengan integrasi pendidikan di Muhammadiyah?",
+    "Bagaimana sistem pendidikan modern di Muhammadiyah?",
+    "Apa prinsip pendidikan di Muhammadiyah?",
+    "Bagaimana Muhammadiyah mengintegrasikan pendidikan agama dan IPTEKS?",
+    "Apa tujuan integrasi pendidikan di Muhammadiyah?"
+  ],
+  "responses": [
+    "Integrasi pendidikan di Muhammadiyah adalah penggabungan prinsip pendidikan Barat yang fokus pada IPTEKS umum dengan pendidikan keagamaan dalam bentuk pesantren.",
+    "Sistem pendidikan modern di Muhammadiyah dirintis oleh K.H. Ahmad Dahlan dengan menggabungkan ilmu agama dan IPTEKS agar saling mengisi, menguatkan, dan melengkapi.",
+    "Prinsip pendidikan di Muhammadiyah adalah pendidikan yang holistik di mana ilmu agama dan IPTEKS digabungkan untuk meningkatkan ketakwaan pribadi kepada Allah SWT dan memberikan manfaat kepada keluarga, masyarakat, dan ummat.",
+    "Muhammadiyah mengintegrasikan pendidikan agama dan IPTEKS dengan tujuan menciptakan lulusan yang paham ilmu agama dan IPTEKS serta dapat memanfaatkannya untuk kebaikan bersama.",
+    "Tujuan integrasi pendidikan di Muhammadiyah adalah untuk menghasilkan pribadi yang paham ilmu agama dan IPTEKS serta dapat meningkatkan ketakwaan dan memberikan manfaat untuk ummat."
+  ]
+},
+{
+  "tag": "Universitas_Muhammadiyah_Sukabumi",
+  "patterns": [
+    "Apa itu Universitas Muhammadiyah Sukabumi?",
+    "Kapan Universitas Muhammadiyah Sukabumi didirikan?",
+    "Siapa yang menginisiasi berdirinya Universitas Muhammadiyah Sukabumi?",
+    "Apa filosofi pendidikan di Universitas Muhammadiyah Sukabumi?",
+    "Bagaimana perjalanan berdirinya Universitas Muhammadiyah Sukabumi?"
+  ],
+  "responses": [
+    "Universitas Muhammadiyah Sukabumi (UMMI) adalah salah satu amal usaha Muhammadiyah di bidang pendidikan tinggi yang berlokasi di Sukabumi.",
+    "Universitas Muhammadiyah Sukabumi didirikan sebagai hasil inisiasi dari Pimpinan Daerah Muhammadiyah (PDM) Sukabumi sejak tahun 1996.",
+    "Berdirinya Universitas Muhammadiyah Sukabumi diinisiasi oleh PDM Sukabumi melalui amanat Musyawarah Daerah PDM Sukabumi.",
+    "Filosofi pendidikan di Universitas Muhammadiyah Sukabumi adalah mengembangkan keilmuan dan keislaman yang holistik untuk menghasilkan pribadi yang bermanfaat bagi ummat.",
+    "Perjalanan berdirinya Universitas Muhammadiyah Sukabumi dimulai dari inisiasi PDM Sukabumi yang ingin mendirikan amal usaha berupa Universitas, Pesantren, dan Rumah Sakit di Sukabumi."
+  ]
+},
+{
+  "tag": "Amal_Usaha_Muhammadiyah",
+  "patterns": [
+    "Apa saja amal usaha Muhammadiyah di Sukabumi?",
+    "Bagaimana Muhammadiyah mengembangkan amal usaha di bidang pendidikan?",
+    "Apa tujuan amal usaha Muhammadiyah?",
+    "Apakah Muhammadiyah memiliki amal usaha di bidang kesehatan?",
+    "Apa kontribusi amal usaha Muhammadiyah bagi masyarakat?"
+  ],
+  "responses": [
+    "Amal usaha Muhammadiyah di Sukabumi mencakup Universitas, Pesantren, dan Rumah Sakit.",
+    "Muhammadiyah mengembangkan amal usaha di bidang pendidikan dengan mendirikan lembaga pendidikan modern yang mengintegrasikan prinsip pendidikan Barat dan pendidikan agama.",
+    "Tujuan amal usaha Muhammadiyah adalah untuk mencerdaskan masyarakat dan memberikan layanan yang bermanfaat dalam bidang pendidikan, kesehatan, dan sosial.",
+    "Ya, Muhammadiyah memiliki amal usaha di bidang kesehatan, termasuk pendirian rumah sakit.",
+    "Kontribusi amal usaha Muhammadiyah bagi masyarakat adalah menyediakan layanan pendidikan, kesehatan, dan sosial yang berkualitas dan dapat diakses oleh semua kalangan."
+  ]
+},
+{
+  "tag": "Falsafah_Pendidikan",
+  "patterns": [
+    "Apa falsafah pendidikan tinggi Muhammadiyah?",
+    "Bagaimana falsafah pendidikan di UMMI?",
+    "Apa prinsip dasar pendidikan Muhammadiyah?",
+    "Bagaimana pendidikan Muhammadiyah berbeda dari yang lain?",
+    "Apa tujuan utama pendidikan di Muhammadiyah?"
+  ],
+  "responses": [
+    "Falsafah pendidikan tinggi Muhammadiyah adalah mengembangkan keilmuan dan keislaman secara holistik untuk menciptakan pribadi yang bermanfaat bagi ummat.",
+    "Falsafah pendidikan di UMMI adalah menggabungkan ilmu agama dan IPTEKS untuk menghasilkan lulusan yang berilmu dan bertakwa.",
+    "Prinsip dasar pendidikan Muhammadiyah adalah integrasi antara pendidikan agama dan ilmu pengetahuan umum untuk menciptakan pendidikan yang holistik.",
+    "Pendidikan Muhammadiyah berbeda karena menggabungkan prinsip pendidikan Barat dan pendidikan agama, sehingga menciptakan pendidikan yang menyeluruh.",
+    "Tujuan utama pendidikan di Muhammadiyah adalah mencerdaskan kehidupan bangsa dengan mengembangkan keilmuan dan keislaman yang dapat memberikan manfaat bagi masyarakat luas."
+  ]
+},
+{
+  "tag": "Pengembangan_Kampus",
+  "patterns": [
+    "Bagaimana pengembangan kampus UMMI?",
+    "Apa saja fasilitas yang dikembangkan di UMMI?",
+    "Bagaimana UMMI meningkatkan kualitas pendidikannya?",
+    "Apa rencana pengembangan UMMI ke depan?",
+    "Bagaimana UMMI berinovasi dalam pendidikan?"
+  ],
+  "responses": [
+    "Pengembangan kampus UMMI dilakukan dengan membangun fasilitas modern dan meningkatkan kualitas pendidikan melalui berbagai program dan inovasi.",
+    "Fasilitas yang dikembangkan di UMMI termasuk gedung perkuliahan modern, laboratorium, perpustakaan, fasilitas olahraga, dan pusat komputer.",
+    "UMMI meningkatkan kualitas pendidikannya dengan mengintegrasikan teknologi dalam pembelajaran, memperbarui kurikulum, dan meningkatkan kompetensi dosen.",
+    "Rencana pengembangan UMMI ke depan mencakup perluasan kampus, peningkatan fasilitas, dan pengembangan program studi baru yang relevan dengan kebutuhan industri.",
+    "UMMI berinovasi dalam pendidikan dengan mengadopsi metode pembelajaran berbasis teknologi, mengembangkan program magang, dan menjalin kerjasama dengan industri."
+  ]
+},
+{
+  "tag": "Tujuan_Pendidikan",
+  "patterns": [
+    "Apa tujuan pendidikan di Universitas Muhammadiyah Sukabumi?",
+    "Bagaimana tujuan pembangunan masyarakat di UMMI?",
+    "Apa fokus utama pendidikan di UMMI?",
+    "Apa yang ingin dicapai oleh pendidikan di UMMI?",
+    "Apa saja tujuan utama pendidikan di UMMI?"
+  ],
+  "responses": [
+    "Tujuan pendidikan di Universitas Muhammadiyah Sukabumi adalah membangun masyarakat dalam segala aspek kehidupan.",
+    "Tujuan pembangunan masyarakat di UMMI adalah membangun masyarakat Islami yang sebenarnya dan mengembangkan nilai-nilai kearifan lokal dalam bidang teknologi, pertanian, pendidikan, ekonomi, dan budaya lokal.",
+    "Fokus utama pendidikan di UMMI adalah pada pembangunan sumber daya manusia yang berilmu, beramal, dan bertakwa kepada Allah SWT.",
+    "Pendidikan di UMMI ingin mencapai tingkat global dengan mengembangkan nilai-nilai kearifan lokal dan menghasilkan lulusan yang mampu berkontribusi dalam masyarakat.",
+    "Tujuan utama pendidikan di UMMI adalah membangun masyarakat yang cerdas, Islami, dan berkontribusi positif dalam segala aspek kehidupan."
+  ]
+},
+{
+  "tag": "Lokasi_Kampus",
+  "patterns": [
+    "Di mana lokasi kampus Universitas Muhammadiyah Sukabumi?",
+    "Alamat kampus UMMI di mana?",
+    "Bagaimana cara menuju ke kampus UMMI?",
+    "Apa alamat lengkap Universitas Muhammadiyah Sukabumi?",
+    "Di mana UMMI beroperasi?"
+  ],
+  "responses": [
+    "Lokasi kampus Universitas Muhammadiyah Sukabumi berada di Jalan R. Syamsudin, S.H. No.50 Sukabumi.",
+    "Alamat kampus UMMI adalah Jalan R. Syamsudin, S.H. No.50 Sukabumi.",
+    "Cara menuju ke kampus UMMI adalah dengan menuju ke Jalan R. Syamsudin, S.H. No.50 Sukabumi.",
+    "Alamat lengkap Universitas Muhammadiyah Sukabumi adalah Jalan R. Syamsudin, S.H. No.50 Sukabumi.",
+    "UMMI beroperasi di Jalan R. Syamsudin, S.H. No.50 Sukabumi."
   ]
 }
   ]
