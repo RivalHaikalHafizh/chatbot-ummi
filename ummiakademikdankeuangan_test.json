@@ -1,194 +1,94 @@
 {
   "intents": [
-    {
-      "tag": "Akreditasi_UMMI",
-      "patterns": [
-        "Apa status akreditasi UMMI saat ini?",
-        "Bagaimana cara UMMI mendapatkan akreditasi?",
-        "Apa keuntungan akreditasi bagi UMMI?",
-        "Apa saja syarat untuk memperoleh akreditasi?",
-        "Apakah akreditasi UMMI dapat berubah?"
-      ],
-      "responses": [
-        "UMMI memiliki status akreditasi yang diakui secara nasional.",
-        "Proses akreditasi melibatkan penilaian dari badan akreditasi independen.",
-        "Akreditasi meningkatkan reputasi dan kualitas pendidikan di UMMI."
-      ]
-    },
-    {
-      "tag": "Amal_Usaha_Muhammadiyah",
-      "patterns": [
-        "Apa itu Amal Usaha Muhammadiyah?",
-        "Bagaimana kontribusi Amal Usaha Muhammadiyah bagi UMMI?",
-        "Apa saja bentuk Amal Usaha Muhammadiyah?",
-        "Siapa yang dapat berpartisipasi dalam Amal Usaha Muhammadiyah?",
-        "Bagaimana cara mendukung Amal Usaha Muhammadiyah?"
-      ],
-      "responses": [
-        "Amal Usaha Muhammadiyah mencakup berbagai kegiatan sosial dan pendidikan.",
-        "Kontribusi Amal Usaha Muhammadiyah sangat penting bagi pengembangan UMMI.",
-        "Bentuknya meliputi pendirian sekolah, rumah sakit, dan lembaga sosial."
-      ]
-    },
-    {
-      "tag": "Beasiswa_UMMI",
-      "patterns": [
-        "Bagaimana cara mendaftar beasiswa di UMMI?",
-        "Apa saja jenis beasiswa yang tersedia di UMMI?",
-        "Siapa yang berhak mendapatkan beasiswa di UMMI?",
-        "Apa saja persyaratan beasiswa di UMMI?",
-        "Kapan pendaftaran beasiswa dibuka?"
-      ],
-      "responses": [
-        "UMMI menawarkan berbagai jenis beasiswa untuk mahasiswa berprestasi.",
-        "Pendaftaran beasiswa dapat dilakukan secara online melalui situs resmi UMMI.",
-        "Persyaratan beasiswa biasanya mencakup prestasi akademik dan keterbatasan finansial."
-      ]
-    },
-    {
-      "tag": "Cuti_Akademik",
-      "patterns": [
-        "Bagaimana cara mengurus cuti akademik di UMMI?",
-        "Apa syarat untuk mengajukan cuti akademik?",
-        "Berapa lama durasi cuti akademik di UMMI?",
-        "Apa yang harus dilakukan mahasiswa setelah cuti akademik?",
-        "Apakah ada biaya untuk cuti akademik?"
-      ],
-      "responses": [
-        "Mahasiswa yang ingin mengajukan cuti akademik harus memenuhi syarat dan prosedur yang ditetapkan oleh UMMI.",
-        "Durasi cuti akademik biasanya satu semester dengan kemungkinan perpanjangan.",
-        "Setelah cuti, mahasiswa harus mengurus registrasi ulang untuk melanjutkan studi."
-      ]
-    },
-    {
-      "tag": "Drop_Out",
-      "patterns": [
-        "Apa yang dimaksud dengan drop out di UMMI?",
-        "Apa penyebab mahasiswa drop out di UMMI?",
-        "Bagaimana prosedur drop out di UMMI?",
-        "Apakah mahasiswa drop out bisa kembali berkuliah di UMMI?",
-        "Apa dampak dari drop out bagi mahasiswa?"
-      ],
-      "responses": [
-        "Drop out (DO) terjadi ketika mahasiswa tidak dapat melanjutkan studi karena berbagai alasan akademik atau administrasi.",
-        "Penyebab DO dapat meliputi kegagalan akademik, pelanggaran aturan, atau masalah keuangan.",
-        "Mahasiswa yang drop out biasanya tidak dapat kembali melanjutkan studi di UMMI."
-      ]
-    },
-    {
-      "tag": "Evaluasi_Akademik",
-      "patterns": [
-        "Bagaimana sistem evaluasi akademik di UMMI?",
-        "Apa saja metode evaluasi akademik yang digunakan di UMMI?",
-        "Bagaimana cara mahasiswa mengetahui hasil evaluasi akademik?",
-        "Kapan evaluasi akademik dilakukan di UMMI?",
-        "Apakah ada remedial untuk evaluasi akademik di UMMI?"
-      ],
-      "responses": [
-        "Evaluasi akademik di UMMI meliputi ujian, tugas, dan presentasi.",
-        "Hasil evaluasi dapat dilihat melalui portal akademik UMMI.",
-        "Evaluasi dilakukan setiap akhir semester dengan kemungkinan remedial bagi yang tidak lulus."
-      ]
-    },
-    {
-      "tag": "Akreditasi_UMMI",
-      "patterns": [
-          "Kapan terakhir kali UMMI terakreditasi?",
-          "Apa manfaat akreditasi bagi UMMI?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Amal_Usaha_Muhammadiyah",
-      "patterns": [
-          "Siapa yang mengelola amal usaha Muhammadiyah?",
-          "Bagaimana amal usaha Muhammadiyah mendukung pendidikan?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Aturan_Administrasi_Akademik",
-      "patterns": [
-          "Dimana bisa menemukan aturan administrasi akademik UMMI?",
-          "Apakah aturan administrasi akademik UMMI pernah diubah?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Beasiswa_UMMI",
-      "patterns": [
-          "Kapan pendaftaran beasiswa UMMI dibuka?",
-          "Siapa saja yang berhak mendapatkan beasiswa UMMI?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Computer_Centre",
-      "patterns": [
-          "Apakah Computer Centre UMMI buka selama liburan?",
-          "Bagaimana cara mengakses layanan di Computer Centre?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Cuti_Akademik",
-      "patterns": [
-          "Apakah ada biaya untuk cuti akademik di UMMI?",
-          "Bagaimana cara memperpanjang cuti akademik di UMMI?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Drop_Out",
-      "patterns": [
-          "Apa dampak jangka panjang dari DO di UMMI?",
-          "Apakah ada program untuk membantu mahasiswa yang hampir DO?"
-      ],
-      "responses": [
-          ""
-      ]
-  },
-  {
-      "tag": "Evaluasi_Akademik",
-      "patterns": [
-          "Kapan evaluasi akademik dilakukan di UMMI?",
-          "Siapa yang bertanggung jawab atas evaluasi akademik di UMMI?"
-      ],
-      "responses": [
-        ""
+     {
+    "tag": "Akreditasi_UMMI",
+    "patterns": [
+      "Apa status akreditasi UMMI saat ini?",
+      "Bagaimana cara UMMI mendapatkan akreditasi?",
+      "Apa keuntungan akreditasi bagi UMMI?",
+      "Apa saja syarat untuk memperoleh akreditasi?",
+      "Apakah akreditasi UMMI dapat berubah?"
+    ],
+    "responses": [
+      "UMMI memiliki status akreditasi yang diakui secara nasional.",
+      "Proses akreditasi melibatkan penilaian dari badan akreditasi independen.",
+      "Akreditasi meningkatkan reputasi dan kualitas pendidikan di UMMI."
     ]
   },
   {
-      "tag": "Evaluasi_Pembelajaran",
-      "patterns": [
-          "Apakah evaluasi pembelajaran melibatkan umpan balik dari mahasiswa?",
-          "Bagaimana hasil evaluasi pembelajaran digunakan di UMMI?"
-      ],
-      "responses": [
-        ""
+    "tag": "Amal_Usaha_Muhammadiyah",
+    "patterns": [
+      "Apa itu Amal Usaha Muhammadiyah?",
+      "Bagaimana kontribusi Amal Usaha Muhammadiyah bagi UMMI?",
+      "Apa saja bentuk Amal Usaha Muhammadiyah?",
+      "Siapa yang dapat berpartisipasi dalam Amal Usaha Muhammadiyah?",
+      "Bagaimana cara mendukung Amal Usaha Muhammadiyah?"
+    ],
+    "responses": [
+      "Amal Usaha Muhammadiyah mencakup berbagai kegiatan sosial dan pendidikan.",
+      "Kontribusi Amal Usaha Muhammadiyah sangat penting bagi pengembangan UMMI.",
+      "Bentuknya meliputi pendirian sekolah, rumah sakit, dan lembaga sosial."
     ]
   },
   {
-      "tag": "Evaluasi_Studi",
-      "patterns": [
-          "Apa perbedaan antara evaluasi studi dan evaluasi akademik di UMMI?",
-          "Bagaimana evaluasi studi membantu mahasiswa di UMMI?"
-      ],
-      "responses": [
-          ""
-      ]
+    "tag": "Beasiswa_UMMI",
+    "patterns": [
+      "Bagaimana cara mendaftar beasiswa di UMMI?",
+      "Apa saja jenis beasiswa yang tersedia di UMMI?",
+      "Siapa yang berhak mendapatkan beasiswa di UMMI?",
+      "Apa saja persyaratan beasiswa di UMMI?",
+      "Kapan pendaftaran beasiswa dibuka?"
+    ],
+    "responses": [
+      "UMMI menawarkan berbagai jenis beasiswa untuk mahasiswa berprestasi.",
+      "Pendaftaran beasiswa dapat dilakukan secara online melalui situs resmi UMMI.",
+      "Persyaratan beasiswa biasanya mencakup prestasi akademik dan keterbatasan finansial."
+    ]
+  },
+  {
+    "tag": "Cuti_Akademik",
+    "patterns": [
+      "Bagaimana cara mengurus cuti akademik di UMMI?",
+      "Apa syarat untuk mengajukan cuti akademik?",
+      "Berapa lama durasi cuti akademik di UMMI?",
+      "Apa yang harus dilakukan mahasiswa setelah cuti akademik?",
+      "Apakah ada biaya untuk cuti akademik?"
+    ],
+    "responses": [
+      "Mahasiswa yang ingin mengajukan cuti akademik harus memenuhi syarat dan prosedur yang ditetapkan oleh UMMI.",
+      "Durasi cuti akademik biasanya satu semester dengan kemungkinan perpanjangan.",
+      "Setelah cuti, mahasiswa harus mengurus registrasi ulang untuk melanjutkan studi."
+    ]
+  },
+  {
+    "tag": "Drop_Out",
+    "patterns": [
+      "Apa yang dimaksud dengan drop out di UMMI?",
+      "Apa penyebab mahasiswa drop out di UMMI?",
+      "Bagaimana prosedur drop out di UMMI?",
+      "Apakah mahasiswa drop out bisa kembali berkuliah di UMMI?",
+      "Apa dampak dari drop out bagi mahasiswa?"
+    ],
+    "responses": [
+      "Drop out (DO) terjadi ketika mahasiswa tidak dapat melanjutkan studi karena berbagai alasan akademik atau administrasi.",
+      "Penyebab DO dapat meliputi kegagalan akademik, pelanggaran aturan, atau masalah keuangan.",
+      "Mahasiswa yang drop out biasanya tidak dapat kembali melanjutkan studi di UMMI."
+    ]
+  },
+  {
+    "tag": "Evaluasi_Akademik",
+    "patterns": [
+      "Bagaimana sistem evaluasi akademik di UMMI?",
+      "Apa saja metode evaluasi akademik yang digunakan di UMMI?",
+      "Bagaimana cara mahasiswa mengetahui hasil evaluasi akademik?",
+      "Kapan evaluasi akademik dilakukan di UMMI?",
+      "Apakah ada remedial untuk evaluasi akademik di UMMI?"
+    ],
+    "responses": [
+      "Evaluasi akademik di UMMI meliputi ujian, tugas, dan presentasi.",
+      "Hasil evaluasi dapat dilihat melalui portal akademik UMMI.",
+      "Evaluasi dilakukan setiap akhir semester dengan kemungkinan remedial bagi yang tidak lulus."
+    ]
   }
   ]
 }
