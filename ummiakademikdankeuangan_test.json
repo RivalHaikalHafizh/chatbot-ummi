@@ -848,133 +848,158 @@
     {
       "tag": "Akreditasi_UMMI",
       "patterns": [
-        "Bagaimana status akreditasi UMMI sekarang?",
-        "Apakah UMMI sudah mendapatkan akreditasi nasional?",
-        "Apakah UMMI telah diakreditasi oleh BAN-PT?",
-        "Bagaimana dengan akreditasi program studi di UMMI?",
-        "Status akreditasi UMMI saat ini?"
+        "Apakah UMMI memiliki akreditasi yang baik?",
+        "Bagaimana kualitas akreditasi UMMI?",
+        "Status akreditasi UMMI di tahun ini?",
+        "Apakah program studi di UMMI terakreditasi?",
+        "Bagaimana standar akreditasi UMMI?"
       ],
       "responses": [
-        "UMMI telah mendapatkan akreditasi institusi BAN-PT dengan peringkat B.",
-        "Sebagian besar program studi di UMMI telah diakreditasi oleh BAN-PT dengan peringkat yang baik."]
+        "UMMI dan program studinya telah terakreditasi oleh Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT), memastikan standar pendidikan yang tinggi.",
+        "Status akreditasi setiap program studi dapat bervariasi, tetapi UMMI berkomitmen untuk menjaga dan meningkatkan kualitas pendidikan di semua fakultas.",
+        "Untuk informasi lebih lanjut tentang status akreditasi program studi tertentu, silakan menghubungi bagian administrasi akademik UMMI."
+      ]
     },
     {
       "tag": "Kemitraan_UMMI",
       "patterns": [
-        "Apa saja kerjasama UMMI dengan institusi luar?",
-        "Apakah UMMI menjalin kemitraan internasional?",
-        "Bagaimana dengan program kerjasama UMMI?",
-        "Kemitraan akademik UMMI di bidang apa?",
-        "Program kerjasama UMMI dengan perusahaan?"
+        "Apakah UMMI memiliki kemitraan internasional?",
+        "Bagaimana kerjasama UMMI dengan industri?",
+        "Program kerjasama UMMI dengan lembaga lain?",
+        "Kemitraan UMMI dengan perguruan tinggi asing?",
+        "Apa manfaat dari kemitraan UMMI?"
       ],
       "responses": [
-        "UMMI menjalin kerjasama dengan berbagai institusi dalam dan luar negeri untuk meningkatkan kualitas pendidikan dan penelitian.",
-        "Kemitraan UMMI meliputi pertukaran mahasiswa, dosen, penelitian bersama, dan program akademik lainnya.",
-        "UMMI juga menjalin kerjasama dengan perusahaan dan industri untuk mendukung pengembangan kurikulum dan penelitian terapan."
+        "UMMI memiliki berbagai kemitraan dengan institusi pendidikan, pemerintah, dan industri baik di dalam maupun luar negeri.",
+        "Kerjasama ini mencakup program pertukaran pelajar, penelitian bersama, magang, dan pengembangan kurikulum.",
+        "Untuk informasi lebih lanjut tentang kemitraan dan peluang kolaborasi, silakan menghubungi Lembaga Kerjasama dan Hubungan Internasional (LKHI) UMMI."
       ]
     },
     {
       "tag": "Program_Studi_Magister",
       "patterns": [
-        "Program magister apa yang ada di UMMI?",
-        "Apa saja jurusan S2 di UMMI?",
-        "Sebutkan program pascasarjana yang ditawarkan UMMI.",
-        "Informasi tentang pendidikan S2 di UMMI?",
-        "Program studi magister yang tersedia di UMMI?"
-      ],      
+        "Apakah UMMI memiliki program studi S2?",
+        "Program pascasarjana apa yang ada di UMMI?",
+        "Apa saja program studi S2 di UMMI?",
+        "Bagaimana pendidikan S2 di UMMI?",
+        "Sebutkan jurusan yang ada di program magister UMMI"
+      ],
       "responses": [
-        ""
+        "UMMI menawarkan program magister di bidang Ilmu Administrasi.",
+        "Program magister ini dirancang untuk menghasilkan lulusan yang kompeten dan siap menghadapi tantangan di bidang administrasi publik dan bisnis.",
+        "Untuk informasi lebih lanjut mengenai program magister, termasuk persyaratan pendaftaran dan kurikulum, silakan menghubungi bagian pascasarjana UMMI."
       ]
     },
     {
       "tag": "Pendaftaran_Mahasiswa_Baru",
       "patterns": [
-        "Bagaimana cara mendaftar sebagai mahasiswa baru di UMMI sekarang?",
-        "Apa saja syarat pendaftaran mahasiswa baru di UMMI?",
-        "Jalur pendaftaran apa yang sedang dibuka di UMMI?",
-        "Proses pendaftaran mahasiswa baru di UMMI saat ini?",
-        "Dokumen apa yang perlu disiapkan untuk mendaftar di UMMI?"
+        "Bagaimana proses mendaftar di UMMI?",
+        "Apa syarat pendaftaran mahasiswa baru UMMI?",
+        "Jalur penerimaan mahasiswa baru di UMMI?",
+        "Bagaimana cara mendaftar di UMMI?",
+        "Dokumen apa saja yang dibutuhkan untuk mendaftar di UMMI?"
       ],
       "responses": [
-        ""
+        "Pendaftaran calon mahasiswa baru UMMI dapat dilakukan secara langsung ke kampus atau melalui link http://pmb.ummi.ac.id/ dan mengikuti tahapan pendaftaran sesuai tutorial dalam laman.",
+        "Jalur pendaftaran mahasiswa baru di UMMI meliputi Jalur Umum, Jalur Transfer/Pindahan, dan Jalur Rekognisi Pembelajaran Lampau (RPL).",
+        "Syarat calon mahasiswa baru meliputi WNI/WNA, fotokopi ijazah yang dilegalisir, surat keterangan berkelakuan baik, surat keterangan tidak terlibat narkoba, dan beberapa syarat khusus untuk program studi tertentu.",
+        "Mahasiswa baru juga perlu melakukan registrasi dan membayar biaya awal untuk memperoleh NIM dan akun SIAK."
       ]
     },
     {
       "tag": "Registrasi_Mahasiswa",
       "patterns": [
-        "Bagaimana proses registrasi mahasiswa di UMMI sekarang?",
-        "Kapan waktu registrasi mahasiswa dilaksanakan di UMMI?",
-        "Apa langkah-langkah registrasi mahasiswa di UMMI saat ini?",
-        "Bagaimana registrasi mahasiswa lama di UMMI?",
-        "Apakah ada biaya yang harus dibayar saat registrasi mahasiswa?"
+        "Bagaimana cara registrasi mahasiswa di UMMI?",
+        "Kapan waktu registrasi mahasiswa di UMMI?",
+        "Apa yang harus dilakukan saat melakukan registrasi mahasiswa?",
+        "Bagaimana proses registrasi untuk mahasiswa lama di UMMI?",
+        "Apakah ada biaya untuk registrasi mahasiswa?"
       ],
       "responses": [
-        ""
+        "Registrasi mahasiswa dimaksudkan untuk pencatatan administrasi akademik dan dilakukan setiap semester.",
+        "Registrasi mahasiswa baru yang telah lulus tes masuk dilakukan untuk memperoleh NIM dan akun SIAK.",
+        "Registrasi mahasiswa lama dilakukan setiap awal semester gasal maupun genap untuk mengaktifkan akun SIAK dan menyatu dengan pembayaran keuangan semester/SPP.",
+        "Mahasiswa yang mengajukan cuti harus membayar biaya pemeliharaan data setiap semester."
       ]
     },
     {
       "tag": "Kalender_Akademik",
       "patterns": [
-        "Apa yang termasuk dalam kalender akademik UMMI tahun ini?",
-        "Kapan kalender akademik UMMI diterbitkan untuk tahun ini?",
-        "Bagaimana susunan kalender akademik UMMI?",
-        "Apa fungsi utama kalender akademik UMMI?",
-        "Apakah kalender akademik UMMI mencakup kegiatan non-akademik?"
+        "Apa yang termasuk dalam kalender akademik UMMI?",
+        "Kapan kalender akademik UMMI diumumkan?",
+        "Bagaimana proses penyusunan kalender akademik di UMMI?",
+        "Apa tujuan dari kalender akademik UMMI?",
+        "Apakah kalender akademik mencakup kegiatan non-akademik?"
       ],
       "responses": [
-        ""
+        "Kalender akademik diterbitkan setiap tahun dengan memuat jadwal untuk kegiatan akademik dan non-akademik.",
+        "Fungsi kalender akademik adalah sebagai pedoman penyelenggaraan kegiatan akademik dan non-akademik sehingga proses belajar mengajar dapat berjalan efektif dan efisien.",
+        "Kalender akademik disusun 3 bulan sebelum tahun akademik berjalan dan disosialisasikan ke seluruh sivitas akademik.",
+        "Isi kalender akademik meliputi masa penerimaan mahasiswa baru, masa registrasi, masa perkuliahan, ujian, remedial, dan waktu libur."
       ]
     },
     {
       "tag": "Sistem_Evaluasi",
       "patterns": [
-        "Bagaimana sistem evaluasi di UMMI sekarang?",
-        "Apa metode evaluasi yang digunakan di UMMI saat ini?",
-        "Bagaimana pelaksanaan ujian di UMMI saat ini?",
-        "Apakah ada sesi remedial di UMMI?",
-        "Bagaimana penilaian dilakukan di UMMI saat ini?"
+        "Bagaimana sistem evaluasi di UMMI?",
+        "Apa metode evaluasi yang digunakan di UMMI?",
+        "Bagaimana ujian di UMMI dijalankan?",
+        "Apakah ada program remedial di UMMI?",
+        "Bagaimana penilaian dilakukan di UMMI?"
       ],
       "responses": [
-        ""
+        "Sistem evaluasi di UMMI mencakup evaluasi hasil akhir atau asesmen pembelajaran sesuai rancangan RPS mata kuliah.",
+        "Evaluasi dilakukan melalui perkuliahan, praktikum, kegiatan lapangan, dan kegiatan MBKM.",
+        "Pelaksanaan ujian, termasuk ujian akhir dan remedial, dilakukan sesuai dengan jadwal yang ditetapkan dalam kalender akademik.",
+        "Nilai dari evaluasi ini akan mempengaruhi Kartu Hasil Studi (KHS) mahasiswa."
       ]
     },
     {
       "tag": "Semester_Antara",
       "patterns": [
-        "Apa yang dimaksud dengan semester antara di UMMI?",
-        "Bagaimana cara mendaftar untuk mengikuti semester antara di UMMI?",
-        "Apa syarat untuk mengikuti semester antara di UMMI?",
-        "Apakah ada biaya yang harus dibayar untuk mengikuti semester antara di UMMI?",
-        "Siapa saja yang boleh mengikuti semester antara di UMMI?"
+        "Apa itu semester antara di UMMI?",
+        "Bagaimana cara mendaftar semester antara?",
+        "Apa syarat mengikuti semester antara?",
+        "Apakah ada biaya untuk semester antara di UMMI?",
+        "Siapa yang bisa mengikuti semester antara?"
       ],
       "responses": [
-        ""
+        "Semester antara adalah semester tambahan yang bisa diikuti oleh mahasiswa dengan IPK minimal 3,00 atau yang terkena imbas pemberlakuan kurikulum baru.",
+        "Pendaftaran semester antara dilakukan secara online dan biayanya dibebankan kepada mahasiswa berdasarkan jumlah SKS yang diambil.",
+        "Dosen pengajar pada semester antara adalah dosen yang sama dengan yang mengajar pada semester regular atau dosen dengan kompetensi yang sesuai.",
+        "Pelaksanaan perkuliahan dan evaluasi di semester antara mengikuti aturan yang sama dengan semester lainnya."
       ]
     },
     {
       "tag": "Evaluasi_Pembelajaran",
       "patterns": [
-        "Bagaimana cara evaluasi hasil belajar dilakukan di UMMI?",
-        "Metode apa yang digunakan untuk menilai hasil belajar mahasiswa di UMMI?",
-        "Apa itu evaluasi berbasis komputer di UMMI?",
-        "Bagaimana proses evaluasi hasil belajar di UMMI dilakukan?",
-        "Kapan jadwal evaluasi hasil belajar di UMMI?"
+        "Bagaimana evaluasi hasil belajar di UMMI dilakukan?",
+        "Metode penilaian hasil belajar yang digunakan di UMMI?",
+        "Apa itu evaluasi berbasis komputer?",
+        "Bagaimana pelaksanaan evaluasi hasil belajar di UMMI?",
+        "Kapan jadwal evaluasi hasil belajar diatur?"
       ],
       "responses": [
-        ""
+        "Evaluasi hasil belajar mahasiswa di UMMI dilakukan dengan ujian tertulis maupun tidak tertulis, termasuk evaluasi berbasis komputer (CBT). Evaluasi ini mencakup penugasan, praktikum, dan ujian akhir sesuai bobot penilaian yang telah ditetapkan.",
+        "Evaluasi hasil belajar merupakan bagian dari rancangan pembelajaran yang disusun oleh dosen pengampu dan dituangkan dalam RPS mata kuliah.",
+        "Pelaksanaan ujian dan evaluasi hasil belajar dilakukan secara fleksibel dengan menggunakan berbagai media yang sesuai dengan tujuan evaluasi.",
+        "Waktu penyelenggaraan evaluasi dijadwalkan sesuai dengan proses capaian pembelajaran yang direncanakan."
       ]
     },
     {
       "tag": "Nilai_dan_Transkrip",
       "patterns": [
-        "Bagaimana hasil ujian diolah di UMMI?",
-        "Apa definisi nilai akhir mata kuliah di UMMI?",
-        "Bagaimana bobot nilai dihitung di UMMI?",
+        "Bagaimana proses pengolahan hasil ujian di UMMI?",
+        "Apa itu nilai akhir mata kuliah?",
+        "Bagaimana skala penilaian di UMMI?",
         "Bagaimana cara mendapatkan transkrip nilai di UMMI?",
-        "Apa aturan yang berlaku untuk nilai dalam transkrip di UMMI?"
+        "Apa aturan mengenai penilaian dalam transkrip?"
       ],
       "responses": [
-        ""
+        "Nilai akhir mata kuliah di UMMI berasal dari tes, pelaksanaan praktikum, dan penugasan dengan bobot penilaian yang sesuai dengan uji kompetensi.",
+        "Nilai akhir yang telah ditetapkan oleh dosen pengampu diinput ke SIAK UMMI dan diteruskan ke PDDikti. Nilai akhir ini tidak dapat diubah atau diperbaiki lagi.",
+        "Bobot nilai akhir berupa nilai huruf dengan bobot nilai: A = 4, B = 3, C = 2, D = 1, dan E = 0.",
+        "Transkrip nilai dapat diperoleh oleh mahasiswa yang telah lulus atau mahasiswa aktif yang mengajukan permohonan."
       ]
     }
   ]
