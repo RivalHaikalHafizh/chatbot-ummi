@@ -1,1006 +1,259 @@
 {
   "intents": [
     {
-      "tag": "salam",
+      "tag": "kalender_akademik",
       "patterns": [
-        "Hai, apa kabar?",
-        "Halo, selamat pagi!",
-        "Hi, ada yang bisa dibantu?",
-        "Selamat siang, bagaimana kabarnya?",
-        "Selamat sore, ada informasi akademik?",
-        "Selamat malam, bisa bantu saya?",
-        "Waalaikumsalam"
+        "Apa definisi dari kalender akademik?",
+        "Apa kegunaan dari kalender akademik?",
+        "Apa yang tercantum dalam kalender akademik?",
+        "Kapan kalender akademik biasanya disiapkan?",
+        "Bagaimana cara mengakses kalender akademik?"
       ],
       "responses": [
-        "Halo! Ada yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+        "Kalender akademik adalah acuan jadwal kegiatan akademik dan non akademik selama satu tahun.",
+        "Fungsi kalender akademik adalah sebagai pedoman penyelenggaraan kegiatan akademik dan non akademik.",
+        "Isi kalender akademik mencakup masa penerimaan mahasiswa baru, registrasi, perkuliahan, ujian, dan libur."
       ]
     },
     {
-      "tag": "teks_kosong",
+      "tag": "pendaftaran_mahasiswa_baru",
       "patterns": [
-        "",
-        "   ",
-        "\t\t",
-        "\n\n"
+        "Bagaimana langkah mendaftar sebagai mahasiswa baru?",
+        "Apa saja opsi pendaftaran mahasiswa baru?",
+        "Di mana dapat mendaftar untuk menjadi mahasiswa baru?",
+        "Bagaimana proses pendaftaran untuk mahasiswa baru?",
+        "Apa persyaratan yang diperlukan untuk mendaftar sebagai mahasiswa baru?"
       ],
       "responses": [
-        "Sepertinya Anda tidak mengetikkan apa pun. Ada yang bisa saya bantu terkait informasi akademik atau keuangan Universitas Muhammadiyah Sukabumi?"
+        "Pendaftaran bisa dilakukan secara langsung di kampus atau melalui link http://pmb.ummi.ac.id/.",
+        "Jalur pendaftaran mencakup jalur reguler, jalur transfer, dan jalur RPL.",
+        "Calon mahasiswa harus mengikuti tahapan pendaftaran sesuai tutorial di laman."
       ]
     },
     {
-      "tag": "luar_konteks",
+      "tag": "jalur_pendaftaran",
       "patterns": [
-        "Bagaimana hari Anda?",
-        "Apa kegiatan Anda?",
-        "Bisa beri saya informasi?",
-        "Saya perlu bantuan",
-        "Apa makanan favorit Anda?",
-        "Dari mana asal Anda?",
-        "Berapa usia Anda?",
-        "Ceritakan sesuatu yang lucu",
-        "Bagaimana cuaca sekarang?",
-        "Apa film yang bagus?",
-        "Buku apa yang Anda sukai?",
-        "Hobi Anda apa?",
-        "Apakah Anda punya teman?",
-        "Di mana Anda tinggal?",
-        "Siapa presiden saat ini?",
-        "Ceritakan tentang diri Anda",
-        "Apakah Anda AI?",
-        "Apa Anda bisa bernyanyi?",
-        "Siapa yang membuat Anda?",
-        "Anda bisa bermain game?"
+        "Apa yang dimaksud dengan jalur reguler?",
+        "Bagaimana definisi jalur transfer/pindahan?",
+        "Apa pengertian dari jalur RPL?",
+        "Bagaimana ketentuan yang berlaku pada jalur reguler?",
+        "Bagaimana prosedur untuk jalur transfer/pindahan?"
       ],
       "responses": [
-        "Saya adalah Ummibot, asisten virtual dari Universitas Muhammadiyah Sukabumi. Bagaimana saya bisa membantu Anda terkait informasi akademik atau keuangan universitas?"
+        "Jalur reguler adalah untuk pendaftar yang menempuh tes akademik dasar.",
+        "Jalur transfer/pindahan untuk mahasiswa dari perguruan tinggi lain yang ingin melanjutkan studi di UMMI.",
+        "Jalur RPL adalah untuk yang memiliki transkrip akademik atau bekerja di bidang tertentu."
       ]
     },
     {
-      "tag": "visi_misi_tujuan_UMMI",
+      "tag": "non_aktif",
       "patterns": [
-        "Bagaimana visi Universitas Muhammadiyah Sukabumi?",
-        "Apa misi dari UMMI?",
-        "Apa saja tujuan UMMI?",
-        "Visi UMMI bagaimana?",
-        "Sebutkan visi, misi, dan tujuan UMMI"
+        "Apa yang dimaksud dengan status non aktif?",
+        "Bagaimana cara mengurus status mahasiswa yang non aktif?",
+        "Berapa lama batas waktu untuk status non aktif?",
+        "Apa konsekuensi dari menjadi mahasiswa dengan status non aktif?",
+        "Apa yang terjadi jika melewati batas waktu status non aktif?"
       ],
       "responses": [
-        "Visi UMMI: Terwujudnya Universitas Muhammadiyah Sukabumi yang unggul dalam keilmuan dan keislaman pada tahun 2022.",
-        "Misi UMMI meliputi penyelenggaraan pendidikan tinggi yang berkualitas, pengembangan IPTEKS melalui penelitian, pengabdian kepada masyarakat, pengembangan Al-Islam dan Kemuhammadiyahan, serta peningkatan kualitas SDM, sarana, dan prasarana.",
-        "Tujuan UMMI adalah terselenggaranya layanan akademik berkualitas, berkembangnya IPTEKS berdasarkan Al-Qur’an dan Sunnah, tersebarluasnya hasil penelitian untuk pengembangan masyarakat, siapnya UMMI menjadi pusat kajian Al-Islam, dan meningkatnya kualitas SDM serta kerja sama."
+        "Non aktif adalah status mahasiswa yang tidak terdaftar pada semester tertentu tanpa izin.",
+        "Masa non aktif diperhitungkan sebagai masa studi mahasiswa.",
+        "Batas masa non aktif maksimal 4 semester, setelah itu dinyatakan mengundurkan diri."
       ]
     },
     {
-      "tag": "sejarah_muhammadiyah",
+      "tag": "kecurangan_akademik",
       "patterns": [
-        "Apa itu organisasi Muhammadiyah?",
-        "Ceritakan sejarah Muhammadiyah",
-        "Siapa yang mendirikan Muhammadiyah?",
-        "Kapan berdirinya Muhammadiyah?",
-        "Apa tujuan Muhammadiyah?"
+        "Apa yang dimaksud dengan istilah kecurangan akademik?",
+        "Apa saja contoh nyata dari kecurangan akademik?",
+        "Apa hukuman bagi pelaku kecurangan akademik?",
+        "Bagaimana UMMI menangani kasus kecurangan akademik?",
+        "Apa jenis-jenis kecurangan akademik yang sering terjadi?"
       ],
       "responses": [
-        "Muhammadiyah didirikan oleh K.H. Ahmad Dahlan pada 18 November 1912 di Yogyakarta.",
-        "Muhammadiyah adalah Gerakan Islam dan Dakwah Amar Makruf Nahi Munkar yang beraqidah Islam bersumber pada Al-Quran dan Sunnah.",
-        "Tujuan utama Muhammadiyah adalah mencerdaskan masyarakat agar terlepas dari belenggu kebodohan dan kemiskinan."
+        "Kecurangan akademik termasuk plagiasi, kecurangan dalam proses pembelajaran, dan pemalsuan data.",
+        "Sivitas akademika yang terbukti melakukan kecurangan akan dikenakan sanksi sesuai Etika Akademik UMMI.",
+        "Contoh kecurangan adalah melakukan plagiasi dan pemalsuan data administrasi akademik."
       ]
     },
     {
-      "tag": "organisasi_UMMI",
+      "tag": "registrasi",
       "patterns": [
-        "Bagaimana susunan organisasi UMMI?",
-        "Siapa saja perangkat di UMMI?",
-        "Apa itu KM-UMMI?",
-        "Sebutkan organisasi kemahasiswaan di UMMI",
-        "Apa itu ORTOM di UMMI?"
+        "Apa yang dimaksud dengan masa registrasi?",
+        "Bagaimana proses melakukan registrasi untuk semester aktif?",
+        "Kapan jadwal pendaftaran untuk mahasiswa baru?",
+        "Apa langkah yang harus dilakukan saat melakukan registrasi?",
+        "Apa arti dari her-registrasi?"
       ],
       "responses": [
-        "Struktur organisasi UMMI berdasarkan Surat Keputusan Rektor No. 1021/KEP/I.0/A/2020 meliputi Badan Pembina Harian (BPH) dan perangkat penyelenggara lainnya.",
-        "KM-UMMI adalah Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi yang terdiri dari ORMAWA seperti BEM, DPM, dan HIMA.",
-        "ORTOM di UMMI termasuk Ikatan Mahasiswa Muhammadiyah (IMM), Tapak Suci Putera Muhammadiyah, dan Hizbul Wathon (HW)."
+        "Masa registrasi adalah waktu untuk mendaftar ulang sebagai mahasiswa aktif setiap semester.",
+        "Mahasiswa harus melakukan registrasi semester aktif dan membayar SPP.",
+        "Masa registrasi mencakup pendaftaran ulang mahasiswa baru dan lama."
       ]
     },
     {
-      "tag": "nilai_nilai_UMMI",
+      "tag": "kartu_rencana_studi",
       "patterns": [
-        "Apa saja nilai yang dijunjung oleh UMMI?",
-        "Sebutkan nilai-nilai di UMMI",
-        "Apa nilai utama yang dipegang UMMI?",
-        "Bagaimana nilai-nilai UMMI diterapkan?",
-        "Nilai apa yang penting di UMMI?"
+        "Apa yang dimaksud dengan Kartu Rencana Studi (KRS)?",
+        "Bagaimana caranya untuk mengisi Kartu Rencana Studi (KRS)?",
+        "Kapan waktu yang tepat untuk mengisi Kartu Rencana Studi (KRS)?",
+        "Apa yang dimaksud dengan perbaikan Kartu Rencana Studi (PKRS)?",
+        "Bagaimana prosedur yang harus diikuti untuk PKRS?"
       ],
       "responses": [
-        "Nilai-nilai UMMI meliputi kejujuran, keadilan, tanggung jawab, dan kepedulian sosial.",
-        "UMMI mengimplementasikan nilai-nilai ini dalam setiap aspek kegiatan akademik dan non-akademik.",
-        "Nilai-nilai ini bertujuan untuk membentuk pribadi yang unggul dalam keilmuan dan keislaman."
+        "Kartu Rencana Studi (KRS) adalah dokumen untuk merencanakan mata kuliah yang akan diambil.",
+        "Pengisian KRS dilakukan secara online pada masa yang ditentukan.",
+        "Perbaikan KRS (PKRS) juga dilakukan secara online setelah pengisian awal KRS."
       ]
     },
     {
-      "tag": "kebijakan_catur_darma_PTMA",
+      "tag": "semester_antara",
       "patterns": [
-        "Apa yang dimaksud dengan Catur Darma PTMA?",
-        "Sebutkan kebijakan Catur Darma PTMA",
-        "Bagaimana penerapan Catur Darma di UMMI?",
-        "Apa fokus Catur Darma PTMA?",
-        "Bagaimana implementasi Catur Darma PTMA di UMMI?"
+        "Apa definisi dari semester antara?",
+        "Apa tujuan utama dari adanya semester antara?",
+        "Bagaimana cara pelaksanaan semester antara dilakukan?",
+        "Kapan waktu yang ditentukan untuk menyelenggarakan semester antara?",
+        "Apa syarat yang harus dipenuhi untuk mengikuti semester antara?"
       ],
       "responses": [
-        "Catur Darma PTMA meliputi pendidikan, penelitian, pengabdian kepada masyarakat, dan pengembangan Al-Islam dan Kemuhammadiyahan.",
-        "UMMI menerapkan kebijakan ini dengan menyelenggarakan pendidikan berkualitas, penelitian inovatif, pengabdian kepada masyarakat, dan pengembangan nilai-nilai Islam.",
-        "Fokus utama adalah pada pengembangan sumber daya manusia yang unggul dalam keilmuan dan keislaman."
+        "Semester antara adalah semester pendek untuk mempercepat penyelesaian studi.",
+        "Semester antara dilakukan dengan penawaran mata kuliah tertentu.",
+        "Pelaksanaan semester antara bertujuan untuk mempercepat kelulusan tanpa mengabaikan kualitas akademik."
       ]
     },
     {
-      "tag": "kurikulum_MBKM",
+      "tag": "kegiatan_non_akademik",
       "patterns": [
-        "Apa itu Kurikulum Merdeka Belajar-Kampus Merdeka di UMMI?",
-        "Bagaimana konsep kurikulum MBKM diterapkan?",
-        "Dasar dari kurikulum MBKM apa saja?",
-        "Bagaimana kurikulum MBKM di UMMI diterapkan?",
-        "Seperti apa penerapan kurikulum MBKM di UMMI?"
+        "Apa kegiatan non akademik yang tersedia di UMMI?",
+        "Bagaimana cara untuk berpartisipasi dalam kegiatan non akademik?",
+        "Apa tujuan dari kegiatan non akademik ini?",
+        "Kapan waktu pelaksanaan kegiatan non akademik biasanya dilaksanakan?",
+        "Apa yang dimaksud dengan kegiatan penunjang?"
       ],
       "responses": [
-        "Kurikulum Merdeka Belajar-Kampus Merdeka (MBKM) di UMMI didasarkan pada Permendikbud No.03 Tahun 2020 tentang SNPT.",
-        "Kurikulum MBKM memungkinkan mahasiswa mengikuti pembelajaran di dalam dan di luar program studi untuk memenuhi beban belajar.",
-        "Program studi di UMMI diharapkan mengarahkan kurikulum berbasis Capaian Pembelajaran (CP) yang ditetapkan SN-Dikti dan KKNI.",
-        "UMMI menerbitkan Pedoman Pengembangan Kurikulum untuk menghasilkan kurikulum berbasis Outcome Based Curriculum (OBC) dan Outcome Based Education (OBE).",
-        "Proses pembelajaran di luar program studi diatur dalam pasal 15 dan pasal 18 Permendikbud No.03 Tahun 2020."
+        "Kegiatan non akademik mencakup organisasi mahasiswa, olahraga, seni, dan kegiatan sosial.",
+        "Kegiatan non akademik bertujuan untuk pengembangan diri dan keterampilan mahasiswa.",
+        "Kegiatan penunjang lainnya disesuaikan dengan minat dan bakat mahasiswa."
       ]
     },
     {
-      "tag": "jalur_penerimaan_mahasiswa",
+      "tag": "libur_akademik",
       "patterns": [
-        "Jalur apa saja untuk penerimaan mahasiswa di UMMI?",
-        "Bagaimana cara daftar di UMMI?",
-        "Apa itu Jalur Umum pendaftaran mahasiswa baru di UMMI?",
-        "Apa saja jalur khusus masuk UMMI?",
-        "Bagaimana proses penerimaan mahasiswa baru di UMMI?"
+        "Kapan jadwal libur akademik biasanya dimulai?",
+        "Berapa lama durasi dari masa libur akademik?",
+        "Apa yang diartikan dengan istilah libur akademik?",
+        "Bagaimana cara mengetahui jadwal libur akademik?",
+        "Apa saja kegiatan yang biasanya dilakukan selama libur akademik?"
       ],
       "responses": [
-        "UMMI memiliki berbagai jalur penerimaan mahasiswa baru, termasuk Jalur Umum dan Jalur Khusus.",
-        "Jalur Umum mencakup Jalur Reguler, Jalur Transfer/Pindahan, Jalur Rekognisi Pembelajaran Lampau (RPL), Jalur Course, dan Jalur Fastrack.",
-        "Jalur Khusus termasuk Jalur Prestasi dan Jalur Undangan/Beasiswa.",
-        "Jalur Umum mencakup tes akademik dasar dan jalur pindahan dari perguruan tinggi lain dengan akreditasi setara.",
-        "Jalur Khusus dirancang untuk menerima mahasiswa baru yang memiliki prestasi dan potensi unggul di bidang tertentu."
+        "Waktu libur akademik ditentukan dalam kalender akademik setiap tahun.",
+        "Masa libur akademik mencakup libur semester dan libur nasional.",
+        "Libur akademik adalah waktu istirahat dari kegiatan perkuliahan yang ditentukan oleh universitas."
       ]
     },
     {
-      "tag": "masa_studi",
+      "tag": "pendidikan_akademik",
       "patterns": [
-        "Berapa lama program diploma di UMMI?",
-        "Berapa total SKS untuk sarjana di UMMI?",
-        "Program studi apa saja yang tersedia di UMMI?",
-        "Apa ketentuan masa studi di UMMI?",
-        "Durasi studi program pascasarjana di UMMI berapa lama?"
+        "Apa definisi pendidikan akademik yang diterapkan di UMMI?",
+        "Bagaimana proses pendidikan akademik dilaksanakan di UMMI?",
+        "Tolong jelaskan mengenai pendidikan akademik yang ada di UMMI.",
+        "Apa yang termasuk dalam program pendidikan akademik di UMMI?",
+        "Program studi apa saja yang tersedia untuk pendidikan akademik di UMMI?"
       ],
       "responses": [
-        "Program Diploma III di UMMI memerlukan minimal 108 SKS dan dapat diselesaikan dalam maksimal 10 semester atau 5 tahun.",
-        "Program sarjana membutuhkan minimal 144 SKS dan dapat diselesaikan dalam maksimal 14 semester atau 7 tahun.",
-        "Program pascasarjana magister (S2) memerlukan minimal 36 SKS dan masa studi maksimal 8 semester.",
-        "Program pascasarjana doktoral (S3) memerlukan minimal 42 SKS dan masa studi maksimal 10 semester.",
-        "UMMI menawarkan berbagai program studi termasuk program vokasi, sarjana, dan pascasarjana."
+        "Pendidikan akademik di UMMI mengacu pada kurikulum dan metode pengajaran yang bervariasi sesuai program studi.",
+        "Proses pendidikan akademik melibatkan kuliah, praktikum, dan ujian sesuai dengan kurikulum yang ditetapkan.",
+        "Program pendidikan akademik mencakup berbagai disiplin ilmu seperti humaniora, sains, dan teknologi."
       ]
     },
     {
-      "tag": "tugas_akhir",
+      "tag": "pendidikan_vokasi",
       "patterns": [
-        "Apa itu tugas akhir di UMMI?",
-        "Bagaimana prosedur penyelesaian tugas akhir di UMMI?",
-        "Jenis tugas akhir apa saja di UMMI?",
-        "Apa syarat kelulusan mahasiswa di UMMI?",
-        "Standar tugas akhir di UMMI bagaimana?"
+        "Apa yang dimaksud dengan pendidikan vokasi di UMMI?",
+        "Bagaimana cara pelaksanaan pendidikan vokasi di UMMI?",
+        "Tolong berikan penjelasan tentang pendidikan vokasi yang diterapkan di UMMI.",
+        "Apa saja yang termasuk dalam pendidikan vokasi di UMMI?",
+        "Program studi apa yang tersedia untuk pendidikan vokasi di UMMI?"
       ],
       "responses": [
-        "Tugas akhir di UMMI adalah karya tulis ilmiah yang menjadi syarat kelulusan untuk semua jenjang pendidikan.",
-        "Jenis tugas akhir berbeda sesuai jenjang pendidikan: Laporan Tugas Akhir untuk Program Vokasi, Skripsi untuk Program Sarjana, Tesis untuk Program Pascasarjana/Magister (S2), dan Disertasi untuk Program Pascasarjana/Doktoral (S3).",
-        "Penyelesaian tugas akhir harus sesuai standar luaran tugas akhir yang ditetapkan oleh UMMI.",
-        "Tugas akhir di UMMI mencakup berbagai jenis karya tulis ilmiah tergantung jenjang pendidikan mahasiswa.",
-        "Standar tugas akhir di UMMI didasarkan pada Pedoman Penulisan Karya Ilmiah dan Pedoman Tugas Akhir yang ditetapkan oleh UMMI."
+        "Pendidikan vokasi di UMMI mengarah pada penguasaan keterampilan praktis dalam bidang tertentu.",
+        "Proses pendidikan vokasi melibatkan pembelajaran praktis dan magang di industri terkait.",
+        "Program vokasi mencakup bidang seperti teknik, keperawatan, dan manajemen bisnis."
       ]
     },
     {
-      "tag": "mata_kuliah_wajib_umum",
+      "tag": "program_studi_sarjana",
       "patterns": [
-        "Apa itu Mata Kuliah Wajib Umum di UMMI?",
-        "Sebutkan mata kuliah wajib di UMMI",
-        "Bagaimana struktur kurikulum di UMMI?",
-        "Mata kuliah apa yang harus diambil di UMMI?",
-        "Jumlah SKS mata kuliah wajib di UMMI berapa?"
+        "Apa saja program studi sarjana yang dapat dipilih di UMMI?",
+        "Program studi S1 apa yang ditawarkan di UMMI?",
+        "Silakan jelaskan mengenai program studi sarjana yang ada di UMMI.",
+        "Program studi sarjana apa saja yang tersedia di UMMI?",
+        "Berapa banyak pilihan program studi sarjana yang ditawarkan di UMMI?"
       ],
       "responses": [
-        "Mata Kuliah Wajib Umum (MKWU) di UMMI meliputi Aqidah Akhlak, Pendidikan Pancasila, Bahasa Asing, Ibadah Muamalah, Pendidikan Kewarganegaraan, Bahasa Indonesia untuk Penulisan Karya Ilmiah, Kemuhammadiyahan, Kewirausahaan, Islam dan Ilmu Pengetahuan, dan Kuliah Kerja Nyata (KKN).",
-        "Bahasa Asing pada semester I adalah MKWU yang wajib tercantum dalam seluruh kurikulum program studi.",
-        "Program studi dapat menambah pembelajaran bahasa asing lanjutan di semester yang berbeda.",
-        "ESP dilaksanakan selama 2 semester sebagai mata kuliah non kurikulum yang wajib diikuti oleh seluruh mahasiswa UMMI.",
-        "Jumlah SKS MKWU adalah 21 SKS yang tersebar di berbagai semester."
+        "Program studi sarjana di UMMI mencakup berbagai bidang seperti ilmu sosial, ekonomi, dan teknik.",
+        "Contoh program S1 meliputi Administrasi Bisnis, Teknik Informatika, dan Psikologi.",
+        "UMMI menawarkan lebih dari 20 program studi sarjana di berbagai fakultas dan disiplin ilmu."
       ]
     },
     {
-      "tag": "Informasi_Kemahasiswaan",
+      "tag": "program_studi_magister",
       "patterns": [
-        "Layanan bimbingan konseling di UMMI bagaimana?",
-        "Apa yang dimaksud dengan PUKAU di UMMI?",
-        "Bagaimana UMMI membantu mahasiswa dalam karir?",
-        "Kegiatan kewirausahaan apa yang ada di UMMI?",
-        "Pembinaan Al-Islam di UMMI seperti apa?"
+        "Apa saja program studi magister yang tersedia di UMMI?",
+        "Program studi S2 apa yang ditawarkan di UMMI?",
+        "Silakan berikan penjelasan tentang program studi magister yang ada di UMMI.",
+        "Program studi magister apa saja yang tersedia di UMMI?",
+        "Berapa banyak pilihan program studi magister yang ditawarkan di UMMI?"
       ],
       "responses": [
-        "UMMI menyediakan layanan bimbingan konseling dengan pendampingan psikolog profesional.",
-        "Pusat Karir dan Alumni UMMI (PUKAU) membantu mahasiswa merancang karir profesional mereka.",
-        "UMMI mengembangkan model kegiatan kewirausahaan, termasuk incubator bisnis dan permodalan."
+        "Program studi magister di UMMI meliputi bidang seperti Manajemen, Hukum, dan Teknik Sipil.",
+        "Contoh program S2 meliputi Magister Manajemen, Magister Hukum, dan Magister Teknik.",
+        "UMMI menawarkan lebih dari 10 program studi magister dengan kurikulum berbasis penelitian dan praktik."
       ]
     },
     {
-      "tag": "Beasiswa_UMMI",
+      "tag": "gelar_vokasi",
       "patterns": [
-        "Jenis beasiswa apa saja yang ada di UMMI?",
-        "Cara mendapatkan Beasiswa PPA bagaimana?",
-        "Apa persyaratan untuk Beasiswa Bidikmisi?",
-        "Proses pendaftaran Beasiswa KIP di UMMI bagaimana?",
-        "Apa yang dimaksud dengan Beasiswa Putera Daerah?"
+        "Apa yang dimaksud dengan gelar yang diperoleh dari pendidikan vokasi di UMMI?",
+        "Gelar apa yang diberikan dari program vokasi di UMMI?",
+        "Tolong jelaskan tentang gelar vokasi yang diterima dari UMMI.",
+        "Gelar vokasi UMMI apa saja yang ada?",
+        "Bagaimana proses perolehan gelar vokasi di UMMI?"
       ],
       "responses": [
-        "UMMI menyediakan berbagai beasiswa seperti PPA, KIP, Bidikmisi, ADIK, Putera Daerah, Kader, dan LazisMu.",
-        "Untuk mendapatkan Beasiswa PPA, mahasiswa harus memenuhi syarat yang ditentukan.",
-        "Beasiswa Bidikmisi ditujukan untuk mahasiswa berprestasi dari keluarga kurang mampu."
+        "Gelar vokasi di UMMI adalah gelar akademik yang diberikan setelah menyelesaikan program studi vokasi.",
+        "Contoh gelar vokasi meliputi Ahli Madya (A.Md.) atau Sarjana Terapan (S.Tr.).",
+        "Proses perolehan gelar vokasi melibatkan penyelesaian kurikulum dan ujian praktis di lapangan."
       ]
     },
     {
-      "tag": "Organisasi_Mahasiswa",
+      "tag": "gelar_akademik",
       "patterns": [
-        "Apa itu KM-UMMI?",
-        "Apa saja unit kegiatan mahasiswa di UMMI?",
-        "Bagaimana struktur organisasi mahasiswa di UMMI?",
-        "Fungsi ORMAWA di UMMI apa?",
-        "Apa yang dimaksud dengan ORTOM di UMMI?"
+        "Apa yang dimaksud dengan gelar yang diperoleh dari pendidikan akademik di UMMI?",
+        "Gelar apa yang diberikan dari program akademik di UMMI?",
+        "Silakan jelaskan tentang gelar akademik yang diterima dari UMMI.",
+        "Gelar akademik UMMI apa saja yang ada?",
+        "Bagaimana proses perolehan gelar akademik di UMMI?"
       ],
       "responses": [
-        "KM-UMMI adalah Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi.",
-        "Unit Kegiatan Mahasiswa (UKM) fokus pada pengembangan hardskill, softskill, dan leadership.",
-        "ORMAWA di UMMI memiliki struktur dari tingkat universitas, fakultas, hingga program studi."
+        "Gelar akademik di UMMI adalah gelar yang diberikan setelah menyelesaikan program studi akademik yang sesuai.",
+        "Contoh gelar akademik meliputi Sarjana (S1), Magister (S2), dan Doktor (S3).",
+        "Proses perolehan gelar akademik melibatkan pemenuhan semua persyaratan akademik dan penyusunan tesis."
       ]
     },
     {
-      "tag": "Kegiatan_Ekstrakurikuler",
+      "tag": "program_diploma",
       "patterns": [
-        "Apa kegiatan ekstrakurikuler yang ada di UMMI?",
-        "Cara bergabung dengan UKM di UMMI bagaimana?",
-        "Manfaat mengikuti kegiatan ekstrakurikuler di UMMI apa?",
-        "Apa itu Hizbul Wathon di UMMI?",
-        "Pengembangan softskill di UMMI bagaimana?"
+        "Apa saja program diploma yang dapat dipilih di UMMI?",
+        "Program DIII apa yang ditawarkan di UMMI?",
+        "Silakan jelaskan mengenai program diploma yang ada di UMMI.",
+        "Program diploma apa saja yang tersedia di UMMI?",
+        "Berapa banyak pilihan program diploma yang ditawarkan di UMMI?"
       ],
       "responses": [
-        "UMMI menyediakan berbagai kegiatan ekstrakurikuler seperti seni budaya, olahraga, kegiatan ilmiah, dan jurnalistik.",
-        "Mahasiswa dapat bergabung dengan Unit Kegiatan Mahasiswa (UKM) sesuai minat mereka.",
-        "Kegiatan ekstrakurikuler membantu pengembangan softskill dan prestasi mahasiswa."
-      ]
-    },
-    {
-      "tag": "Fasilitas_UMMI",
-      "patterns": [
-        "Fasilitas apa saja yang tersedia di UMMI?",
-        "Kondisi perpustakaan UMMI seperti apa?",
-        "Fasilitas laboratorium di UMMI apa saja?",
-        "Apakah UMMI menyediakan fasilitas untuk disabilitas?",
-        "Layanan kesehatan di UMMI bagaimana?"
-      ],
-      "responses": [
-        "UMMI menyediakan fasilitas seperti perpustakaan, laboratorium, dan layanan kesehatan.",
-        "Perpustakaan UMMI dilengkapi dengan berbagai sumber referensi untuk mendukung pembelajaran.",
-        "Laboratorium UMMI dirancang untuk mendukung kegiatan praktikum mahasiswa."
-      ]
-    },
-    {
-      "tag": "Pusat_Karir_dan_Alumni_UMMI",
-      "patterns": [
-        "Apa fungsi PUKAU di UMMI?",
-        "Bagaimana PUKAU membantu mahasiswa?",
-        "Layanan apa yang disediakan oleh Pusat Karir UMMI?",
-        "Bagaimana PUKAU membantu pengembangan softskill?",
-        "Apa itu PUKAU di UMMI?"
-      ],
-      "responses": [
-        "Pusat Karir dan Alumni UMMI (PUKAU) membantu mahasiswa merancang karir profesional dengan menyediakan informasi karir dan pelatihan keterampilan.",
-        "PUKAU menyediakan pelatihan hardskill dan softskill untuk mendukung profesionalisme mahasiswa.",
-        "Mahasiswa dapat menggunakan layanan PUKAU untuk mempersiapkan diri menghadapi dunia kerja melalui berbagai pelatihan dan kegiatan."
-      ]
-    },
-    {
-      "tag": "Pelayanan_Bimbingan_dan_Konseling_UMMI",
-      "patterns": [
-        "Bagaimana layanan bimbingan konseling di UMMI?",
-        "Apa yang dilakukan oleh Unit Bimbingan Konseling UMMI?",
-        "Bagaimana cara mengakses layanan konseling di UMMI?",
-        "Siapa yang bisa mendapatkan layanan konseling di UMMI?",
-        "Apa manfaat layanan konseling di UMMI?"
-      ],
-      "responses": [
-        "Unit Bimbingan Konseling UMMI menyediakan layanan untuk membantu mahasiswa mengatasi kendala pribadi, keluarga, dan akademik.",
-        "Mahasiswa dapat memanfaatkan layanan konseling dengan pendampingan psikolog profesional.",
-        "Layanan konseling di UMMI membantu mengatasi hambatan yang dapat mempengaruhi perkembangan diri mahasiswa."
-      ]
-    },
-    {
-      "tag": "Pendidikan_Karakter_di_UMMI",
-      "patterns": [
-        "Apa itu pendidikan karakter di UMMI?",
-        "Bagaimana UMMI mengimplementasikan pendidikan karakter?",
-        "Apa tujuan pendidikan karakter di UMMI?",
-        "Bagaimana pendidikan karakter mendukung pengembangan mahasiswa?",
-        "Apa manfaat pendidikan karakter di UMMI?"
-      ],
-      "responses": [
-        "Pendidikan karakter di UMMI bertujuan untuk membentuk mahasiswa yang berintegritas dan memiliki moral yang baik.",
-        "UMMI mengimplementasikan pendidikan karakter melalui kegiatan pembinaan dan program-program yang mendukung pengembangan diri.",
-        "Pendidikan karakter membantu mahasiswa mengembangkan sikap kritis, inovatif, dan kreatif."
-      ]
-    },
-    {
-      "tag": "Kegiatan_Penelitian_di_UMMI",
-      "patterns": [
-        "Kegiatan penelitian apa saja yang ada di UMMI?",
-        "Bagaimana UMMI mendukung penelitian mahasiswa?",
-        "Apa tujuan penelitian di UMMI?",
-        "Bagaimana cara mahasiswa berpartisipasi dalam penelitian di UMMI?",
-        "Apa manfaat penelitian bagi mahasiswa UMMI?"
-      ],
-      "responses": [
-        "UMMI mendukung kegiatan penelitian mahasiswa melalui berbagai program dan fasilitas penelitian.",
-        "Penelitian di UMMI bertujuan untuk mengembangkan pengetahuan dan keterampilan mahasiswa dalam bidang akademik.",
-        "Mahasiswa dapat berpartisipasi dalam penelitian dengan bimbingan dosen dan fasilitas laboratorium yang tersedia."
-      ]
-    },
-    {
-      "tag": "Pengabdian_kepada_Masyarakat_UMMI",
-      "patterns": [
-        "Apa itu program pengabdian kepada masyarakat di UMMI?",
-        "Bagaimana UMMI melaksanakan pengabdian kepada masyarakat?",
-        "Apa manfaat pengabdian kepada masyarakat bagi mahasiswa?",
-        "Bagaimana cara mahasiswa berpartisipasi dalam program pengabdian di UMMI?",
-        "Apa tujuan pengabdian kepada masyarakat di UMMI?"
-      ],
-      "responses": [
-        "Program pengabdian kepada masyarakat di UMMI bertujuan untuk menerapkan ilmu pengetahuan dan keterampilan mahasiswa dalam kehidupan masyarakat.",
-        "UMMI melaksanakan pengabdian kepada masyarakat melalui berbagai kegiatan yang melibatkan mahasiswa dan dosen.",
-        "Pengabdian kepada masyarakat memberikan pengalaman praktis dan kontribusi nyata bagi pengembangan masyarakat."
-      ]
-    },
-    {
-      "tag": "Kerjasama_UMMI",
-      "patterns": [
-        "Apa bentuk kerjasama UMMI dengan institusi lain?",
-        "Bagaimana kerjasama internasional di UMMI?",
-        "Apa manfaat kerjasama bagi mahasiswa UMMI?",
-        "Bagaimana UMMI mengembangkan kerjasama dengan industri?",
-        "Apa program kerjasama UMMI yang mendukung akademik?"
-      ],
-      "responses": [
-        "UMMI menjalin kerjasama dengan berbagai institusi dalam dan luar negeri untuk mendukung pengembangan akademik dan profesional mahasiswa.",
-        "Kerjasama internasional di UMMI membuka peluang bagi mahasiswa untuk mengikuti program pertukaran pelajar dan penelitian.",
-        "Kerjasama dengan industri membantu mahasiswa mendapatkan pengalaman praktis dan jaringan profesional."
-      ]
-    },
-    {
-      "tag": "Program_Magang_di_UMMI",
-      "patterns": [
-        "Bagaimana saya bisa mengikuti program magang di UMMI?",
-        "Apa yang ditawarkan program magang UMMI?",
-        "Apa saja keuntungan mengikuti magang di UMMI?",
-        "Cara daftar magang di UMMI bagaimana?",
-        "Mengapa penting mengikuti program magang di UMMI?"
-      ],
-      "responses": [
-        "Program magang di UMMI memberikan mahasiswa pengalaman kerja di industri terkait.",
-        "Pendaftaran program magang dapat dilakukan melalui Pusat Karir dan Alumni UMMI.",
-        "Manfaat magang meliputi pengembangan keterampilan praktis dan jaringan profesional."
-      ]
-    },
-    {
-      "tag": "bimbingan_konseling",
-      "patterns": [
-        "Bagaimana layanan konseling di UMMI bekerja?",
-        "Siapa yang bisa mendapatkan layanan konseling di UMMI?",
-        "Apa tujuan dari layanan bimbingan konseling di UMMI?",
-        "Apakah mahasiswa bisa mendapatkan bantuan konseling di UMMI?",
-        "Apa saja masalah yang bisa dibantu oleh layanan konseling di UMMI?"
-      ],
-      "responses": [
-        "Layanan bimbingan konseling UMMI membantu mahasiswa mengatasi kendala pribadi, keluarga, dan akademik.",
-        "Layanan ini terbuka untuk semua mahasiswa UMMI dengan pendampingan dari psikolog profesional.",
-        "Tujuan utamanya adalah membantu mahasiswa mengatasi hambatan dalam studi dan pengembangan diri."
-      ]
-    },
-    {
-      "tag": "pusat_karir",
-      "patterns": [
-        "Apa itu Pusat Karir dan Alumni UMMI?",
-        "Bagaimana cara PUKAU UMMI membantu mahasiswa?",
-        "Apakah UMMI menyediakan pelatihan karir?",
-        "Manfaat dari Pusat Karir di UMMI apa saja?",
-        "Bagaimana cara mempersiapkan karir melalui UMMI?"
-      ],
-      "responses": [
-        "PUKAU adalah Pusat Karir dan Alumni UMMI yang membantu mahasiswa merancang karir mereka.",
-        "Pusat Karir UMMI menawarkan pelatihan hardskill dan softskill bagi mahasiswa.",
-        "Mahasiswa mendapatkan informasi karir dan bantuan persiapan memasuki dunia profesional."
-      ]
-    },
-    {
-      "tag": "kewirausahaan",
-      "patterns": [
-        "Apa yang termasuk dalam program kewirausahaan di UMMI?",
-        "Bagaimana cara mengikuti program kewirausahaan UMMI?",
-        "Apa saja fasilitas untuk kewirausahaan di UMMI?",
-        "Apakah ada pendampingan bisnis di UMMI?",
-        "Bagaimana UMMI mendukung mahasiswa berbisnis?"
-      ],
-      "responses": [
-        "Program kewirausahaan di UMMI mencakup incubator bisnis dan jejaring kompetensi.",
-        "Mahasiswa bisa mendapatkan pendampingan bisnis dan akses permodalan di UMMI.",
-        "Program ini terintegrasi dengan pembelajaran MB-KM di UMMI."
-      ]
-    },
-    {
-      "tag": "minat_bakat_penalaran",
-      "patterns": [
-        "Bagaimana UMMI mengembangkan minat dan bakat mahasiswa?",
-        "Apa saja kegiatan untuk minat dan bakat di UMMI?",
-        "Bagaimana cara UMMI mendukung daya nalar mahasiswa?",
-        "Apa tujuan kegiatan minat dan bakat di UMMI?",
-        "Manfaat dari kegiatan minat dan bakat di UMMI apa?"
-      ],
-      "responses": [
-        "UMMI mendukung pengembangan minat dan bakat melalui kegiatan inovatif dan kreatif.",
-        "Tujuannya adalah meningkatkan jiwa leadership, semangat berkompetisi, dan budaya berprestasi.",
-        "Mahasiswa bisa mengikuti kegiatan secara individual atau tim bersama dosen."
-      ]
-    },
-    {
-      "tag": "pembinaan_al_islam_kemuhammadiyahan",
-      "patterns": [
-        "Apa itu program Al-Islam dan Kemuhammadiyahan di UMMI?",
-        "Bagaimana cara mengikuti program Al-Islam di UMMI?",
-        "Apa tujuan pembinaan Kemuhammadiyahan di UMMI?",
-        "Kegiatan apa saja yang ada dalam program Al-Islam di UMMI?",
-        "Apakah UMMI memiliki program khusus untuk Al-Islam?"
-      ],
-      "responses": [
-        "Pembinaan Al-Islam dan Kemuhammadiyahan di UMMI mengarah pada terwujudnya Kampus Sehat dan Islami.",
-        "Kegiatan ini bertujuan membangun suasana ketaatan dalam ibadah dan prestasi.",
-        "UMMI adalah kampus bebas rokok sebagai bagian dari implementasi prinsip-prinsip Muhammadiyah."
-      ]
-    },
-    {
-      "tag": "beasiswa",
-      "patterns": [
-        "Jenis beasiswa apa saja yang ada di UMMI?",
-        "Bagaimana cara mendapatkan beasiswa di UMMI?",
-        "Apakah ada beasiswa KIP di UMMI?",
-        "Apa syarat untuk mendapatkan beasiswa di UMMI?",
-        "Apakah ada beasiswa untuk mahasiswa berprestasi di UMMI?"
-      ],
-      "responses": [
-        "UMMI menyediakan berbagai beasiswa seperti Beasiswa PPA, KIP, Bidikmisi, ADIK, Putera Daerah, Kader, dan LazisMu.",
-        "Mahasiswa harus memenuhi syarat yang ditentukan untuk setiap jenis beasiswa.",
-        "Beasiswa bisa diakses melalui bagian kemahasiswaan, fakultas, atau unit kerja lainnya."
-      ]
-    },
-    {
-      "tag": "unit_kegiatan_mahasiswa",
-      "patterns": [
-        "Unit Kegiatan Mahasiswa apa saja yang ada di UMMI?",
-        "Bagaimana cara bergabung dengan UKM di UMMI?",
-        "Apa manfaat bergabung dengan UKM di UMMI?",
-        "Apakah UMMI memiliki UKM olahraga?",
-        "Apakah ada UKM seni budaya di UMMI?"
-      ],
-      "responses": [
-        "UKM di UMMI meliputi keagamaan, seni budaya, olahraga, pencinta alam, dan lainnya.",
-        "Mahasiswa bisa bergabung dengan UKM sesuai minat dan bakat mereka.",
-        "Beberapa UKM di UMMI antara lain Basket, Futsal, Volley Ball, Sepak Bola, Teater Arkamaya, dan Lingkung Seni Asmarandhana."
-      ]
-    },
-    {
-      "tag": "kemahasiswaan",
-      "patterns": [
-        "Apa saja kegiatan kemahasiswaan di UMMI?",
-        "Bagaimana UMMI mendukung pengembangan diri mahasiswa?",
-        "Apa itu Catur Darma di UMMI?",
-        "Apa saja yang termasuk dalam pengembangan softskill di UMMI?",
-        "Bagaimana cara mengikuti kegiatan kemahasiswaan di UMMI?"
-      ],
-      "responses": [
-        "Kegiatan kemahasiswaan di UMMI mencakup pengembangan softskill seperti critical thinking, creativity, communication skill, leadership, literacy digital, dan kemampuan abad 21 lainnya.",
-        "UMMI mendukung pengembangan diri mahasiswa melalui kegiatan yang mencakup akademik dan non-akademik dengan integrasi nilai-nilai Al-Islam dan Kemuhammadiyahan.",
-        "Seluruh kegiatan kemahasiswaan dilaksanakan di bawah Organisasi Mahasiswa (ORMAWA) dengan peraturan dan ketentuan yang diatur dalam Pedoman Kemahasiswaan."
-      ]
-    },
-    {
-      "tag": "fasilitas_perpustakaan",
-      "patterns": [
-        "Fasilitas apa saja yang ada di perpustakaan UMMI?",
-        "Bagaimana cara meminjam buku di perpustakaan UMMI?",
-        "Apakah perpustakaan UMMI memiliki koleksi digital?",
-        "Apa jam operasional perpustakaan UMMI?",
-        "Apakah ada ruang belajar di perpustakaan UMMI?"
-      ],
-      "responses": [
-        "Perpustakaan UMMI menyediakan berbagai fasilitas seperti koleksi buku cetak dan digital, ruang baca, dan layanan peminjaman buku.",
-        "Mahasiswa dapat meminjam buku di perpustakaan UMMI dengan menggunakan kartu mahasiswa.",
-        "Perpustakaan UMMI juga menyediakan ruang belajar yang nyaman bagi mahasiswa untuk mendukung kegiatan akademik mereka."
-      ]
-    },
-    {
-      "tag": "laboratorium",
-      "patterns": [
-        "Laboratorium apa saja yang ada di UMMI?",
-        "Bagaimana cara menggunakan laboratorium di UMMI?",
-        "Apakah laboratorium di UMMI mendukung semua program studi?",
-        "Apa fasilitas yang ada di laboratorium UMMI?",
-        "Apakah ada laboratorium komputer di UMMI?"
-      ],
-      "responses": [
-        "UMMI memiliki berbagai laboratorium yang mendukung kegiatan akademik dan penelitian mahasiswa, termasuk laboratorium komputer.",
-        "Mahasiswa dapat menggunakan laboratorium di UMMI sesuai dengan jadwal yang telah ditentukan dan dengan mematuhi peraturan yang berlaku.",
-        "Laboratorium di UMMI dilengkapi dengan fasilitas modern untuk mendukung pembelajaran dan penelitian di berbagai program studi."
-      ]
-    },
-    {
-      "tag": "program_studi",
-      "patterns": [
-        "Program studi apa saja yang ditawarkan di UMMI?",
-        "Apakah UMMI memiliki program studi magister?",
-        "Bagaimana cara mendaftar program studi di UMMI?",
-        "Jenjang pendidikan apa saja yang ada di UMMI?",
-        "Apakah UMMI menawarkan program pendidikan vokasi?"
-      ],
-      "responses": [
-        "UMMI menawarkan program pendidikan vokasi, akademik, dan profesi dengan jenjang pendidikan Diploma (DIII), Sarjana (S1), Magister (S2), dan Profesi.",
-        "Program studi di UMMI mencakup berbagai bidang ilmu yang dapat dipilih sesuai minat dan bakat mahasiswa.",
-        "Pendaftaran program studi di UMMI dapat dilakukan melalui portal pendaftaran online dengan mengikuti prosedur yang ditentukan."
-      ]
-    },
-    {
-      "tag": "prestasi_mahasiswa",
-      "patterns": [
-        "Apa saja prestasi mahasiswa UMMI?",
-        "Bagaimana cara berprestasi di UMMI?",
-        "Apakah UMMI mendukung mahasiswa untuk berprestasi?",
-        "Apakah ada penghargaan untuk mahasiswa berprestasi di UMMI?",
-        "Bagaimana UMMI mendorong prestasi akademik mahasiswa?"
-      ],
-      "responses": [
-        "Mahasiswa UMMI telah meraih berbagai prestasi di tingkat nasional dan internasional dalam berbagai bidang.",
-        "UMMI mendukung mahasiswa untuk berprestasi dengan menyediakan berbagai program pengembangan diri dan fasilitas pendukung.",
-        "Penghargaan diberikan kepada mahasiswa berprestasi di UMMI sebagai bentuk apresiasi dan motivasi untuk terus berprestasi."
-      ]
-    },
-    {
-      "tag": "Fasilitas_Olahraga_UMMI",
-      "patterns": [
-        "Apa saja fasilitas olahraga di UMMI?",
-        "Sebutkan fasilitas olahraga yang ada di UMMI.",
-        "UMMI memiliki fasilitas olahraga apa saja?",
-        "Fasilitas untuk olahraga di UMMI apa saja?",
-        "Olahraga apa saja yang difasilitasi di UMMI?"
-      ],
-      "responses": [
-        "UMMI memiliki berbagai fasilitas olahraga termasuk lapangan futsal, basket, voli, sepak bola, dan ruang senam.",
-        "Fasilitas olahraga di UMMI mencakup lapangan futsal, basket, voli, sepak bola, dan ruang senam.",
-        "Anda bisa memanfaatkan lapangan futsal, basket, voli, sepak bola, serta ruang senam di UMMI untuk kegiatan olahraga."
-      ]
-    },
-    {
-      "tag": "Program_Pertukaran_Pelajar_UMMI",
-      "patterns": [
-        "Apakah UMMI memiliki program pertukaran pelajar?",
-        "Bagaimana cara mengikuti program pertukaran pelajar di UMMI?",
-        "Informasi tentang program pertukaran pelajar di UMMI.",
-        "UMMI dan program pertukaran pelajarnya.",
-        "Apakah ada program pertukaran mahasiswa di UMMI?"
-      ],
-      "responses": [
-        "UMMI menyediakan program pertukaran pelajar untuk memberikan pengalaman belajar di luar negeri.",
-        "Program pertukaran pelajar di UMMI bertujuan untuk meningkatkan wawasan internasional mahasiswa.",
-        "Untuk mengikuti program pertukaran pelajar di UMMI, mahasiswa perlu memenuhi persyaratan tertentu dan mengikuti seleksi."
-      ]
-    },
-    {
-      "tag": "Layanan_Kesehatan_UMMI",
-      "patterns": [
-        "Apakah UMMI menyediakan layanan kesehatan untuk mahasiswa?",
-        "Bagaimana layanan kesehatan di UMMI?",
-        "UMMI dan fasilitas kesehatannya.",
-        "Apa saja layanan kesehatan yang ada di UMMI?",
-        "Dimana saya bisa mendapatkan layanan kesehatan di UMMI?"
-      ],
-      "responses": [
-        "UMMI menyediakan layanan kesehatan melalui klinik kampus yang siap melayani mahasiswa.",
-        "Layanan kesehatan di UMMI termasuk pemeriksaan kesehatan dan konsultasi dengan tenaga medis profesional.",
-        "Anda dapat memanfaatkan layanan kesehatan di UMMI dengan mengunjungi klinik kampus."
-      ]
-    },
-    {
-      "tag": "Program_Pengembangan_Diri_UMMI",
-      "patterns": [
-        "Apa saja program pengembangan diri di UMMI?",
-        "Bagaimana cara mengikuti program pengembangan diri di UMMI?",
-        "UMMI memiliki program pengembangan diri apa saja?",
-        "Program untuk pengembangan diri di UMMI.",
-        "Kegiatan pengembangan diri apa yang ada di UMMI?"
-      ],
-      "responses": [
-        "UMMI menawarkan berbagai program pengembangan diri seperti pelatihan kepemimpinan, keterampilan komunikasi, dan kreativitas.",
-        "Anda bisa mengikuti program pengembangan diri di UMMI yang mencakup pelatihan softskill seperti critical thinking dan literacy digital.",
-        "Program pengembangan diri di UMMI dirancang untuk membangun jiwa kompetitif dan keterampilan abad 21."
-      ]
-    },
-    {
-      "tag": "Penghargaan_Mahasiswa_UMMI",
-      "patterns": [
-        "Apakah UMMI memberikan penghargaan kepada siswa?",
-        "Apa yang diberikan UMMI kepada mahasiswa yang berprestasi?",
-        "Bagaimana mahasiswa bisa mendapatkan penghargaan di UMMI?",
-        "Informasi tentang penghargaan akademik UMMI.",
-        "UMMI memberikan penghargaan apa untuk prestasi mahasiswa?"
-      ],
-      "responses": [
-        "UMMI memberikan penghargaan kepada mahasiswa yang mencapai prestasi di bidang akademik dan non-akademik.",
-        "Penghargaan di UMMI bisa didapat melalui pencapaian akademik, partisipasi dalam kegiatan kampus, dan prestasi olahraga.",
-        "Untuk mendapatkan penghargaan di UMMI, mahasiswa perlu aktif berkontribusi dan menunjukkan prestasi yang signifikan."
-      ]
-    },
-    {
-      "tag": "Fasilitas_IT_UMMI",
-      "patterns": [
-        "Sebutkan fasilitas teknologi informasi di UMMI.",
-        "Apa saja fasilitas IT yang tersedia di UMMI?",
-        "UMMI menyediakan fasilitas IT seperti apa?",
-        "Fasilitas IT di kampus UMMI.",
-        "Fasilitas teknologi informasi di UMMI apa saja?"
-      ],
-      "responses": [
-        "UMMI menyediakan berbagai fasilitas IT termasuk lab komputer, pusat IT, dan koneksi internet kampus.",
-        "Fasilitas IT di UMMI meliputi lab komputer, pusat IT, dan akses internet untuk mahasiswa.",
-        "Anda dapat menggunakan lab komputer, pusat IT, dan akses internet di UMMI untuk keperluan akademik dan penelitian."
-      ]
-    },
-    {
-      "tag": "Program_Penelitian_UMMI",
-      "patterns": [
-        "Apakah UMMI memiliki kegiatan penelitian?",
-        "Bagaimana cara ikut serta dalam kegiatan penelitian di UMMI?",
-        "Informasi mengenai penelitian di UMMI.",
-        "UMMI dan kegiatan risetnya.",
-        "Apakah ada kegiatan penelitian di UMMI?"
-      ],
-      "responses": [
-        "UMMI memiliki program penelitian untuk mendukung pengembangan ilmu pengetahuan dan teknologi.",
-        "Program penelitian di UMMI bertujuan untuk meningkatkan kontribusi ilmiah dan teknologi.",
-        "Untuk ikut serta dalam program penelitian di UMMI, mahasiswa perlu mengajukan proposal penelitian dan memenuhi persyaratan yang ditetapkan."
-      ]
-    },
-    {
-      "tag": "Program_Pengabdian_Masyarakat_UMMI",
-      "patterns": [
-        "Apakah UMMI terlibat dalam kegiatan pengabdian masyarakat?",
-        "Bagaimana cara mengikuti program pengabdian masyarakat di UMMI?",
-        "Informasi tentang pengabdian masyarakat di UMMI.",
-        "UMMI dan kontribusi sosialnya.",
-        "Apakah ada program pengabdian masyarakat di UMMI?"
-      ],
-      "responses": [
-        "UMMI menyediakan program pengabdian masyarakat untuk melibatkan mahasiswa dan dosen.",
-        "Program pengabdian masyarakat di UMMI bertujuan untuk memberikan kontribusi positif kepada masyarakat.",
-        "Untuk mengikuti program pengabdian masyarakat di UMMI, mahasiswa dapat mendaftar melalui fakultas atau pusat studi terkait."
-      ]
-    },
-    {
-      "tag": "Pusat_Studi_UMMI",
-      "patterns": [
-        "Apa saja pusat studi yang ada di UMMI?",
-        "Sebutkan pusat studi di UMMI.",
-        "Informasi tentang pusat studi di UMMI.",
-        "Pusat studi yang ada di UMMI.",
-        "Pusat studi di kampus UMMI."
-      ],
-      "responses": [
-        "UMMI memiliki berbagai pusat studi seperti pusat studi lingkungan, pusat studi gender, dan pusat studi Islam.",
-        "Pusat studi di UMMI mencakup bidang-bidang seperti lingkungan, gender, dan studi Islam.",
-        "Anda dapat bergabung dengan pusat studi di UMMI untuk berpartisipasi dalam kegiatan akademik dan penelitian."
-      ]
-    },
-    {
-      "tag": "Penerimaan_Mahasiswa_Baru_UMMI",
-      "patterns": [
-        "Bagaimana cara mendaftar sebagai mahasiswa baru di UMMI?",
-        "Informasi penerimaan mahasiswa baru di UMMI.",
-        "Prosedur pendaftaran mahasiswa baru di UMMI.",
-        "Kapan UMMI membuka penerimaan mahasiswa baru?",
-        "Apa saja syarat masuk UMMI?"
-      ],
-      "responses": [
-        "Penerimaan mahasiswa baru di UMMI dilakukan setiap tahun dengan beberapa jalur pendaftaran.",
-        "Untuk mendaftar di UMMI, calon mahasiswa harus memenuhi persyaratan akademik dan administratif yang ditetapkan.",
-        "Informasi lebih lanjut mengenai penerimaan mahasiswa baru di UMMI dapat dilihat di situs resmi UMMI."
-      ]
-    },
-    {
-      "tag": "Sistem_Akademik_UMMI",
-      "patterns": [
-        "Bagaimana sistem akademik yang diterapkan di UMMI?",
-        "Informasi tentang sistem akademik UMMI.",
-        "Sistem pendidikan yang diberlakukan di UMMI bagaimana?",
-        "Sistem pendidikan di UMMI seperti apa?",
-        "Penjelasan tentang sistem akademik di UMMI."
-      ],
-      "responses": [
-        "UMMI menerapkan sistem akademik semester dengan kurikulum yang terus disesuaikan.",
-        "Sistem akademik di UMMI didesain untuk mendukung pengembangan kompetensi mahasiswa secara komprehensif.",
-        "UMMI menawarkan berbagai program studi dengan sistem akademik yang fleksibel dan inovatif."
-      ]
-    },
-    {
-      "tag": "Layanan_Administrasi_Akademik_UMMI",
-      "patterns": [
-        "Apa saja layanan administrasi akademik yang tersedia di UMMI?",
-        "Bagaimana sistem layanan administrasi akademik di UMMI?",
-        "Informasi mengenai layanan administrasi akademik UMMI.",
-        "UMMI dan sistem administrasi akademiknya.",
-        "Layanan administrasi akademik di UMMI seperti apa?"
-      ],
-      "responses": [
-        "UMMI menyediakan layanan administrasi akademik termasuk pendaftaran, pengisian KRS, dan pengurusan transkrip.",
-        "Layanan administrasi akademik di UMMI dirancang untuk memudahkan mahasiswa dalam mengurus kebutuhan akademik mereka.",
-        "Anda dapat mengakses layanan administrasi akademik di UMMI melalui portal akademik atau mengunjungi bagian administrasi kampus."
-      ]
-    },
-    {
-      "tag": "Pendidikan_Vokasi_UMMI",
-      "patterns": [
-        "Apa saja program pendidikan vokasi yang ada di UMMI?",
-        "Beritahu saya tentang pendidikan vokasi di UMMI.",
-        "Program diploma yang ditawarkan UMMI?",
-        "Pendidikan vokasi UMMI meliputi apa?",
-        "Jurusan apa yang tersedia di program vokasi UMMI?"
-      ],
-      "responses": [
-        "UMMI menawarkan program pendidikan vokasi seperti Diploma III.",
-        "Program studi di pendidikan vokasi UMMI termasuk DIII Studi Perpajakan, DIII Keperawatan, dan DIII Hubungan Masyarakat.",
-        "Pendidikan vokasi di UMMI dirancang untuk membekali mahasiswa dengan keterampilan terapan yang diperlukan."
-      ]
-    },
-    {
-      "tag": "Program_Studi_Sarjana_UMMI",
-      "patterns": [
-        "Apa saja program studi sarjana yang ditawarkan di UMMI?",
-        "Daftar program studi S1 di UMMI",
-        "Program S1 yang ada di UMMI?",
-        "Jurusan apa yang tersedia untuk program S1 di UMMI?",
-        "Sebutkan program studi S1 di UMMI"
-      ],
-      "responses": [
-        "UMMI menawarkan berbagai program studi S1 termasuk Teknik Sipil, Kimia, Teknik Informatika, dan lainnya.",
-        "Program studi S1 di UMMI mencakup disiplin ilmu seperti Teknik, Agribisnis, Akuntansi, Hukum, dan lain-lain.",
-        "Ada banyak pilihan program studi S1 di UMMI sesuai dengan minat dan kebutuhan karir mahasiswa."
-      ]
-    },
-    {
-      "tag": "Masa_Studi_UMMI",
-      "patterns": [
-        "Berapa lama masa studi untuk program DIII di UMMI?",
-        "Lama waktu studi untuk program sarjana di UMMI?",
-        "Berapa lama durasi studi untuk program magister di UMMI?",
-        "Berapa lama studi untuk program doktor di UMMI?",
-        "Masa studi untuk berbagai jenjang pendidikan di UMMI?"
-      ],
-      "responses": [
-        "Program Diploma III di UMMI dapat diselesaikan dalam waktu maksimal 5 tahun.",
-        "Program sarjana di UMMI harus diselesaikan dalam waktu maksimal 7 tahun.",
-        "Program magister (S2) di UMMI harus diselesaikan dalam waktu maksimal 8 semester."
-      ]
-    },
-    {
-      "tag": "Pendidikan_Profesi_UMMI",
-      "patterns": [
-        "Apa yang dimaksud dengan pendidikan profesi di UMMI?",
-        "Program studi profesi yang ada di UMMI?",
-        "Pendidikan profesi UMMI mencakup bidang apa?",
-        "Gelar apa yang diberikan dari pendidikan profesi UMMI?",
-        "Beritahu saya tentang pendidikan profesi di UMMI"
-      ],
-      "responses": [
-        "Pendidikan profesi di UMMI diselenggarakan setelah menyelesaikan program sarjana dan mengarahkan pada gelar profesi tertentu.",
-        "UMMI menawarkan program pendidikan profesi seperti Pendidikan Profesi Ners (Ns).",
-        "Lulusan dari pendidikan profesi UMMI akan memperoleh gelar profesi sesuai dengan bidang studi mereka."
-      ]
-    },
-    {
-      "tag": "Organisasi_Mahasiswa_UMMI",
-      "patterns": [
-        "Apa saja organisasi mahasiswa yang aktif di UMMI?",
-        "Jenis organisasi mahasiswa di UMMI?",
-        "Apa itu KM-UMMI?",
-        "Sebutkan organisasi mahasiswa yang ada di UMMI",
-        "Informasi tentang ORMAWA di UMMI?"
-      ],
-      "responses": [
-        "Di UMMI terdapat berbagai organisasi mahasiswa yang tergabung dalam Keluarga Mahasiswa Universitas Muhammadiyah Sukabumi (KM-UMMI).",
-        "KM-UMMI di tingkat universitas meliputi Badan Eksekutif Mahasiswa (BEM) dan Dewan Perwakilan Mahasiswa (DPM).",
-        "Terdapat juga Unit Kegiatan Mahasiswa (UKM) yang fokus pada pengembangan diri dan pencapaian prestasi mahasiswa."
-      ]
-    },
-    {
-      "tag": "Fakultas_dan_Program_Studi",
-      "patterns": [
-        "Apa saja fakultas yang ada di UMMI?",
-        "Program studi apa yang ditawarkan oleh UMMI?",
-        "Fakultas di Universitas Muhammadiyah Sukabumi",
-        "Jurusan yang tersedia di UMMI",
-        "Daftar fakultas di UMMI"
-      ],
-      "responses": [
-        "UMMI memiliki beberapa fakultas, antara lain Fakultas Sains dan Teknologi, Pertanian, Ilmu Administrasi dan Humaniora, Ekonomi, Keguruan dan Ilmu Pendidikan, Hukum, dan Kesehatan.",
-        "Program studi yang tersedia di UMMI meliputi bidang-bidang seperti Teknik Sipil, Informatika, Agribisnis, Administrasi Publik, Akuntansi, Biologi, Hukum, dan lainnya.",
-        "Untuk informasi lebih lanjut tentang setiap fakultas dan program studi yang ditawarkan, silakan kunjungi situs resmi UMMI atau hubungi bagian akademik."
-      ]
-    },
-    {
-      "tag": "Akreditasi_UMMI",
-      "patterns": [
-        "Apakah UMMI memiliki akreditasi yang baik?",
-        "Bagaimana kualitas akreditasi UMMI?",
-        "Status akreditasi UMMI di tahun ini?",
-        "Apakah program studi di UMMI terakreditasi?",
-        "Bagaimana standar akreditasi UMMI?"
-      ],
-      "responses": [
-        "UMMI dan program studinya telah terakreditasi oleh Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT), memastikan standar pendidikan yang tinggi.",
-        "Status akreditasi setiap program studi dapat bervariasi, tetapi UMMI berkomitmen untuk menjaga dan meningkatkan kualitas pendidikan di semua fakultas.",
-        "Untuk informasi lebih lanjut tentang status akreditasi program studi tertentu, silakan menghubungi bagian administrasi akademik UMMI."
-      ]
-    },
-    {
-      "tag": "Kemitraan_UMMI",
-      "patterns": [
-        "Apakah UMMI memiliki kemitraan internasional?",
-        "Bagaimana kerjasama UMMI dengan industri?",
-        "Program kerjasama UMMI dengan lembaga lain?",
-        "Kemitraan UMMI dengan perguruan tinggi asing?",
-        "Apa manfaat dari kemitraan UMMI?"
-      ],
-      "responses": [
-        "UMMI memiliki berbagai kemitraan dengan institusi pendidikan, pemerintah, dan industri baik di dalam maupun luar negeri.",
-        "Kerjasama ini mencakup program pertukaran pelajar, penelitian bersama, magang, dan pengembangan kurikulum.",
-        "Untuk informasi lebih lanjut tentang kemitraan dan peluang kolaborasi, silakan menghubungi Lembaga Kerjasama dan Hubungan Internasional (LKHI) UMMI."
-      ]
-    },
-    {
-      "tag": "Program_Studi_Magister",
-      "patterns": [
-        "Apakah UMMI memiliki program studi S2?",
-        "Program pascasarjana apa yang ada di UMMI?",
-        "Apa saja program studi S2 di UMMI?",
-        "Bagaimana pendidikan S2 di UMMI?",
-        "Sebutkan jurusan yang ada di program magister UMMI"
-      ],
-      "responses": [
-        "UMMI menawarkan program magister di bidang Ilmu Administrasi.",
-        "Program magister ini dirancang untuk menghasilkan lulusan yang kompeten dan siap menghadapi tantangan di bidang administrasi publik dan bisnis.",
-        "Untuk informasi lebih lanjut mengenai program magister, termasuk persyaratan pendaftaran dan kurikulum, silakan menghubungi bagian pascasarjana UMMI."
-      ]
-    },
-    {
-      "tag": "Pendaftaran_Mahasiswa_Baru",
-      "patterns": [
-        "Bagaimana proses mendaftar di UMMI?",
-        "Apa syarat pendaftaran mahasiswa baru UMMI?",
-        "Jalur penerimaan mahasiswa baru di UMMI?",
-        "Bagaimana cara mendaftar di UMMI?",
-        "Dokumen apa saja yang dibutuhkan untuk mendaftar di UMMI?"
-      ],
-      "responses": [
-        "Pendaftaran calon mahasiswa baru UMMI dapat dilakukan secara langsung ke kampus atau melalui link http://pmb.ummi.ac.id/ dan mengikuti tahapan pendaftaran sesuai tutorial dalam laman.",
-        "Jalur pendaftaran mahasiswa baru di UMMI meliputi Jalur Umum, Jalur Transfer/Pindahan, dan Jalur Rekognisi Pembelajaran Lampau (RPL).",
-        "Syarat calon mahasiswa baru meliputi WNI/WNA, fotokopi ijazah yang dilegalisir, surat keterangan berkelakuan baik, surat keterangan tidak terlibat narkoba, dan beberapa syarat khusus untuk program studi tertentu.",
-        "Mahasiswa baru juga perlu melakukan registrasi dan membayar biaya awal untuk memperoleh NIM dan akun SIAK."
-      ]
-    },
-    {
-      "tag": "Registrasi_Mahasiswa",
-      "patterns": [
-        "Bagaimana cara registrasi mahasiswa di UMMI?",
-        "Kapan waktu registrasi mahasiswa di UMMI?",
-        "Apa yang harus dilakukan saat melakukan registrasi mahasiswa?",
-        "Bagaimana proses registrasi untuk mahasiswa lama di UMMI?",
-        "Apakah ada biaya untuk registrasi mahasiswa?"
-      ],
-      "responses": [
-        "Registrasi mahasiswa dimaksudkan untuk pencatatan administrasi akademik dan dilakukan setiap semester.",
-        "Registrasi mahasiswa baru yang telah lulus tes masuk dilakukan untuk memperoleh NIM dan akun SIAK.",
-        "Registrasi mahasiswa lama dilakukan setiap awal semester gasal maupun genap untuk mengaktifkan akun SIAK dan menyatu dengan pembayaran keuangan semester/SPP.",
-        "Mahasiswa yang mengajukan cuti harus membayar biaya pemeliharaan data setiap semester."
-      ]
-    },
-    {
-      "tag": "Kalender_Akademik",
-      "patterns": [
-        "Apa yang termasuk dalam kalender akademik UMMI?",
-        "Kapan kalender akademik UMMI diumumkan?",
-        "Bagaimana proses penyusunan kalender akademik di UMMI?",
-        "Apa tujuan dari kalender akademik UMMI?",
-        "Apakah kalender akademik mencakup kegiatan non-akademik?"
-      ],
-      "responses": [
-        "Kalender akademik diterbitkan setiap tahun dengan memuat jadwal untuk kegiatan akademik dan non-akademik.",
-        "Fungsi kalender akademik adalah sebagai pedoman penyelenggaraan kegiatan akademik dan non-akademik sehingga proses belajar mengajar dapat berjalan efektif dan efisien.",
-        "Kalender akademik disusun 3 bulan sebelum tahun akademik berjalan dan disosialisasikan ke seluruh sivitas akademik.",
-        "Isi kalender akademik meliputi masa penerimaan mahasiswa baru, masa registrasi, masa perkuliahan, ujian, remedial, dan waktu libur."
-      ]
-    },
-    {
-      "tag": "Sistem_Evaluasi",
-      "patterns": [
-        "Bagaimana sistem evaluasi di UMMI?",
-        "Apa metode evaluasi yang digunakan di UMMI?",
-        "Bagaimana ujian di UMMI dijalankan?",
-        "Apakah ada program remedial di UMMI?",
-        "Bagaimana penilaian dilakukan di UMMI?"
-      ],
-      "responses": [
-        "Sistem evaluasi di UMMI mencakup evaluasi hasil akhir atau asesmen pembelajaran sesuai rancangan RPS mata kuliah.",
-        "Evaluasi dilakukan melalui perkuliahan, praktikum, kegiatan lapangan, dan kegiatan MBKM.",
-        "Pelaksanaan ujian, termasuk ujian akhir dan remedial, dilakukan sesuai dengan jadwal yang ditetapkan dalam kalender akademik.",
-        "Nilai dari evaluasi ini akan mempengaruhi Kartu Hasil Studi (KHS) mahasiswa."
-      ]
-    },
-    {
-      "tag": "Semester_Antara",
-      "patterns": [
-        "Apa itu semester antara di UMMI?",
-        "Bagaimana cara mendaftar semester antara?",
-        "Apa syarat mengikuti semester antara?",
-        "Apakah ada biaya untuk semester antara di UMMI?",
-        "Siapa yang bisa mengikuti semester antara?"
-      ],
-      "responses": [
-        "Semester antara adalah semester tambahan yang bisa diikuti oleh mahasiswa dengan IPK minimal 3,00 atau yang terkena imbas pemberlakuan kurikulum baru.",
-        "Pendaftaran semester antara dilakukan secara online dan biayanya dibebankan kepada mahasiswa berdasarkan jumlah SKS yang diambil.",
-        "Dosen pengajar pada semester antara adalah dosen yang sama dengan yang mengajar pada semester regular atau dosen dengan kompetensi yang sesuai.",
-        "Pelaksanaan perkuliahan dan evaluasi di semester antara mengikuti aturan yang sama dengan semester lainnya."
-      ]
-    },
-    {
-      "tag": "Evaluasi_Pembelajaran",
-      "patterns": [
-        "Bagaimana evaluasi hasil belajar di UMMI dilakukan?",
-        "Metode penilaian hasil belajar yang digunakan di UMMI?",
-        "Apa itu evaluasi berbasis komputer?",
-        "Bagaimana pelaksanaan evaluasi hasil belajar di UMMI?",
-        "Kapan jadwal evaluasi hasil belajar diatur?"
-      ],
-      "responses": [
-        "Evaluasi hasil belajar mahasiswa di UMMI dilakukan dengan ujian tertulis maupun tidak tertulis, termasuk evaluasi berbasis komputer (CBT). Evaluasi ini mencakup penugasan, praktikum, dan ujian akhir sesuai bobot penilaian yang telah ditetapkan.",
-        "Evaluasi hasil belajar merupakan bagian dari rancangan pembelajaran yang disusun oleh dosen pengampu dan dituangkan dalam RPS mata kuliah.",
-        "Pelaksanaan ujian dan evaluasi hasil belajar dilakukan secara fleksibel dengan menggunakan berbagai media yang sesuai dengan tujuan evaluasi.",
-        "Waktu penyelenggaraan evaluasi dijadwalkan sesuai dengan proses capaian pembelajaran yang direncanakan."
-      ]
-    },
-    {
-      "tag": "Nilai_dan_Transkrip",
-      "patterns": [
-        "Bagaimana proses pengolahan hasil ujian di UMMI?",
-        "Apa itu nilai akhir mata kuliah?",
-        "Bagaimana skala penilaian di UMMI?",
-        "Bagaimana cara mendapatkan transkrip nilai di UMMI?",
-        "Apa aturan mengenai penilaian dalam transkrip?"
-      ],
-      "responses": [
-        "Nilai akhir mata kuliah di UMMI berasal dari tes, pelaksanaan praktikum, dan penugasan dengan bobot penilaian yang sesuai dengan uji kompetensi.",
-        "Nilai akhir yang telah ditetapkan oleh dosen pengampu diinput ke SIAK UMMI dan diteruskan ke PDDikti. Nilai akhir ini tidak dapat diubah atau diperbaiki lagi.",
-        "Bobot nilai akhir berupa nilai huruf dengan bobot nilai: A = 4, B = 3, C = 2, D = 1, dan E = 0.",
-        "Transkrip nilai dapat diperoleh oleh mahasiswa yang telah lulus atau mahasiswa aktif yang mengajukan permohonan."
+        "Program diploma di UMMI meliputi bidang seperti Keperawatan, Teknik Komputer, dan Akuntansi.",
+        "Contoh program DIII meliputi DIII Keperawatan, DIII Teknik Komputer, dan DIII Akuntansi.",
+        "UMMI menawarkan lebih dari 15 program diploma untuk memenuhi kebutuhan pasar kerja dan industri."
       ]
     }
-  ]
+  ]  
 }
