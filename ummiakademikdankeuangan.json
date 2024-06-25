@@ -751,7 +751,7 @@
       ]
     },
     {
-      "tags": "RPL_Definisi",
+      "tag": "RPL_Definisi",
       "patterns": [
         "Apa itu RPL?",
         "Jelaskan tentang Rekognisi Pembelajaran Lampau",
@@ -766,7 +766,7 @@
       ]
     },
     {
-      "tags": "RPL_Tujuan",
+      "tag": "RPL_Tujuan",
       "patterns": [
         "Apa tujuan dari RPL?",
         "Tujuan Rekognisi Pembelajaran Lampau",
@@ -781,7 +781,7 @@
       ]
     },
     {
-      "tags": "RPL_Penyelenggaraan",
+      "tag": "RPL_Penyelenggaraan",
       "patterns": [
         "Bagaimana RPL diselenggarakan?",
         "Proses penyelenggaraan RPL",
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "tags": "RPL_Tipe",
+      "tag": "RPL_Tipe",
       "patterns": [
         "Apa saja tipe RPL?",
         "Jenis RPL yang ada",
@@ -811,7 +811,7 @@
       ]
     },
     {
-      "tags": "RPL_Keuntungan",
+      "tag": "RPL_Keuntungan",
       "patterns": [
         "Apa keuntungan RPL?",
         "Manfaat RPL bagi mahasiswa",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "tags": "RPL_SKS",
+      "tag": "RPL_SKS",
       "patterns": [
         "Berapa maksimal SKS yang diakui dalam RPL?",
         "Jumlah SKS maksimal dalam RPL",
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "tags": "RPL_BatasWaktu",
+      "tag": "RPL_BatasWaktu",
       "patterns": [
         "Berapa lama batas waktu studi dalam RPL?",
         "Batas waktu masa studi RPL",
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "tags": "RPL_ProsesPenilaian",
+      "tag": "RPL_ProsesPenilaian",
       "patterns": [
         "Bagaimana proses penilaian dalam RPL?",
         "Prosedur penilaian RPL",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "tags": "RPL_Persyaratan",
+      "tag": "RPL_Persyaratan",
       "patterns": [
         "Apa saja persyaratan untuk mengikuti RPL?",
         "Persyaratan mengikuti RPL",
@@ -886,7 +886,7 @@
       ]
     },
     {
-      "tags": "RPL_InformasiLebihLanjut",
+      "tag": "RPL_InformasiLebihLanjut",
       "patterns": [
         "Di mana mendapatkan informasi lebih lanjut tentang RPL?",
         "Informasi tambahan tentang RPL",
