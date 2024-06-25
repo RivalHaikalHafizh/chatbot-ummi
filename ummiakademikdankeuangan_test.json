@@ -14,6 +14,246 @@
         "Fungsi kalender akademik adalah sebagai pedoman penyelenggaraan kegiatan akademik dan non akademik.",
         "Isi kalender akademik mencakup masa penerimaan mahasiswa baru, registrasi, perkuliahan, ujian, dan libur."
       ]
+    },
+    {
+      "tag": "pendaftaran_mahasiswa_baru",
+      "patterns": [
+        "Bagaimana langkah mendaftar sebagai mahasiswa baru?",
+        "Apa saja opsi pendaftaran mahasiswa baru?",
+        "Di mana dapat mendaftar untuk menjadi mahasiswa baru?",
+        "Bagaimana proses pendaftaran untuk mahasiswa baru?",
+        "Apa persyaratan yang diperlukan untuk mendaftar sebagai mahasiswa baru?"
+      ],
+      "responses": [
+        "Pendaftaran bisa dilakukan secara langsung di kampus atau melalui link http://pmb.ummi.ac.id/.",
+        "Jalur pendaftaran mencakup jalur reguler, jalur transfer, dan jalur RPL.",
+        "Calon mahasiswa harus mengikuti tahapan pendaftaran sesuai tutorial di laman."
+      ]
+    },
+    {
+      "tag": "jalur_pendaftaran",
+      "patterns": [
+        "Apa yang dimaksud dengan jalur reguler?",
+        "Bagaimana definisi jalur transfer/pindahan?",
+        "Apa pengertian dari jalur RPL?",
+        "Bagaimana ketentuan yang berlaku pada jalur reguler?",
+        "Bagaimana prosedur untuk jalur transfer/pindahan?"
+      ],
+      "responses": [
+        "Jalur reguler adalah untuk pendaftar yang menempuh tes akademik dasar.",
+        "Jalur transfer/pindahan untuk mahasiswa dari perguruan tinggi lain yang ingin melanjutkan studi di UMMI.",
+        "Jalur RPL adalah untuk yang memiliki transkrip akademik atau bekerja di bidang tertentu."
+      ]
+    },
+    {
+      "tag": "non_aktif",
+      "patterns": [
+        "Apa yang dimaksud dengan status non aktif?",
+        "Bagaimana cara mengurus status mahasiswa yang non aktif?",
+        "Berapa lama batas waktu untuk status non aktif?",
+        "Apa konsekuensi dari menjadi mahasiswa dengan status non aktif?",
+        "Apa yang terjadi jika melewati batas waktu status non aktif?"
+      ],
+      "responses": [
+        "Non aktif adalah status mahasiswa yang tidak terdaftar pada semester tertentu tanpa izin.",
+        "Masa non aktif diperhitungkan sebagai masa studi mahasiswa.",
+        "Batas masa non aktif maksimal 4 semester, setelah itu dinyatakan mengundurkan diri."
+      ]
+    },
+    {
+      "tag": "kecurangan_akademik",
+      "patterns": [
+        "Apa yang dimaksud dengan istilah kecurangan akademik?",
+        "Apa saja contoh nyata dari kecurangan akademik?",
+        "Apa hukuman bagi pelaku kecurangan akademik?",
+        "Bagaimana UMMI menangani kasus kecurangan akademik?",
+        "Apa jenis-jenis kecurangan akademik yang sering terjadi?"
+      ],
+      "responses": [
+        "Kecurangan akademik termasuk plagiasi, kecurangan dalam proses pembelajaran, dan pemalsuan data.",
+        "Sivitas akademika yang terbukti melakukan kecurangan akan dikenakan sanksi sesuai Etika Akademik UMMI.",
+        "Contoh kecurangan adalah melakukan plagiasi dan pemalsuan data administrasi akademik."
+      ]
+    },
+    {
+      "tag": "registrasi",
+      "patterns": [
+        "Apa yang dimaksud dengan masa registrasi?",
+        "Bagaimana proses melakukan registrasi untuk semester aktif?",
+        "Kapan jadwal pendaftaran untuk mahasiswa baru?",
+        "Apa langkah yang harus dilakukan saat melakukan registrasi?",
+        "Apa arti dari her-registrasi?"
+      ],
+      "responses": [
+        "Masa registrasi adalah waktu untuk mendaftar ulang sebagai mahasiswa aktif setiap semester.",
+        "Mahasiswa harus melakukan registrasi semester aktif dan membayar SPP.",
+        "Masa registrasi mencakup pendaftaran ulang mahasiswa baru dan lama."
+      ]
+    },
+    {
+      "tag": "kartu_rencana_studi",
+      "patterns": [
+        "Apa yang dimaksud dengan Kartu Rencana Studi (KRS)?",
+        "Bagaimana caranya untuk mengisi Kartu Rencana Studi (KRS)?",
+        "Kapan waktu yang tepat untuk mengisi Kartu Rencana Studi (KRS)?",
+        "Apa yang dimaksud dengan perbaikan Kartu Rencana Studi (PKRS)?",
+        "Bagaimana prosedur yang harus diikuti untuk PKRS?"
+      ],
+      "responses": [
+        "Kartu Rencana Studi (KRS) adalah dokumen untuk merencanakan mata kuliah yang akan diambil.",
+        "Pengisian KRS dilakukan secara online pada masa yang ditentukan.",
+        "Perbaikan KRS (PKRS) juga dilakukan secara online setelah pengisian awal KRS."
+      ]
+    },
+    {
+      "tag": "semester_antara",
+      "patterns": [
+        "Apa definisi dari semester antara?",
+        "Apa tujuan utama dari adanya semester antara?",
+        "Bagaimana cara pelaksanaan semester antara dilakukan?",
+        "Kapan waktu yang ditentukan untuk menyelenggarakan semester antara?",
+        "Apa syarat yang harus dipenuhi untuk mengikuti semester antara?"
+      ],
+      "responses": [
+        "Semester antara adalah semester pendek untuk mempercepat penyelesaian studi.",
+        "Semester antara dilakukan dengan penawaran mata kuliah tertentu.",
+        "Pelaksanaan semester antara bertujuan untuk mempercepat kelulusan tanpa mengabaikan kualitas akademik."
+      ]
+    },
+    {
+      "tag": "kegiatan_non_akademik",
+      "patterns": [
+        "Apa kegiatan non akademik yang tersedia di UMMI?",
+        "Bagaimana cara untuk berpartisipasi dalam kegiatan non akademik?",
+        "Apa tujuan dari kegiatan non akademik ini?",
+        "Kapan waktu pelaksanaan kegiatan non akademik biasanya dilaksanakan?",
+        "Apa yang dimaksud dengan kegiatan penunjang?"
+      ],
+      "responses": [
+        "Kegiatan non akademik mencakup organisasi mahasiswa, olahraga, seni, dan kegiatan sosial.",
+        "Kegiatan non akademik bertujuan untuk pengembangan diri dan keterampilan mahasiswa.",
+        "Kegiatan penunjang lainnya disesuaikan dengan minat dan bakat mahasiswa."
+      ]
+    },
+    {
+      "tag": "libur_akademik",
+      "patterns": [
+        "Kapan jadwal libur akademik biasanya dimulai?",
+        "Berapa lama durasi dari masa libur akademik?",
+        "Apa yang diartikan dengan istilah libur akademik?",
+        "Bagaimana cara mengetahui jadwal libur akademik?",
+        "Apa saja kegiatan yang biasanya dilakukan selama libur akademik?"
+      ],
+      "responses": [
+        "Waktu libur akademik ditentukan dalam kalender akademik setiap tahun.",
+        "Masa libur akademik mencakup libur semester dan libur nasional.",
+        "Libur akademik adalah waktu istirahat dari kegiatan perkuliahan yang ditentukan oleh universitas."
+      ]
+    },
+    {
+      "tag": "pendidikan_akademik",
+      "patterns": [
+        "Apa definisi pendidikan akademik yang diterapkan di UMMI?",
+        "Bagaimana proses pendidikan akademik dilaksanakan di UMMI?",
+        "Tolong jelaskan mengenai pendidikan akademik yang ada di UMMI.",
+        "Apa yang termasuk dalam program pendidikan akademik di UMMI?",
+        "Program studi apa saja yang tersedia untuk pendidikan akademik di UMMI?"
+      ],
+      "responses": [
+        "Pendidikan akademik di UMMI mengacu pada kurikulum dan metode pengajaran yang bervariasi sesuai program studi.",
+        "Proses pendidikan akademik melibatkan kuliah, praktikum, dan ujian sesuai dengan kurikulum yang ditetapkan.",
+        "Program pendidikan akademik mencakup berbagai disiplin ilmu seperti humaniora, sains, dan teknologi."
+      ]
+    },
+    {
+      "tag": "pendidikan_vokasi",
+      "patterns": [
+        "Apa yang dimaksud dengan pendidikan vokasi di UMMI?",
+        "Bagaimana cara pelaksanaan pendidikan vokasi di UMMI?",
+        "Tolong berikan penjelasan tentang pendidikan vokasi yang diterapkan di UMMI.",
+        "Apa saja yang termasuk dalam pendidikan vokasi di UMMI?",
+        "Program studi apa yang tersedia untuk pendidikan vokasi di UMMI?"
+      ],
+      "responses": [
+        "Pendidikan vokasi di UMMI mengarah pada penguasaan keterampilan praktis dalam bidang tertentu.",
+        "Proses pendidikan vokasi melibatkan pembelajaran praktis dan magang di industri terkait.",
+        "Program vokasi mencakup bidang seperti teknik, keperawatan, dan manajemen bisnis."
+      ]
+    },
+    {
+      "tag": "program_studi_sarjana",
+      "patterns": [
+        "Apa saja program studi sarjana yang dapat dipilih di UMMI?",
+        "Program studi S1 apa yang ditawarkan di UMMI?",
+        "Silakan jelaskan mengenai program studi sarjana yang ada di UMMI.",
+        "Program studi sarjana apa saja yang tersedia di UMMI?",
+        "Berapa banyak pilihan program studi sarjana yang ditawarkan di UMMI?"
+      ],
+      "responses": [
+        "Program studi sarjana di UMMI mencakup berbagai bidang seperti ilmu sosial, ekonomi, dan teknik.",
+        "Contoh program S1 meliputi Administrasi Bisnis, Teknik Informatika, dan Psikologi.",
+        "UMMI menawarkan lebih dari 20 program studi sarjana di berbagai fakultas dan disiplin ilmu."
+      ]
+    },
+    {
+      "tag": "program_studi_magister",
+      "patterns": [
+        "Apa saja program studi magister yang tersedia di UMMI?",
+        "Program studi S2 apa yang ditawarkan di UMMI?",
+        "Silakan berikan penjelasan tentang program studi magister yang ada di UMMI.",
+        "Program studi magister apa saja yang tersedia di UMMI?",
+        "Berapa banyak pilihan program studi magister yang ditawarkan di UMMI?"
+      ],
+      "responses": [
+        "Program studi magister di UMMI meliputi bidang seperti Manajemen, Hukum, dan Teknik Sipil.",
+        "Contoh program S2 meliputi Magister Manajemen, Magister Hukum, dan Magister Teknik.",
+        "UMMI menawarkan lebih dari 10 program studi magister dengan kurikulum berbasis penelitian dan praktik."
+      ]
+    },
+    {
+      "tag": "gelar_vokasi",
+      "patterns": [
+        "Apa yang dimaksud dengan gelar yang diperoleh dari pendidikan vokasi di UMMI?",
+        "Gelar apa yang diberikan dari program vokasi di UMMI?",
+        "Tolong jelaskan tentang gelar vokasi yang diterima dari UMMI.",
+        "Gelar vokasi UMMI apa saja yang ada?",
+        "Bagaimana proses perolehan gelar vokasi di UMMI?"
+      ],
+      "responses": [
+        "Gelar vokasi di UMMI adalah gelar akademik yang diberikan setelah menyelesaikan program studi vokasi.",
+        "Contoh gelar vokasi meliputi Ahli Madya (A.Md.) atau Sarjana Terapan (S.Tr.).",
+        "Proses perolehan gelar vokasi melibatkan penyelesaian kurikulum dan ujian praktis di lapangan."
+      ]
+    },
+    {
+      "tag": "gelar_akademik",
+      "patterns": [
+        "Apa yang dimaksud dengan gelar yang diperoleh dari pendidikan akademik di UMMI?",
+        "Gelar apa yang diberikan dari program akademik di UMMI?",
+        "Silakan jelaskan tentang gelar akademik yang diterima dari UMMI.",
+        "Gelar akademik UMMI apa saja yang ada?",
+        "Bagaimana proses perolehan gelar akademik di UMMI?"
+      ],
+      "responses": [
+        "Gelar akademik di UMMI adalah gelar yang diberikan setelah menyelesaikan program studi akademik yang sesuai.",
+        "Contoh gelar akademik meliputi Sarjana (S1), Magister (S2), dan Doktor (S3).",
+        "Proses perolehan gelar akademik melibatkan pemenuhan semua persyaratan akademik dan penyusunan tesis."
+      ]
+    },
+    {
+      "tag": "program_diploma",
+      "patterns": [
+        "Apa saja program diploma yang dapat dipilih di UMMI?",
+        "Program DIII apa yang ditawarkan di UMMI?",
+        "Silakan jelaskan mengenai program diploma yang ada di UMMI.",
+        "Program diploma apa saja yang tersedia di UMMI?",
+        "Berapa banyak pilihan program diploma yang ditawarkan di UMMI?"
+      ],
+      "responses": [
+        "Program diploma di UMMI meliputi bidang seperti Keperawatan, Teknik Komputer, dan Akuntansi.",
+        "Contoh program DIII meliputi DIII Keperawatan, DIII Teknik Komputer, dan DIII Akuntansi.",
+        "UMMI menawarkan lebih dari 15 program diploma untuk memenuhi kebutuhan pasar kerja dan industri."
+      ]
     }
   ]  
 }
