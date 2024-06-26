@@ -16,21 +16,6 @@
       ]
     },
     {
-      "tag": "pendaftaran_mahasiswa_baru",
-      "patterns": [
-        "Bagaimana langkah mendaftar sebagai mahasiswa baru?",
-        "Apa saja opsi pendaftaran mahasiswa baru?",
-        "Di mana dapat mendaftar untuk menjadi mahasiswa baru?",
-        "Bagaimana proses pendaftaran untuk mahasiswa baru?",
-        "Apa persyaratan yang diperlukan untuk mendaftar sebagai mahasiswa baru?"
-      ],
-      "responses": [
-        "Pendaftaran bisa dilakukan secara langsung di kampus atau melalui link http://pmb.ummi.ac.id/.",
-        "Jalur pendaftaran mencakup jalur reguler, jalur transfer, dan jalur RPL.",
-        "Calon mahasiswa harus mengikuti tahapan pendaftaran sesuai tutorial di laman."
-      ]
-    },
-    {
       "tag": "jalur_pendaftaran",
       "patterns": [
         "Apa yang dimaksud dengan jalur reguler?",
