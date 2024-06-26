@@ -291,21 +291,6 @@
       ]
     },
     {
-      "tag": "program_diploma",
-      "patterns": [
-        "Apa saja program diploma di UMMI?",
-        "Program DIII apa yang tersedia di UMMI?",
-        "Jelaskan program diploma di UMMI",
-        "Program diploma apa yang ada di UMMI?",
-        "Berapa banyak program diploma di UMMI?"
-      ],
-      "responses": [
-        "Program diploma di UMMI meliputi DIII Studi Perpajakan, DIII Keperawatan, dan DIII Hubungan Masyarakat.",
-        "UMMI menyelenggarakan program diploma dengan jenjang pendidikan DIII.",
-        "Pendidikan diploma di UMMI bertujuan untuk menghasilkan lulusan dengan keahlian terapan tertentu."
-      ]
-    },
-    {
       "tag": "jenjang_pendidikan",
       "patterns": [
         "Apa saja jenjang pendidikan di UMMI?",
@@ -347,12 +332,25 @@
         "Bagaimana pendidikan profesi di UMMI?",
         "Jelaskan tentang pendidikan profesi di UMMI",
         "Apa saja yang termasuk pendidikan profesi di UMMI?",
-        "Program studi apa yang tersedia untuk pendidikan profesi di UMMI?"
+        "Program studi apa yang tersedia untuk pendidikan profesi di UMMI?",
+        "Pendidikan profesi di UMMI?",
+        "Bagaimana program pendidikan profesi di UMMI?",
+        "Apa saja program profesi yang ada di UMMI?",
+        "Jelaskan pendidikan profesi di UMMI.",
+        "UMMI punya program pendidikan profesi apa?",
+        "Apa yang dimaksud dengan pendidikan profesi?",
+        "Bisakah Anda menjelaskan pendidikan profesi di UMMI?",
+        "Apa itu program pendidikan profesi?",
+        "Bagaimana cara kerja pendidikan profesi?",
+        "Apa jenjang pendidikan profesi di UMMI?"
       ],
       "responses": [
         "Pendidikan profesi di UMMI adalah program pendidikan yang diarahkan pada penguasaan keahlian khusus untuk profesi tertentu.",
         "UMMI menyelenggarakan program pendidikan profesi untuk berbagai bidang keahlian.",
-        "Program pendidikan profesi bertujuan untuk menghasilkan tenaga profesional yang ahli di bidangnya."
+        "Program pendidikan profesi bertujuan untuk menghasilkan tenaga profesional yang ahli di bidangnya.",
+        "Pendidikan profesi adalah pendidikan tinggi yang mempersiapkan mahasiswa untuk pekerjaan dengan persyaratan keahlian khusus.",
+        "Program pendidikan profesi di UMMI bertujuan untuk menghasilkan tenaga profesional di bidang tertentu.",
+        "Jenjang pendidikan profesi meliputi berbagai program studi yang dirancang untuk kebutuhan profesional."
       ]
     },
     {
@@ -413,21 +411,6 @@
         "Sistem Informasi Akademik (SIAK) UMMI digunakan untuk mengelola informasi akademik seperti kalender akademik dan kegiatan perkuliahan.",
         "Sistem Informasi Akademik UMMI membantu dalam penyusunan dan pengesahan kalender akademik serta sosialisasinya.",
         "Anda bisa mengakses informasi akademik UMMI melalui Sistem Informasi Akademik (SIAK)."
-      ]
-    },
-    {
-      "tag": "kalender_akademik",
-      "patterns": [
-        "Kapan kalender akademik UMMI disusun?",
-        "Apa saja yang tercantum dalam kalender akademik UMMI?",
-        "Bagaimana proses penyusunan kalender akademik?",
-        "Fungsi kalender akademik di UMMI?",
-        "Apa yang dimaksud dengan kalender akademik?"
-      ],
-      "responses": [
-        "Kalender akademik UMMI disusun 3 bulan sebelum tahun akademik berjalan.",
-        "Kalender akademik UMMI mencakup jadwal kegiatan akademik dan non akademik untuk satu tahun akademik.",
-        "Kalender akademik berfungsi sebagai pedoman penyelenggaraan kegiatan akademik dan non akademik di UMMI."
       ]
     },
     {
@@ -536,21 +519,6 @@
       ]
     },
     {
-      "tag": "pendidikan_profesi",
-      "patterns": [
-        "Apa itu pendidikan profesi di UMMI?",
-        "Bagaimana program pendidikan profesi di UMMI?",
-        "Apa saja program profesi yang ada di UMMI?",
-        "Jelaskan pendidikan profesi di UMMI.",
-        "UMMI punya program pendidikan profesi apa?"
-      ],
-      "responses": [
-        "Pendidikan profesi di UMMI adalah program pendidikan yang bertujuan untuk menghasilkan tenaga ahli di bidang tertentu.",
-        "UMMI menyelenggarakan program pendidikan profesi untuk menghasilkan tenaga profesional di berbagai bidang.",
-        "Program pendidikan profesi di UMMI dirancang untuk mempersiapkan lulusan yang siap bekerja di bidang tertentu."
-      ]
-    },
-    {
       "tag": "sarjana_1",
       "patterns": [
         "Apa itu program Sarjana (S1) di UMMI?",
@@ -626,28 +594,13 @@
       ]
     },
     {
-      "tag": "program_studi_sarjana",
-      "patterns": [
-        "Apa saja program studi Sarjana di UMMI?",
-        "UMMI punya program studi S1 apa saja?",
-        "Jelaskan program studi Sarjana di UMMI.",
-        "Detail program studi Sarjana di UMMI.",
-        "Program studi S1 apa yang ada di UMMI?"
-      ],
-      "responses": [
-        "UMMI menyelenggarakan program studi Sarjana (S1) untuk berbagai disiplin ilmu.",
-        "Program studi Sarjana di UMMI mencakup Teknik Sipil, Kimia, Teknik Informatika, Agribisnis, Akuakultur, Akuntansi, Manajemen Retail, dan Administrasi Publik.",
-        "UMMI menawarkan program studi S1 yang beragam untuk memenuhi kebutuhan akademik mahasiswa."
-      ]
-    },
-    {
       "tag": "fasilitas_pendidikan",
       "patterns": [
         "Apa saja fasilitas pendidikan di UMMI?",
-        "Jelaskan fasilitas pendidikan yang ada di UMMI.",
-        "UMMI menyediakan fasilitas pendidikan apa saja?",
-        "Detail fasilitas pendidikan di UMMI.",
-        "Bagaimana fasilitas pendidikan di UMMI?",
+        "Fasilitas pendidikan yang",
+        "fasilitas pendidikan apa saja?",
+        "Detail fasilitas pendidikan di UMMI",
+        "Bagaimana fasilitas pendidikan",
         "Fasilitas pendidikan yang tersedia di UMMI?",
         "Bagaimana cara menggunakan fasilitas pendidikan?",
         "Apakah fasilitas pendidikan tersedia untuk semua jurusan?",
@@ -656,7 +609,7 @@
         "Fasilitas pendidikan",
         "Jelaskan fasilitas pendidikan yang ada di UMMI.",
         "UMMI menyediakan fasilitas pendidikan apa saja?",
-        "Detail fasilitas pendidikan di UMMI.",
+        "Detail fasilitas UMMI",
         "Bagaimana fasilitas pendidikan di UMMI?"
       ],
       "responses": [
@@ -683,21 +636,6 @@
         "UMMI menyelenggarakan program Magister (S2) untuk menghasilkan tenaga ahli di berbagai bidang.",
         "Program Magister di UMMI mencakup berbagai disiplin ilmu yang ditempuh setelah jenjang Sarjana.",
         "UMMI menawarkan program Magister untuk melanjutkan studi ke jenjang yang lebih tinggi."
-      ]
-    },
-    {
-      "tag": "pendidikan_profesi",
-      "patterns": [
-        "Apa yang dimaksud dengan pendidikan profesi?",
-        "Bisakah Anda menjelaskan pendidikan profesi di UMMI?",
-        "Apa itu program pendidikan profesi?",
-        "Bagaimana cara kerja pendidikan profesi?",
-        "Apa jenjang pendidikan profesi di UMMI?"
-      ],
-      "responses": [
-        "Pendidikan profesi adalah pendidikan tinggi yang mempersiapkan mahasiswa untuk pekerjaan dengan persyaratan keahlian khusus.",
-        "Program pendidikan profesi di UMMI bertujuan untuk menghasilkan tenaga profesional di bidang tertentu.",
-        "Jenjang pendidikan profesi meliputi berbagai program studi yang dirancang untuk kebutuhan profesional."
       ]
     },
     {

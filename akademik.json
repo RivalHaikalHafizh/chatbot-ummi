@@ -1,0 +1,724 @@
+{
+    "intents": [
+      {
+        "tag": "BentukPerkuliahan",
+        "patterns": [
+          "Apa saja bentuk perkuliahan di UMMI?",
+          "Bagaimana metode perkuliahan di UMMI?",
+          "Apakah ada kuliah online di UMMI?",
+          "Seperti apa perkuliahan tatap muka di UMMI?",
+          "Apa perbedaan kuliah teori dan praktikum?",
+          "Bagaimana pelaksanaan kuliah lapangan?",
+          "Apa itu kuliah kerja nyata?",
+          "Bagaimana sistem kuliah blended learning?",
+          "Apakah UMMI menyediakan kuliah hybrid?",
+          "Bagaimana cara mengikuti kuliah daring?"
+        ],
+        "responses": [
+          "Di UMMI, bentuk perkuliahan meliputi kuliah tatap muka, kuliah online, praktikum, kuliah lapangan, dan kuliah kerja nyata.",
+          "Metode perkuliahan di UMMI mencakup kuliah teori, praktikum, blended learning, dan hybrid learning.",
+          "UMMI menyediakan kuliah online melalui platform e-learning untuk beberapa mata kuliah.",
+          "Perkuliahan tatap muka di UMMI dilaksanakan di ruang kelas dengan interaksi langsung antara dosen dan mahasiswa.",
+          "Kuliah teori lebih berfokus pada penyampaian materi oleh dosen, sedangkan praktikum melibatkan kegiatan praktik yang lebih aplikatif."
+        ]
+      },
+      {
+        "tag": "FrekuensiPerkuliahan",
+        "patterns": [
+          "Seberapa sering perkuliahan diadakan di UMMI?",
+          "Berapa kali pertemuan dalam satu semester?",
+          "Apakah kuliah di UMMI setiap hari?",
+          "Bagaimana jadwal perkuliahan di UMMI?",
+          "Apakah ada perkuliahan di hari Sabtu?",
+          "Seberapa sering praktikum dilaksanakan?",
+          "Bagaimana pembagian jadwal kuliah teori dan praktikum?",
+          "Apakah kuliah online memiliki frekuensi yang sama dengan tatap muka?",
+          "Berapa lama durasi setiap pertemuan kuliah?",
+          "Bagaimana frekuensi pertemuan kuliah lapangan?"
+        ],
+        "responses": [
+          "Perkuliahan di UMMI biasanya diadakan beberapa kali dalam seminggu, tergantung jadwal mata kuliah.",
+          "Jumlah pertemuan dalam satu semester bervariasi, biasanya antara 14 hingga 16 kali pertemuan per mata kuliah.",
+          "Kuliah di UMMI tidak selalu setiap hari, tergantung pada jadwal masing-masing mahasiswa.",
+          "Jadwal perkuliahan di UMMI diatur sesuai dengan kalender akademik yang telah ditetapkan.",
+          "Beberapa program studi mungkin mengadakan perkuliahan di hari Sabtu, terutama untuk program tertentu atau kelas karyawan."
+        ]
+      },
+      {
+        "tag": "KurikulumMBKM",
+        "patterns": [
+          "Apa itu Kurikulum MBKM di UMMI?",
+          "Bagaimana penerapan Kurikulum MBKM?",
+          "Apa manfaat Kurikulum MBKM bagi mahasiswa?",
+          "Apa saja kegiatan dalam Kurikulum MBKM?",
+          "Bagaimana cara mengikuti program MBKM?",
+          "Apa syarat untuk mengikuti MBKM?",
+          "Apakah MBKM wajib diikuti semua mahasiswa?",
+          "Bagaimana penilaian dalam program MBKM?",
+          "Apa saja pilihan mata kuliah dalam MBKM?",
+          "Bagaimana cara mendaftar program MBKM?"
+        ],
+        "responses": [
+          "Kurikulum MBKM di UMMI adalah program yang memberikan kebebasan kepada mahasiswa untuk belajar di luar program studi selama 3 semester.",
+          "Penerapan Kurikulum MBKM melibatkan berbagai kegiatan seperti magang, pertukaran pelajar, penelitian, dan proyek desa.",
+          "Manfaat Kurikulum MBKM bagi mahasiswa termasuk pengalaman praktis, pengembangan keterampilan, dan jaringan profesional.",
+          "Kegiatan dalam Kurikulum MBKM meliputi magang, proyek penelitian, kegiatan wirausaha, dan pertukaran pelajar.",
+          "Untuk mengikuti program MBKM, mahasiswa harus memenuhi syarat tertentu dan mendaftar melalui program studi masing-masing."
+        ]
+      },
+      {
+        "tag": "RPL_BatasWaktu",
+        "patterns": [
+          "Kapan batas waktu pengajuan RPL?",
+          "Berapa lama waktu yang diberikan untuk pengajuan RPL?",
+          "Apa tenggat waktu untuk pendaftaran RPL?",
+          "Kapan deadline pendaftaran RPL di UMMI?",
+          "Berapa lama proses pengajuan RPL berlangsung?",
+          "Kapan waktu terakhir untuk mengajukan RPL?",
+          "Berapa lama waktu yang diperlukan untuk evaluasi RPL?",
+          "Apa saja tahapan dalam pengajuan RPL?",
+          "Kapan jadwal pengajuan RPL diumumkan?",
+          "Bagaimana cara mengetahui batas waktu RPL?"
+        ],
+        "responses": [
+          "Batas waktu pengajuan RPL di UMMI biasanya diumumkan pada awal semester dan berlangsung hingga beberapa minggu sebelum ujian akhir.",
+          "Mahasiswa diberi waktu sekitar 4 hingga 6 minggu untuk mengajukan RPL setelah jadwal diumumkan.",
+          "Tenggat waktu pendaftaran RPL akan diinformasikan melalui pengumuman resmi dari fakultas atau program studi.",
+          "Deadline pendaftaran RPL di UMMI biasanya sekitar satu bulan sebelum ujian akhir semester.",
+          "Proses pengajuan RPL dapat berlangsung selama beberapa minggu, tergantung pada jumlah dan kompleksitas kasus yang diajukan."
+        ]
+      },
+      {
+        "tag": "RPL_Definisi",
+        "patterns": [
+          "Apa itu RPL di UMMI?",
+          "Bagaimana definisi RPL?",
+          "Apa arti dari Rekognisi Pembelajaran Lampau?",
+          "Bagaimana konsep RPL di UMMI?",
+          "Apa yang dimaksud dengan RPL?",
+          "Apa tujuan dari RPL?",
+          "Bagaimana RPL diterapkan di UMMI?",
+          "Apa perbedaan RPL dengan transfer kredit?",
+          "Siapa yang bisa mengajukan RPL?",
+          "Apakah RPL diakui secara resmi?"
+        ],
+        "responses": [
+          "RPL (Rekognisi Pembelajaran Lampau) di UMMI adalah proses pengakuan atas pembelajaran atau pengalaman kerja sebelumnya untuk mendapatkan kredit akademik.",
+          "Definisi RPL adalah pengakuan formal atas pengetahuan, keterampilan, dan kompetensi yang diperoleh dari pengalaman sebelumnya.",
+          "Rekognisi Pembelajaran Lampau (RPL) bertujuan untuk memberikan kesempatan kepada mahasiswa untuk mempercepat penyelesaian studi berdasarkan pengalaman mereka.",
+          "Konsep RPL di UMMI melibatkan penilaian dan verifikasi terhadap pengalaman belajar atau kerja yang relevan dengan program studi.",
+          "RPL di UMMI memungkinkan mahasiswa untuk mendapatkan kredit tanpa harus mengikuti semua mata kuliah yang diakui melalui proses evaluasi."
+        ]
+      },
+      {
+        "tag": "RPL_InformasiLebihLanjut",
+        "patterns": [
+          "Dimana saya bisa mendapatkan informasi lebih lanjut tentang RPL?",
+          "Siapa yang bisa saya hubungi untuk informasi RPL?",
+          "Apakah ada brosur atau panduan tentang RPL?",
+          "Bagaimana cara mengetahui lebih banyak tentang RPL di UMMI?",
+          "Apakah ada website yang menyediakan informasi RPL?",
+          "Bagaimana cara mengakses informasi RPL secara online?",
+          "Di mana saya bisa mendapatkan formulir RPL?",
+          "Apakah ada seminar atau workshop tentang RPL?",
+          "Bagaimana cara mendapatkan panduan RPL?",
+          "Apakah ada kantor yang mengurusi RPL?"
+        ],
+        "responses": [
+          "Untuk informasi lebih lanjut tentang RPL, Anda dapat mengunjungi website resmi UMMI atau menghubungi bagian akademik.",
+          "Anda bisa menghubungi bagian akademik di fakultas Anda untuk mendapatkan informasi lebih lanjut tentang RPL.",
+          "UMMI menyediakan brosur dan panduan tentang RPL yang dapat diambil di kantor akademik atau diunduh dari website.",
+          "Informasi lebih banyak tentang RPL di UMMI dapat ditemukan di portal mahasiswa dan melalui pengumuman resmi.",
+          "Website resmi UMMI memiliki halaman khusus yang menyediakan informasi lengkap tentang proses dan persyaratan RPL."
+        ]
+      },
+      {
+        "tag": "RPL_Keuntungan",
+        "patterns": [
+          "Apa keuntungan mengikuti RPL di UMMI?",
+          "Mengapa saya harus mengikuti program RPL?",
+          "Apa manfaat RPL bagi mahasiswa?",
+          "Bagaimana RPL dapat membantu studi saya?",
+          "Apakah RPL mempercepat waktu kelulusan?",
+          "Bagaimana RPL mempengaruhi biaya kuliah?",
+          "Apa saja keuntungan akademik dari RPL?",
+          "Apakah RPL membantu dalam karir profesional?",
+          "Bagaimana RPL mempengaruhi transkrip akademik?",
+          "Apakah RPL diakui oleh instansi lain?"
+        ],
+        "responses": [
+          "Keuntungan mengikuti RPL di UMMI termasuk percepatan waktu kelulusan dan pengakuan pengalaman kerja atau pembelajaran sebelumnya.",
+          "Program RPL memungkinkan mahasiswa untuk menghemat waktu dan biaya dengan mendapatkan kredit untuk pembelajaran yang sudah dilakukan.",
+          "RPL memberikan manfaat akademik seperti pengakuan terhadap kompetensi dan keterampilan yang telah dimiliki sebelumnya.",
+          "Dengan RPL, mahasiswa dapat fokus pada mata kuliah yang baru dan relevan dengan studi mereka, tanpa harus mengulang yang sudah dikuasai.",
+          "RPL di UMMI diakui secara resmi dan dapat mempengaruhi transkrip akademik serta diakui oleh instansi lain yang bekerja sama dengan UMMI."
+        ]
+      },
+      {
+        "tag": "RPL_Penyelenggaraan",
+        "patterns": [
+          "Bagaimana penyelenggaraan RPL di UMMI?",
+          "Siapa yang menyelenggarakan RPL?",
+          "Apa tahapan dalam penyelenggaraan RPL?",
+          "Bagaimana proses penyelenggaraan RPL di UMMI?",
+          "Siapa yang bertanggung jawab atas program RPL?",
+          "Apa yang harus saya persiapkan untuk mengikuti RPL?",
+          "Bagaimana cara mendaftar RPL?",
+          "Apakah ada biaya untuk mengikuti RPL?",
+          "Bagaimana alur pendaftaran RPL?",
+          "Apakah ada sesi sosialisasi untuk RPL?"
+        ],
+        "responses": [
+          "Penyelenggaraan RPL di UMMI melibatkan berbagai tahapan mulai dari pendaftaran, evaluasi, hingga pengakuan kredit.",
+          "RPL diselenggarakan oleh bagian akademik UMMI bekerja sama dengan program studi terkait.",
+          "Tahapan dalam penyelenggaraan RPL termasuk pengumpulan dokumen, evaluasi, dan penilaian oleh tim akademik.",
+          "Proses penyelenggaraan RPL melibatkan verifikasi dan penilaian terhadap pengalaman dan pembelajaran sebelumnya.",
+          "Program RPL di UMMI bertanggung jawab pada bagian akademik dengan dukungan dari fakultas dan program studi."
+        ]
+      },
+      {
+        "tag": "RPL_Persyaratan",
+        "patterns": [
+          "Apa saja persyaratan untuk mengikuti RPL?",
+          "Dokumen apa yang dibutuhkan untuk RPL?",
+          "Apa syarat utama untuk program RPL?",
+          "Bagaimana kriteria untuk mengikuti RPL?",
+          "Apakah ada syarat pengalaman kerja untuk RPL?",
+          "Apa yang perlu dipersiapkan untuk pengajuan RPL?",
+          "Bagaimana cara memenuhi persyaratan RPL?",
+          "Apakah ada usia minimum untuk RPL?",
+          "Apa saja kualifikasi yang diperlukan untuk RPL?",
+          "Apakah mahasiswa baru bisa mengikuti RPL?"
+        ],
+        "responses": [
+          "Persyaratan untuk mengikuti RPL termasuk dokumen akademik, bukti pengalaman kerja, dan portofolio pembelajaran.",
+          "Dokumen yang dibutuhkan untuk RPL meliputi transkrip nilai, sertifikat pelatihan, dan bukti pengalaman kerja.",
+          "Syarat utama untuk program RPL adalah adanya pembelajaran atau pengalaman yang relevan dengan program studi.",
+          "Kriteria untuk mengikuti RPL mencakup pengalaman kerja minimal 2 tahun di bidang yang sesuai dan pendidikan sebelumnya yang relevan.",
+          "Mahasiswa baru biasanya tidak memenuhi syarat untuk RPL, karena RPL ditujukan untuk pengakuan pembelajaran yang sudah dilakukan sebelumnya."
+        ]
+      },
+      {
+        "tag": "RPL_ProsesPenilaian",
+        "patterns": [
+          "Bagaimana proses penilaian RPL?",
+          "Apa yang dinilai dalam RPL?",
+          "Bagaimana cara penilaian RPL di UMMI?",
+          "Siapa yang melakukan penilaian RPL?",
+          "Apa kriteria penilaian RPL?",
+          "Bagaimana penilaian pengalaman kerja dalam RPL?",
+          "Apakah ada ujian untuk RPL?",
+          "Bagaimana cara mengetahui hasil penilaian RPL?",
+          "Apa yang harus dipersiapkan untuk penilaian RPL?",
+          "Berapa lama waktu penilaian RPL?"
+        ],
+        "responses": [
+          "Proses penilaian RPL melibatkan evaluasi dokumen, wawancara, dan verifikasi oleh tim penilai.",
+          "Penilaian dalam RPL mencakup pembelajaran yang telah dilakukan, pengalaman kerja, dan relevansi dengan program studi.",
+          "Penilaian RPL di UMMI dilakukan oleh tim akademik yang terdiri dari dosen dan staf yang berkompeten.",
+          "Kriteria penilaian RPL meliputi kesesuaian pengalaman dan pembelajaran dengan mata kuliah yang diajukan untuk pengakuan kredit.",
+          "Hasil penilaian RPL dapat diketahui melalui pengumuman resmi atau melalui portal akademik UMMI."
+        ]
+      },
+      {
+        "tag": "RPL_SKS",
+        "patterns": [
+          "Berapa SKS yang bisa didapat dari RPL?",
+          "Apakah RPL mempengaruhi jumlah SKS?",
+          "Berapa kredit yang diakui dari RPL?",
+          "Bagaimana penghitungan SKS dari RPL?",
+          "Berapa maksimum SKS yang bisa diambil melalui RPL?",
+          "Apakah semua SKS bisa diambil melalui RPL?",
+          "Bagaimana SKS RPL masuk ke dalam transkrip?",
+          "Berapa banyak mata kuliah yang bisa diakui melalui RPL?",
+          "Bagaimana cara pengajuan SKS melalui RPL?",
+          "Apa yang harus dipenuhi untuk mendapatkan SKS dari RPL?"
+        ],
+        "responses": [
+          "Jumlah SKS yang bisa didapat dari RPL tergantung pada evaluasi pengalaman dan pembelajaran yang diakui, biasanya maksimal 40% dari total SKS program studi.",
+          "RPL dapat mempengaruhi jumlah SKS yang harus diambil, mengurangi beban studi dengan mengakui pembelajaran sebelumnya.",
+          "Kredit yang diakui dari RPL bervariasi, tergantung pada relevansi dan kesesuaian dengan kurikulum program studi.",
+          "Penghitungan SKS dari RPL dilakukan berdasarkan evaluasi dokumen dan pengalaman yang diajukan oleh mahasiswa.",
+          "Maksimum SKS yang bisa diambil melalui RPL biasanya ditentukan oleh kebijakan universitas, dengan batas tertentu."
+        ]
+      },
+      {
+        "tag": "RPL_Tipe",
+        "patterns": [
+          "Apa saja tipe RPL di UMMI?",
+          "Bagaimana jenis RPL yang ditawarkan?",
+          "Apa perbedaan RPL formal dan informal?",
+          "Apakah ada RPL untuk pengalaman kerja?",
+          "Bagaimana RPL akademik dan non-akademik?",
+          "Apa saja kategori RPL di UMMI?",
+          "Apakah ada RPL untuk pelatihan dan sertifikasi?",
+          "Bagaimana cara mengikuti RPL informal?",
+          "Apa itu RPL profesional?",
+          "Bagaimana tipe RPL berdasarkan pengalaman?"
+        ],
+        "responses": [
+          "Tipe RPL di UMMI meliputi RPL formal, informal, dan non-formal, berdasarkan sumber pembelajaran yang diakui.",
+          "Jenis RPL yang ditawarkan mencakup pengakuan pembelajaran dari pendidikan formal, pengalaman kerja, dan pelatihan profesional.",
+          "RPL formal mengakui pembelajaran dari pendidikan formal seperti kursus dan pelatihan terstruktur, sedangkan RPL informal mengakui pengalaman kerja dan pembelajaran mandiri.",
+          "RPL untuk pengalaman kerja mengakui keterampilan dan pengetahuan yang diperoleh melalui pengalaman profesional.",
+          "Kategori RPL di UMMI termasuk RPL akademik, non-akademik, dan profesional, tergantung pada jenis pembelajaran yang diakui."
+        ]
+      },
+      {
+        "tag": "RPL_Tujuan",
+        "patterns": [
+          "Apa tujuan dari RPL di UMMI?",
+          "Mengapa ada program RPL?",
+          "Apa manfaat utama dari RPL?",
+          "Bagaimana RPL dapat membantu mahasiswa?",
+          "Apa tujuan akademik dari RPL?",
+          "Mengapa RPL penting untuk pendidikan?",
+          "Apa yang ingin dicapai dengan RPL?",
+          "Bagaimana RPL mendukung karir mahasiswa?",
+          "Apa visi dan misi RPL di UMMI?",
+          "Bagaimana RPL berkontribusi pada pembelajaran?"
+        ],
+        "responses": [
+          "Tujuan dari RPL di UMMI adalah untuk mengakui pembelajaran dan pengalaman kerja sebelumnya sehingga mahasiswa dapat menghemat waktu dan biaya dalam menyelesaikan studi.",
+          "Program RPL ada untuk memberikan kesempatan kepada mahasiswa agar pembelajaran mereka diakui secara formal, mempercepat waktu kelulusan.",
+          "Manfaat utama dari RPL termasuk pengakuan kompetensi yang telah diperoleh, fleksibilitas dalam studi, dan penghematan biaya.",
+          "RPL dapat membantu mahasiswa dengan mengakui pengalaman yang relevan, memungkinkan mereka fokus pada pembelajaran baru.",
+          "Tujuan akademik dari RPL adalah untuk memastikan bahwa pembelajaran informal dan non-formal diakui setara dengan pembelajaran formal."
+        ]
+      },
+      {
+        "tag": "beasiswa",
+        "patterns": [
+          "Apa saja jenis beasiswa di UMMI?",
+          "Bagaimana cara mendapatkan beasiswa?",
+          "Apa syarat untuk mengajukan beasiswa?",
+          "Apakah ada beasiswa untuk mahasiswa baru?",
+          "Bagaimana proses seleksi beasiswa?",
+          "Kapan pendaftaran beasiswa dibuka?",
+          "Apa saja beasiswa yang ditawarkan oleh UMMI?",
+          "Bagaimana cara mendaftar beasiswa di UMMI?",
+          "Apa kriteria untuk mendapatkan beasiswa?",
+          "Apakah beasiswa mencakup biaya hidup?"
+        ],
+        "responses": [
+          "UMMI menawarkan berbagai jenis beasiswa, termasuk beasiswa prestasi akademik, beasiswa kurang mampu, dan beasiswa kerjasama.",
+          "Untuk mendapatkan beasiswa, mahasiswa harus memenuhi syarat dan ketentuan yang berlaku serta mengikuti proses seleksi.",
+          "Syarat untuk mengajukan beasiswa bervariasi, namun umumnya termasuk nilai akademik yang baik dan dokumen pendukung.",
+          "UMMI menyediakan beasiswa untuk mahasiswa baru berdasarkan prestasi akademik dan kebutuhan finansial.",
+          "Proses seleksi beasiswa melibatkan penilaian dokumen, wawancara, dan verifikasi data oleh tim seleksi."
+        ]
+      },
+      {
+        "tag": "benefit_kerjasama",
+        "patterns": [
+          "Apa manfaat kerjasama dengan UMMI?",
+          "Bagaimana UMMI menjalin kerjasama dengan pihak lain?",
+          "Apa saja keuntungan dari program kerjasama UMMI?",
+          "Siapa saja mitra kerjasama UMMI?",
+          "Apa saja bentuk kerjasama yang dilakukan oleh UMMI?",
+          "Bagaimana kerjasama UMMI dengan industri?",
+          "Apakah ada program magang hasil kerjasama UMMI?",
+          "Bagaimana cara bergabung dengan program kerjasama UMMI?",
+          "Apa saja proyek kerjasama yang dilakukan UMMI?",
+          "Bagaimana kerjasama UMMI dalam bidang penelitian?"
+        ],
+        "responses": [
+          "Manfaat kerjasama dengan UMMI termasuk akses ke sumber daya akademik, program magang, dan kesempatan penelitian bersama.",
+          "UMMI menjalin kerjasama dengan berbagai pihak melalui MoU dan perjanjian resmi untuk pengembangan akademik dan penelitian.",
+          "Keuntungan dari program kerjasama UMMI termasuk pengembangan kompetensi mahasiswa, jaringan profesional, dan pengalaman industri.",
+          "Mitra kerjasama UMMI meliputi berbagai perusahaan, institusi pendidikan, dan organisasi pemerintah.",
+          "Bentuk kerjasama yang dilakukan oleh UMMI mencakup program magang, penelitian bersama, seminar, dan workshop."
+        ]
+      },
+      {
+        "tag": "bimbingan_konseling",
+        "patterns": [
+          "Bagaimana layanan bimbingan dan konseling di UMMI?",
+          "Siapa yang bisa mengakses bimbingan konseling?",
+          "Apa saja layanan yang disediakan oleh pusat konseling?",
+          "Bagaimana cara mendapatkan bimbingan konseling?",
+          "Apakah bimbingan konseling di UMMI gratis?",
+          "Bagaimana cara membuat janji dengan konselor?",
+          "Apa saja topik yang bisa dibahas dalam bimbingan konseling?",
+          "Siapa saja konselor di UMMI?",
+          "Apakah bimbingan konseling juga mencakup karir?",
+          "Bagaimana bimbingan konseling membantu mahasiswa?"
+        ],
+        "responses": [
+          "Layanan bimbingan dan konseling di UMMI mencakup konseling akademik, pribadi, dan karir.",
+          "Semua mahasiswa UMMI dapat mengakses layanan bimbingan konseling yang disediakan oleh universitas.",
+          "Layanan yang disediakan oleh pusat konseling meliputi sesi konseling individu, kelompok, dan workshop pengembangan diri.",
+          "Untuk mendapatkan bimbingan konseling, mahasiswa dapat menghubungi pusat konseling dan membuat janji temu dengan konselor.",
+          "Layanan bimbingan konseling di UMMI disediakan secara gratis bagi seluruh mahasiswa."
+        ]
+      },
+      {
+        "tag": "computer_centre",
+        "patterns": [
+          "Apa saja fasilitas yang ada di pusat komputer UMMI?",
+          "Bagaimana cara menggunakan fasilitas di pusat komputer?",
+          "Apakah pusat komputer UMMI buka setiap hari?",
+          "Bagaimana cara memesan komputer di pusat komputer?",
+          "Apakah ada pelatihan komputer di UMMI?",
+          "Bagaimana cara mengakses internet di pusat komputer?",
+          "Apakah pusat komputer menyediakan printer?",
+          "Bagaimana cara menghubungi pusat komputer UMMI?",
+          "Apakah ada dukungan teknis di pusat komputer?",
+          "Apa saja layanan yang disediakan oleh pusat komputer UMMI?"
+        ],
+        "responses": [
+          "Fasilitas yang ada di pusat komputer UMMI meliputi komputer dengan akses internet, printer, dan ruang belajar.",
+          "Untuk menggunakan fasilitas di pusat komputer, mahasiswa perlu mendaftar dan memesan waktu penggunaan melalui sistem online.",
+          "Pusat komputer UMMI buka setiap hari kerja dengan jam operasional tertentu yang diumumkan oleh universitas.",
+          "Untuk memesan komputer, mahasiswa dapat mengakses sistem reservasi online atau langsung menghubungi pusat komputer.",
+          "UMMI menyediakan pelatihan komputer secara berkala untuk meningkatkan keterampilan teknis mahasiswa."
+        ]
+      },
+      {
+        "tag": "cuti_kuliah",
+        "patterns": [
+          "Bagaimana prosedur cuti kuliah di UMMI?",
+          "Apa syarat untuk mengajukan cuti kuliah?",
+          "Berapa lama maksimal cuti kuliah?",
+          "Apakah cuti kuliah mempengaruhi masa studi?",
+          "Bagaimana cara mengajukan cuti kuliah?",
+          "Apakah ada biaya untuk cuti kuliah?",
+          "Kapan saya bisa mengajukan cuti kuliah?",
+          "Apakah cuti kuliah harus disetujui oleh dosen wali?",
+          "Bagaimana status saya saat cuti kuliah?",
+          "Apa yang harus dilakukan setelah cuti kuliah?"
+        ],
+        "responses": [
+          "Prosedur cuti kuliah di UMMI melibatkan pengajuan formulir cuti dan persetujuan dari dosen wali serta bagian akademik.",
+          "Syarat untuk mengajukan cuti kuliah termasuk alasan yang jelas dan tidak memiliki tunggakan biaya kuliah.",
+          "Masa cuti kuliah maksimal adalah dua semester berturut-turut.",
+          "Cuti kuliah akan mempengaruhi masa studi, tetapi tidak akan dihitung dalam batas waktu penyelesaian studi.",
+          "Untuk mengajukan cuti kuliah, mahasiswa harus mengisi formulir cuti dan mendapat persetujuan dari dosen wali serta bagian akademik."
+        ]
+      },
+      {
+        "tag": "deteksi_plagiasi",
+        "patterns": [
+          "Bagaimana prosedur deteksi plagiasi di UMMI?",
+          "Apa yang dimaksud dengan plagiasi?",
+          "Apa sanksi untuk plagiasi di UMMI?",
+          "Bagaimana cara menghindari plagiasi?",
+          "Apakah UMMI menggunakan software deteksi plagiasi?",
+          "Bagaimana cara mengecek plagiasi sebelum mengumpulkan tugas?",
+          "Apa yang harus dilakukan jika terdeteksi plagiasi?",
+          "Bagaimana cara mengetahui hasil deteksi plagiasi?",
+          "Apakah ada pelatihan tentang plagiasi?",
+          "Apa saja yang termasuk dalam plagiasi?"
+        ],
+        "responses": [
+          "Prosedur deteksi plagiasi di UMMI melibatkan penggunaan software deteksi plagiasi dan penilaian oleh dosen.",
+          "Plagiasi adalah tindakan mengambil karya orang lain tanpa memberikan kredit atau pengakuan yang sesuai.",
+          "Sanksi untuk plagiasi di UMMI bervariasi mulai dari peringatan hingga pembatalan kelulusan, tergantung pada tingkat kesalahan.",
+          "Untuk menghindari plagiasi, mahasiswa harus selalu mencantumkan sumber referensi dan memahami aturan sitasi yang benar.",
+          "UMMI menggunakan software deteksi plagiasi untuk memastikan keaslian karya akademik mahasiswa."
+        ]
+      },
+      {
+        "tag": "diploma_III",
+        "patterns": [
+          "Apa itu program Diploma III di UMMI?",
+          "Berapa lama studi untuk program Diploma III?",
+          "Apa saja jurusan yang tersedia di program Diploma III?",
+          "Bagaimana cara mendaftar program Diploma III?",
+          "Apa syarat masuk untuk program Diploma III?",
+          "Bagaimana prospek karir setelah lulus dari program Diploma III?",
+          "Apakah ada program beasiswa untuk Diploma III?",
+          "Apa perbedaan antara Diploma III dan Sarjana?",
+          "Bagaimana kurikulum program Diploma III?",
+          "Apakah lulusan Diploma III bisa melanjutkan ke Sarjana?"
+        ],
+        "responses": [
+          "Program Diploma III di UMMI adalah program pendidikan vokasi dengan masa studi 3 tahun.",
+          "Studi untuk program Diploma III biasanya berlangsung selama 6 semester atau 3 tahun.",
+          "Jurusan yang tersedia di program Diploma III bervariasi tergantung pada fakultas yang ada di UMMI.",
+          "Untuk mendaftar program Diploma III, calon mahasiswa harus mengikuti seleksi masuk yang diadakan oleh UMMI.",
+          "Syarat masuk untuk program Diploma III termasuk ijazah SMA atau sederajat dan mengikuti ujian seleksi."
+        ]
+      },
+      {
+        "tag": "diploma_supplement",
+        "patterns": [
+          "Apa itu diploma supplement?",
+          "Bagaimana cara mendapatkan diploma supplement di UMMI?",
+          "Apa manfaat diploma supplement?",
+          "Apakah diploma supplement diakui secara internasional?",
+          "Bagaimana isi dari diploma supplement?",
+          "Apa perbedaan antara diploma dan diploma supplement?",
+          "Apakah setiap lulusan mendapatkan diploma supplement?",
+          "Bagaimana prosedur pengajuan diploma supplement?",
+          "Kapan diploma supplement diberikan?",
+          "Apakah ada biaya untuk mendapatkan diploma supplement?"
+        ],
+        "responses": [
+          "Diploma supplement adalah dokumen tambahan yang menjelaskan detail kualifikasi akademik dan kompetensi lulusan.",
+          "Untuk mendapatkan diploma supplement di UMMI, lulusan harus mengajukan permohonan melalui bagian akademik.",
+          "Manfaat diploma supplement termasuk pengakuan kualifikasi akademik secara lebih luas, terutama untuk keperluan internasional.",
+          "Diploma supplement diakui secara internasional dan dapat membantu lulusan dalam melanjutkan studi atau bekerja di luar negeri.",
+          "Isi dari diploma supplement mencakup informasi tentang program studi, hasil akademik, dan kompetensi yang diperoleh selama studi."
+        ]
+      },
+      {
+        "tag": "double_degree",
+        "patterns": [
+          "Apa itu program double degree di UMMI?",
+          "Bagaimana cara mendaftar program double degree?",
+          "Apa saja syarat untuk mengikuti program double degree?",
+          "Berapa lama studi untuk program double degree?",
+          "Apa keuntungan dari program double degree?",
+          "Bagaimana kurikulum program double degree?",
+          "Apakah ada biaya tambahan untuk program double degree?",
+          "Bagaimana prospek karir setelah lulus dari program double degree?",
+          "Apakah program double degree diakui di luar negeri?",
+          "Bagaimana proses seleksi untuk program double degree?"
+        ],
+        "responses": [
+          "Program double degree di UMMI memungkinkan mahasiswa untuk mendapatkan dua gelar dari dua program studi yang berbeda dalam satu periode studi.",
+          "Untuk mendaftar program double degree, mahasiswa harus mengikuti prosedur pendaftaran yang ditetapkan oleh UMMI dan mitra universitas.",
+          "Syarat untuk mengikuti program double degree termasuk prestasi akademik yang baik dan persetujuan dari kedua program studi.",
+          "Masa studi untuk program double degree bervariasi tergantung pada kesepakatan antara UMMI dan universitas mitra.",
+          "Keuntungan dari program double degree termasuk pengakuan dua gelar akademik, kesempatan belajar di dua institusi, dan prospek karir yang lebih luas."
+        ]
+      },
+      {
+        "tag": "ekstrakurikuler",
+        "patterns": [
+          "Apa saja kegiatan ekstrakurikuler di UMMI?",
+          "Bagaimana cara bergabung dengan ekstrakurikuler?",
+          "Apakah ada biaya untuk mengikuti kegiatan ekstrakurikuler?",
+          "Apa manfaat mengikuti ekstrakurikuler di UMMI?",
+          "Bagaimana jadwal kegiatan ekstrakurikuler?",
+          "Apakah ekstrakurikuler wajib untuk mahasiswa baru?",
+          "Bagaimana cara mendaftar ekstrakurikuler?",
+          "Apa saja organisasi mahasiswa yang ada di UMMI?",
+          "Apakah kegiatan ekstrakurikuler mendapatkan SKPI?",
+          "Bagaimana cara mengetahui informasi tentang ekstrakurikuler?"
+        ],
+        "responses": [
+          "UMMI menawarkan berbagai kegiatan ekstrakurikuler termasuk olahraga, seni, budaya, dan organisasi mahasiswa.",
+          "Untuk bergabung dengan ekstrakurikuler, mahasiswa dapat mendaftar melalui organisasi mahasiswa atau menghubungi bagian kemahasiswaan.",
+          "Beberapa kegiatan ekstrakurikuler mungkin memerlukan biaya pendaftaran atau iuran anggota.",
+          "Manfaat mengikuti ekstrakurikuler di UMMI termasuk pengembangan keterampilan, networking, dan peningkatan pengalaman kampus.",
+          "Jadwal kegiatan ekstrakurikuler diatur oleh masing-masing organisasi mahasiswa dan diumumkan secara berkala."
+        ]
+      },
+      {
+        "tag": "evaluasihasilbelajar",
+        "patterns": [
+          "Bagaimana evaluasi hasil belajar di UMMI?",
+          "Apa saja metode evaluasi yang digunakan?",
+          "Kapan evaluasi hasil belajar dilakukan?",
+          "Apa kriteria penilaian hasil belajar?",
+          "Bagaimana cara mengetahui hasil evaluasi belajar?",
+          "Apakah ada ujian tengah semester?",
+          "Bagaimana cara mengajukan keberatan terhadap nilai?",
+          "Bagaimana format ujian di UMMI?",
+          "Apa yang dinilai dalam evaluasi hasil belajar?",
+          "Bagaimana cara meningkatkan hasil evaluasi belajar?"
+        ],
+        "responses": [
+          "Evaluasi hasil belajar di UMMI dilakukan melalui berbagai metode termasuk ujian tertulis, proyek, dan presentasi.",
+          "Metode evaluasi yang digunakan meliputi ujian tengah semester, ujian akhir semester, tugas, dan partisipasi kelas.",
+          "Evaluasi hasil belajar dilakukan pada akhir setiap semester dengan ujian tengah semester diadakan di pertengahan semester.",
+          "Kriteria penilaian hasil belajar mencakup pemahaman materi, keterampilan analisis, partisipasi aktif, dan hasil ujian.",
+          "Mahasiswa dapat mengetahui hasil evaluasi belajar melalui portal akademik atau pengumuman resmi dari dosen."
+        ]
+      },
+      {
+        "tag": "fasilitas_olahraga",
+        "patterns": [
+          "Apa saja fasilitas olahraga yang tersedia di UMMI?",
+          "Bagaimana cara menggunakan fasilitas olahraga?",
+          "Apakah fasilitas olahraga terbuka untuk semua mahasiswa?",
+          "Bagaimana cara memesan lapangan olahraga?",
+          "Apakah ada pelatihan olahraga di UMMI?",
+          "Apa jadwal buka fasilitas olahraga?",
+          "Apakah ada biaya untuk menggunakan fasilitas olahraga?",
+          "Bagaimana cara bergabung dengan klub olahraga?",
+          "Apakah fasilitas olahraga juga tersedia untuk staf?",
+          "Bagaimana cara mengetahui kegiatan olahraga di UMMI?"
+        ],
+        "responses": [
+          "UMMI menyediakan berbagai fasilitas olahraga termasuk lapangan basket, futsal, voli, dan pusat kebugaran.",
+          "Untuk menggunakan fasilitas olahraga, mahasiswa perlu mendaftar dan mengikuti aturan yang ditetapkan oleh bagian kemahasiswaan.",
+          "Fasilitas olahraga terbuka untuk semua mahasiswa dan staf UMMI dengan jadwal yang telah ditentukan.",
+          "Untuk memesan lapangan olahraga, mahasiswa dapat mengisi formulir pemesanan di bagian kemahasiswaan atau secara online.",
+          "UMMI juga menyediakan pelatihan olahraga yang dapat diikuti oleh mahasiswa untuk meningkatkan keterampilan olahraga."
+        ]
+      },
+      {
+        "tag": "fasilitas_pendidikan",
+        "patterns": [
+          "Apa saja fasilitas pendidikan yang tersedia di UMMI?",
+          "Bagaimana cara menggunakan fasilitas pendidikan?",
+          "Apakah fasilitas pendidikan tersedia untuk semua jurusan?",
+          "Apakah ada ruang yang nyaman untuk digunakan di UMMI?",
+          "Apakah ada fasilitas pendukung untuk penelitian?",
+          "Apa saja fasilitas pendidikan di UMMI?",
+          "Jelaskan fasilitas pendidikan yang ada di UMMI.",
+          "UMMI menyediakan fasilitas pendidikan apa saja?",
+          "Detail fasilitas pendidikan di UMMI.",
+          "Bagaimana fasilitas pendidikan di UMMI?"
+        ],
+        "responses": [
+          "Fasilitas pendidikan di UMMI meliputi perpustakaan, ruang baca, laboratorium, dan akses ke jurnal ilmiah.",
+          "Untuk menggunakan fasilitas pendidikan, mahasiswa perlu mendaftar dan mengikuti prosedur yang ditetapkan oleh universitas.",
+          "Fasilitas pendidikan tersedia untuk semua jurusan di UMMI sesuai dengan kebutuhan program studi.",
+          "UMMI menyediakan berbagai fasilitas pendidikan yang lengkap dan modern untuk menunjang proses belajar mengajar.",
+          "Fasilitas pendidikan di UMMI meliputi ruang kelas, laboratorium, perpustakaan, dan pusat sumber belajar."
+        ]
+      },
+      {
+        "tag": "fasilitas_penunjang",
+        "patterns": [
+          "Apa saja fasilitas penunjang di UMMI?",
+          "Apakah UMMI memiliki laboratorium?",
+          "Fasilitas apa yang tersedia untuk mahasiswa di UMMI?",
+          "Bagaimana fasilitas perpustakaan di UMMI?",
+          "Apa saja fasilitas olahraga di UMMI?",
+          "Apakah UMMI menyediakan akses internet untuk mahasiswa?",
+          "Bagaimana kondisi ruang kelas di UMMI?",
+          "Apakah ada fasilitas kesehatan di UMMI?",
+          "Fasilitas apa yang mendukung kegiatan penelitian di UMMI?",
+          "Apa saja fasilitas teknologi informasi yang tersedia di UMMI?"
+        ],
+        "responses": [
+          "UMMI menyediakan berbagai fasilitas penunjang seperti laboratorium, perpustakaan, fasilitas olahraga, dan akses internet.",
+          "Mahasiswa UMMI dapat memanfaatkan laboratorium, perpustakaan, ruang kelas yang nyaman, serta fasilitas kesehatan.",
+          "UMMI memiliki fasilitas teknologi informasi yang lengkap untuk mendukung kegiatan akademik dan penelitian.",
+          "Fasilitas penunjang di UMMI termasuk laboratorium, fasilitas olahraga, akses internet, dan layanan kesehatan.",
+          "Mahasiswa dapat menikmati fasilitas seperti perpustakaan yang luas, laboratorium modern, dan fasilitas olahraga."
+        ]
+      },
+      {
+        "tag": "gelar_akademik",
+        "patterns": [
+          "Apa gelar yang diberikan setelah lulus dari program sarjana?",
+          "Gelar apa yang saya dapatkan jika lulus dari UMMI?",
+          "Bagaimana proses pemberian gelar akademik di UMMI?",
+          "Apakah UMMI memberikan gelar S1?",
+          "Gelar apa yang diberikan setelah menyelesaikan program pascasarjana?",
+          "Apakah UMMI memberikan gelar untuk program magister?",
+          "Gelar apa yang didapat setelah menyelesaikan program doktoral?",
+          "Apakah gelar akademik di UMMI diakui secara nasional?",
+          "Bagaimana cara mendapatkan gelar akademik dari UMMI?",
+          "Apa syarat untuk mendapatkan gelar sarjana di UMMI?"
+        ],
+        "responses": [
+          "UMMI memberikan gelar Sarjana (S1) bagi mahasiswa yang lulus dari program sarjana.",
+          "Setelah lulus dari program pascasarjana di UMMI, mahasiswa mendapatkan gelar Magister (S2).",
+          "Proses pemberian gelar akademik di UMMI mengikuti aturan dan ketentuan yang berlaku di Indonesia.",
+          "UMMI memberikan gelar akademik yang diakui secara nasional setelah mahasiswa menyelesaikan semua persyaratan akademik.",
+          "Mahasiswa dapat mendapatkan gelar akademik dari UMMI dengan memenuhi semua persyaratan program studi yang diambil."
+        ]
+      },
+      {
+        "tag": "gelar_vokasi",
+        "patterns": [
+          "Apa gelar yang diberikan setelah lulus dari program vokasi?",
+          "Gelar apa yang saya dapatkan jika lulus dari program diploma?",
+          "Bagaimana proses pemberian gelar vokasi di UMMI?",
+          "Apakah UMMI memberikan gelar D3?",
+          "Gelar apa yang diberikan setelah menyelesaikan program D4?",
+          "Apakah UMMI memberikan gelar untuk program diploma?",
+          "Gelar apa yang didapat setelah menyelesaikan program diploma di UMMI?",
+          "Apakah gelar vokasi di UMMI diakui secara nasional?",
+          "Bagaimana cara mendapatkan gelar vokasi dari UMMI?",
+          "Apa syarat untuk mendapatkan gelar vokasi di UMMI?"
+        ],
+        "responses": [
+          "UMMI memberikan gelar Diploma (D3) bagi mahasiswa yang lulus dari program vokasi.",
+          "Setelah lulus dari program D4 di UMMI, mahasiswa mendapatkan gelar Sarjana Terapan.",
+          "Proses pemberian gelar vokasi di UMMI mengikuti aturan dan ketentuan yang berlaku di Indonesia.",
+          "UMMI memberikan gelar vokasi yang diakui secara nasional setelah mahasiswa menyelesaikan semua persyaratan akademik.",
+          "Mahasiswa dapat mendapatkan gelar vokasi dari UMMI dengan memenuhi semua persyaratan program studi yang diambil."
+        ]
+      },
+      {  
+        "tag": "ijazah_skpi",
+        "patterns": [
+          "Bagaimana cara mendapatkan ijazah?",
+          "Apa itu SKPI?",
+          "Kapan ijazah diberikan?",
+          "Dokumen apa saja yang diperlukan untuk ijazah?",
+          "Bagaimana proses pengajuan ijazah?",
+          "Apakah ada biaya untuk mendapatkan ijazah?",
+          "Berapa lama waktu yang dibutuhkan untuk proses ijazah?",
+          "Dimana saya bisa mengambil ijazah saya?",
+          "Apakah ijazah bisa diambil oleh orang lain?",
+          "Bagaimana cara legalisasi ijazah?"
+        ],
+        "responses": [
+          "Ijazah diberikan setelah mahasiswa menyelesaikan semua persyaratan akademik dan administrasi.",
+          "SKPI adalah Surat Keterangan Pendamping Ijazah yang diberikan bersamaan dengan ijazah.",
+          "Ijazah biasanya diberikan pada saat wisuda.",
+          "Dokumen yang diperlukan untuk ijazah meliputi foto, KTP, dan bukti pembayaran.",
+          "Proses pengajuan ijazah dilakukan melalui sistem informasi akademik.",
+          "Ada biaya tertentu yang dikenakan untuk penerbitan ijazah.",
+          "Proses penerbitan ijazah biasanya memakan waktu sekitar 2 minggu.",
+          "Ijazah bisa diambil di bagian akademik setelah pemberitahuan resmi.",
+          "Ijazah bisa diambil oleh orang lain dengan surat kuasa.",
+          "Legalisasi ijazah dilakukan di bagian akademik dengan membawa dokumen asli."
+        ]
+      },
+      {  
+        "tag": "jalur_pendaftaran",
+        "patterns": [
+          "Apa saja jalur pendaftaran yang tersedia?",
+          "Bagaimana cara mendaftar melalui jalur prestasi?",
+          "Apakah ada jalur khusus untuk pendaftaran?",
+          "Bagaimana proses pendaftaran jalur reguler?",
+          "Apakah ada jalur pendaftaran untuk beasiswa?",
+          "Kapan pendaftaran jalur mandiri dibuka?",
+          "Apakah ada syarat khusus untuk jalur prestasi?",
+          "Bagaimana cara mendaftar melalui jalur SNMPTN?",
+          "Berapa biaya pendaftaran jalur mandiri?",
+          "Apakah ada jalur pendaftaran untuk mahasiswa internasional?"
+        ],
+        "responses": [
+          "Jalur pendaftaran yang tersedia antara lain jalur SNMPTN, SBMPTN, dan jalur mandiri.",
+          "Mendaftar melalui jalur prestasi memerlukan dokumen pendukung seperti sertifikat prestasi.",
+          "Ada jalur khusus seperti jalur prestasi dan beasiswa.",
+          "Proses pendaftaran jalur reguler dilakukan melalui website resmi universitas.",
+          "Terdapat jalur pendaftaran khusus untuk beasiswa dengan syarat dan ketentuan tertentu.",
+          "Pendaftaran jalur mandiri biasanya dibuka setelah pendaftaran jalur reguler ditutup.",
+          "Syarat khusus untuk jalur prestasi biasanya meliputi bukti prestasi akademik atau non-akademik.",
+          "Mendaftar melalui jalur SNMPTN dilakukan melalui portal resmi SNMPTN.",
+          "Biaya pendaftaran jalur mandiri dapat berbeda-beda tergantung program studi.",
+          "Terdapat jalur pendaftaran khusus untuk mahasiswa internasional dengan syarat tertentu."
+        ]
+      },
+      {
+        "tag": "jenjang_pendidikan",
+        "patterns": [
+          "Apa saja jenjang pendidikan yang tersedia di UMMI?",
+          "Apakah ada program magister di UMMI?",
+          "Berapa lama masa studi untuk program sarjana?",
+          "Apa perbedaan antara program akademik dan vokasi?",
+          "Apakah UMMI menyediakan program doktor?",
+          "Bagaimana proses pendaftaran untuk program diploma?",
+          "Apakah ada program pendidikan jarak jauh di UMMI?",
+          "Berapa jumlah SKS yang harus ditempuh untuk program sarjana?",
+          "Apakah UMMI memiliki program pertukaran mahasiswa?",
+          "Bagaimana cara memilih jenjang pendidikan yang sesuai?"
+        ],
+        "responses": [
+          "UMMI menyediakan jenjang pendidikan diploma, sarjana, dan magister.",
+          "Ya, UMMI memiliki program magister di beberapa bidang studi.",
+          "Masa studi untuk program sarjana biasanya 4 tahun atau 8 semester.",
+          "Program akademik lebih berfokus pada teori dan penelitian, sementara vokasi lebih berfokus pada keterampilan praktis.",
+          "Saat ini UMMI belum menyediakan program doktor.",
+          "Pendaftaran untuk program diploma dilakukan melalui jalur pendaftaran yang sama dengan program lainnya.",
+          "UMMI belum menyediakan program pendidikan jarak jauh.",
+          "Untuk program sarjana, mahasiswa harus menempuh minimal 144 SKS.",
+          "UMMI memiliki program pertukaran mahasiswa dengan beberapa universitas mitra.",
+          "Memilih jenjang pendidikan yang sesuai dapat dilakukan dengan mempertimbangkan minat, bakat, dan tujuan karir."
+        ]
+      }
+    ]
+  }
+  
