@@ -16,21 +16,6 @@
       ]
     },
     {
-      "tag": "jalur_pendaftaran",
-      "patterns": [
-        "Apa yang dimaksud dengan jalur reguler?",
-        "Bagaimana definisi jalur transfer/pindahan?",
-        "Apa pengertian dari jalur RPL?",
-        "Bagaimana ketentuan yang berlaku pada jalur reguler?",
-        "Bagaimana prosedur untuk jalur transfer/pindahan?"
-      ],
-      "responses": [
-        "Jalur reguler adalah untuk pendaftar yang menempuh tes akademik dasar.",
-        "Jalur transfer/pindahan untuk mahasiswa dari perguruan tinggi lain yang ingin melanjutkan studi di UMMI.",
-        "Jalur RPL adalah untuk yang memiliki transkrip akademik atau bekerja di bidang tertentu."
-      ]
-    },
-    {
       "tag": "non_aktif",
       "patterns": [
         "Apa yang dimaksud dengan status non aktif?",
