@@ -201,21 +201,6 @@
       ]
     },
     {
-      "tag": "pendidikan_vokasi",
-      "patterns": [
-        "Apa itu pendidikan vokasi di UMMI?",
-        "Bagaimana pendidikan vokasi di UMMI?",
-        "Jelaskan tentang pendidikan vokasi di UMMI",
-        "Apa saja yang termasuk pendidikan vokasi di UMMI?",
-        "Program studi apa yang tersedia untuk pendidikan vokasi di UMMI?"
-      ],
-      "responses": [
-        "Pendidikan vokasi adalah pendidikan tinggi yang menunjang pada penguasaan keahlian terapan tertentu.",
-        "UMMI menyelenggarakan pendidikan vokasi dengan jenjang pendidikan Diploma III.",
-        "Program studi pendidikan vokasi di UMMI meliputi DIII Studi Perpajakan, DIII Keperawatan, dan DIII Hubungan Masyarakat."
-      ]
-    },
-    {
       "tag": "program_studi_sarjana",
       "patterns": [
         "Apa saja program studi sarjana di UMMI?",
@@ -596,21 +581,6 @@
       ]
     },
     {
-      "tag": "jenjang_pendidikan",
-      "patterns": [
-        "Apa saja jenjang pendidikan di UMMI?",
-        "UMMI menyelenggarakan jenjang pendidikan apa saja?",
-        "Jelaskan jenjang pendidikan yang ada di UMMI.",
-        "Detail jenjang pendidikan di UMMI.",
-        "UMMI punya jenjang pendidikan apa saja?"
-      ],
-      "responses": [
-        "UMMI menyelenggarakan jenjang pendidikan Diploma (DIII), Sarjana (S1), Magister (S2), dan Profesi.",
-        "Jenjang pendidikan di UMMI mencakup Diploma, Sarjana, Magister, dan Profesi.",
-        "UMMI menawarkan berbagai jenjang pendidikan untuk memenuhi kebutuhan akademik dan profesional."
-      ]
-    },
-    {
       "tag": "pendidikan_vokasi",
       "patterns": [
         "Apa itu pendidikan vokasi di UMMI?",
@@ -671,21 +641,6 @@
       ]
     },
     {
-      "tag": "pendidikan_akademik",
-      "patterns": [
-        "Apa itu pendidikan akademik di UMMI?",
-        "Jelaskan program pendidikan akademik di UMMI.",
-        "UMMI punya program pendidikan akademik apa saja?",
-        "Detail pendidikan akademik di UMMI.",
-        "Bagaimana pendidikan akademik di UMMI?"
-      ],
-      "responses": [
-        "Pendidikan akademik di UMMI diarahkan pada penguasaan dan pengembangan disiplin ilmu pengetahuan, teknologi, dan seni.",
-        "UMMI menyelenggarakan pendidikan akademik dengan jenjang Sarjana (S1) dan Magister (S2).",
-        "Program pendidikan akademik di UMMI mencakup Sarjana dan Magister untuk berbagai disiplin ilmu."
-      ]
-    },
-    {
       "tag": "fasilitas_pendidikan",
       "patterns": [
         "Apa saja fasilitas pendidikan di UMMI?",
@@ -698,7 +653,7 @@
         "Apakah fasilitas pendidikan tersedia untuk semua jurusan?",
         "Apakah ada ruang yang nyaman untuk digunakan di UMMI?",
         "Apakah ada fasilitas pendukung untuk penelitian?",
-        "Apa saja fasilitas pendidikan di UMMI?",
+        "Fasilitas pendidikan",
         "Jelaskan fasilitas pendidikan yang ada di UMMI.",
         "UMMI menyediakan fasilitas pendidikan apa saja?",
         "Detail fasilitas pendidikan di UMMI.",
@@ -821,21 +776,6 @@
       ]
     },
     {
-      "tag": "pendidikan_akademik",
-      "patterns": [
-        "Apa itu pendidikan akademik di UMMI?",
-        "Bisakah Anda menjelaskan pendidikan akademik?",
-        "Apa yang dimaksud dengan pendidikan akademik?",
-        "Bagaimana pendidikan akademik di UMMI?",
-        "Apa saja jenjang pendidikan akademik di UMMI?"
-      ],
-      "responses": [
-        "Pendidikan akademik adalah program pendidikan tinggi yang berfokus pada pengembangan teori dan ilmu pengetahuan.",
-        "UMMI menawarkan program pendidikan akademik dari jenjang sarjana hingga magister.",
-        "Pendidikan akademik di UMMI mencakup program studi yang dirancang untuk pengembangan intelektual dan ilmiah."
-      ]
-    },
-    {
       "tag": "jenjang_pendidikan_akademik",
       "patterns": [
         "Apa saja jenjang pendidikan akademik yang ditawarkan?",
@@ -892,7 +832,7 @@
         "Bagaimana definisi RPL?",
         "Apa arti dari Rekognisi Pembelajaran Lampau?",
         "Bagaimana konsep RPL di UMMI?",
-        "Apa yang dimaksud dengan RPL?",
+        "Yang dimaksud dengan RPL",
         "Apa tujuan dari RPL?",
         "Bagaimana RPL diterapkan di UMMI?",
         "Apa perbedaan RPL dengan transfer kredit?",
@@ -1128,7 +1068,7 @@
         "Syarat untuk RPL",
         "Ketentuan mengikuti RPL",
         "Apa syarat untuk RPL?",
-        "Apa saja persyaratan untuk mengikuti RPL?",
+        "Apa saja persyaratan RPL?",
         "Dokumen apa yang dibutuhkan untuk RPL?",
         "Apa syarat utama untuk program RPL?",
         "Bagaimana kriteria untuk mengikuti RPL?",
@@ -2143,7 +2083,7 @@
         "Bagaimana cara mendapatkan diploma supplement?",
         "Apa informasi yang tercantum dalam diploma supplement?",
         "Apa manfaat memiliki diploma supplement?",
-        "Apa itu diploma supplement?",
+        "Diploma supplement?",
         "Bagaimana cara mendapatkan diploma supplement di UMMI?",
         "Apa manfaat diploma supplement?",
         "Apakah diploma supplement diakui secara internasional?",
