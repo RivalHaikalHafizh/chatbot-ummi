@@ -1,6 +1,85 @@
 {
   "intents": [
     {
+      "tag": "luar_konteks",
+      "patterns": [
+        "Apa kabar?",
+        "Ceritakan lelucon",
+        "Siapa presiden saat ini?",
+        "Berapa umurmu?",
+        "Ceritakan tentang dirimu",
+        "Apa yang kamu bisa lakukan?",
+        "Apa film favoritmu?",
+        "Ceritakan fakta menarik",
+        "Siapa kamu?",
+        "Apa hobimu?",
+        "Bagaimana kabarmu?",
+        "Apakah kamu punya keluarga?",
+        "Apakah kamu bisa makan?",
+        "Apakah kamu suka musik?",
+        "Bisakah kamu bermimpi?"
+      ],
+      "responses": [
+        "Maaf, saya tidak bisa menjawab pertanyaan itu. Apakah ada hal lain yang ingin Anda ketahui tentang UMMI?",
+        "Saya di sini untuk membantu Anda dengan informasi akademik UMMI. Ada yang bisa saya bantu?",
+        "Pertanyaan tersebut di luar cakupan saya. Silakan ajukan pertanyaan terkait akademik UMMI.",
+        "Maaf, saya hanya bisa menjawab pertanyaan terkait informasi akademik di UMMI.",
+        "Silakan ajukan pertanyaan tentang pendaftaran, ujian, atau informasi akademik lainnya di UMMI."
+      ]
+    },
+    {
+      "tag": "salam",
+      "patterns": [
+        "Halo",
+        "Hi",
+        "Selamat pagi",
+        "Selamat siang",
+        "Selamat sore",
+        "Selamat malam",
+        "Apa kabar?",
+        "Hai",
+        "Salam",
+        "Assalamu'alaikum",
+        "Selamat datang",
+        "Hallo",
+        "Halo apa kabar?",
+        "Hai bagaimana hari ini?",
+        "Hai selamat datang"
+      ],
+      "responses": [
+        "Halo! Ada yang bisa saya bantu mengenai informasi akademik UMMI?",
+        "Selamat datang! Apakah Anda membutuhkan informasi tentang UMMI?",
+        "Hai! Bagaimana saya bisa membantu Anda hari ini?",
+        "Selamat datang di layanan informasi akademik UMMI. Ada yang bisa saya bantu?",
+        "Assalamu'alaikum! Apakah ada pertanyaan yang ingin Anda ajukan tentang UMMI?"
+      ]
+    },
+    {
+      "tag": "umum",
+      "patterns": [
+        "Bagaimana cuaca hari ini?",
+        "Apakah Anda suka makanan apa?",
+        "Siapa pencipta Anda?",
+        "Bisakah Anda bercerita tentang AI?",
+        "Apa pendapat Anda tentang teknologi?",
+        "Apakah Anda punya saudara?",
+        "Di mana Anda tinggal?",
+        "Apa yang Anda lakukan di waktu luang?",
+        "Siapa tokoh favorit Anda?",
+        "Apa yang Anda pikirkan tentang musik?",
+        "Apa yang Anda sukai dari film?",
+        "Apakah Anda bisa tertawa?",
+        "Apa yang membuat Anda bahagia?",
+        "Apa yang Anda pelajari baru-baru ini?",
+        "Bagaimana pendapat Anda tentang seni?"
+      ],
+      "responses": [
+        "Maaf, pertanyaan tersebut di luar cakupan saya yang fokus pada informasi akademik UMMI. Silakan ajukan pertanyaan terkait UMMI untuk mendapatkan bantuan yang lebih spesifik.",
+        "Untuk informasi akademik UMMI, saya siap membantu Anda. Apakah ada yang ingin Anda ketahui?",
+        "Pertanyaan umum seperti itu tidak termasuk dalam cakupan saya. Saya lebih fokus pada memberikan informasi terkait UMMI."
+      ]
+    },
+    {
       "tag": "kalender_akademik",
       "patterns": [
         "Apa itu kalender akademik?",
