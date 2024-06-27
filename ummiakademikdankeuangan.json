@@ -72,12 +72,27 @@
         "Bagaimana proses pendaftaran jalur reguler?",
         "Apa saja syarat jalur reguler?",
         "Siapa yang bisa mendaftar melalui jalur reguler?",
-        "Apakah jalur reguler memerlukan tes?"
+        "Apakah jalur reguler memerlukan tes?",
+        "Apa saja jalur pendaftaran reguler di UMMI?",
+        "Bagaimana cara mendaftar melalui jalur reguler?",
+        "Apa persyaratan untuk mendaftar jalur reguler di UMMI?",
+        "Jalur pendaftaran reguler UMMI itu seperti apa?",
+        "Apakah ada tes untuk jalur pendaftaran reguler?",
+        "Jelaskan tentang jalur pendaftaran reguler di UMMI",
+        "Bagaimana proses seleksi untuk jalur reguler?",
+        "Apakah jalur reguler memerlukan tes akademik?",
+        "Apa keuntungan mendaftar melalui jalur reguler?",
+        "Apakah ada beasiswa untuk jalur reguler?"
       ],
       "responses": [
         "Jalur Reguler adalah jalur pendaftaran untuk pendaftar yang menempuh tes akademik dasar atau tes untuk memperoleh beasiswa tertentu.",
         "Pendaftar melalui jalur reguler harus mengikuti tes yang disyaratkan program studi atau sesuai persyaratan PMB.",
-        "Calon mahasiswa jalur reguler harus memenuhi persyaratan yang ditetapkan dan mengikuti prosedur pendaftaran yang berlaku."
+        "Calon mahasiswa jalur reguler harus memenuhi persyaratan yang ditetapkan dan mengikuti prosedur pendaftaran yang berlaku.",
+        "Jalur reguler untuk pendaftar yang menempuh tes akademik dasar dan bisa memperoleh beasiswa tertentu.",
+        "Jalur reguler UMMI memerlukan tes khusus yang disyaratkan oleh program studi.",
+        "Pendaftar jalur reguler dapat masuk kuliah di UMMI tanpa melalui tes jika memenuhi persyaratan.",
+        "Jalur reguler merupakan salah satu dari berbagai program penerimaan mahasiswa baru di UMMI.",
+        "Untuk pendaftaran jalur reguler, calon mahasiswa harus mengikuti tes akademik dasar."
       ]
     },
     {
@@ -87,12 +102,27 @@
         "Bagaimana proses pendaftaran jalur transfer?",
         "Apa saja syarat jalur transfer?",
         "Siapa yang bisa mendaftar melalui jalur transfer?",
-        "Apakah ada syarat khusus untuk jalur transfer?"
+        "Apakah ada syarat khusus untuk jalur transfer?",
+        "Apa itu jalur pendaftaran transfer di UMMI?",
+        "Bagaimana cara mendaftar melalui jalur transfer?",
+        "Apa syarat untuk pindah ke UMMI?",
+        "Bagaimana proses seleksi untuk jalur transfer?",
+        "Apakah jalur transfer memerlukan akreditasi tertentu?",
+        "Jelaskan tentang jalur transfer di UMMI",
+        "Apa keuntungan mendaftar melalui jalur transfer?",
+        "Apakah mahasiswa dari universitas lain bisa pindah ke UMMI?",
+        "Bagaimana ketentuan jalur transfer di UMMI?",
+        "Apakah jalur transfer menerima mahasiswa dari semua universitas?"
       ],
       "responses": [
         "Jalur Transfer adalah jalur pendaftaran untuk mahasiswa dari perguruan tinggi lain yang ingin melanjutkan studi di UMMI.",
         "Pendaftar jalur transfer harus berasal dari perguruan tinggi atau program studi yang minimal peringkat akreditasinya setara.",
-        "Calon mahasiswa jalur transfer harus menyertakan surat pengantar pindah dari PT asal dan transkrip nilai yang dilegalisir."
+        "Calon mahasiswa jalur transfer harus menyertakan surat pengantar pindah dari PT asal dan transkrip nilai yang dilegalisir.",
+        "Jalur transfer untuk mengakomodir minat mahasiswa dari perguruan tinggi lain yang ingin melanjutkan studi di UMMI.",
+        "UMMI hanya menerima pindahan dari PT atau program studi yang minimal peringkat akreditasinya setara.",
+        "Proses pindah antar perguruan tinggi harus sesuai ketentuan di kemendikbud.",
+        "Mahasiswa dari universitas lain dapat pindah ke UMMI melalui jalur transfer.",
+        "Pendaftaran jalur transfer memerlukan persyaratan tertentu sesuai dengan ketentuan yang berlaku."
       ]
     },
     {
@@ -666,21 +696,6 @@
         "Jadwal pendaftaran mahasiswa baru biasanya diumumkan beberapa bulan sebelum tahun ajaran baru.",
         "Persiapkan dokumen seperti ijazah, transkrip nilai, dan surat rekomendasi untuk pendaftaran.",
         "Ada ujian masuk untuk beberapa program studi tertentu."
-      ]
-    },
-    {
-      "tag": "rencana_studi",
-      "patterns": [
-        "Apa itu Kartu Rencana Studi?",
-        "Bagaimana cara mengisi Kartu Rencana Studi?",
-        "Masa pengisian Kartu Rencana Studi di UMMI kapan?",
-        "Apa yang dimaksud dengan Kartu Rencana Studi?",
-        "Bagaimana proses pengisian Kartu Rencana Studi?"
-      ],
-      "responses": [
-        "Kartu Rencana Studi (KRS) adalah dokumen yang digunakan mahasiswa untuk merencanakan mata kuliah yang akan diambil dalam satu semester.",
-        "Proses pengisian Kartu Rencana Studi dilakukan secara online melalui Sistem Informasi Akademik (SIAK).",
-        "Masa pengisian Kartu Rencana Studi di UMMI ditentukan sesuai dengan kalender akademik."
       ]
     },
     {
@@ -1800,12 +1815,27 @@
         "Bagaimana menyusun RPS?",
         "Langkah menyusun RPS",
         "Proses penyusunan RPS",
-        "Penyusunan RPS perkuliahan"
+        "Penyusunan RPS perkuliahan",
+        "Bagaimana cara menyusun RPS di UMMI?",
+        "Apa itu RPS?",
+        "Siapa yang menyusun RPS?",
+        "Apakah RPS harus sesuai dengan kurikulum?",
+        "Bagaimana format RPS di UMMI?",
+        "Apa saja komponen yang harus ada dalam RPS?",
+        "Bagaimana proses validasi RPS?",
+        "Apakah RPS harus disetujui oleh pihak tertentu?",
+        "Bagaimana cara mengubah RPS yang sudah ada?",
+        "Apakah ada pelatihan penyusunan RPS di UMMI?"
       ],
       "responses": [
         "RPS adalah Rencana Pembelajaran Semester yang disusun oleh dosen.",
         "RPS harus mencakup capaian pembelajaran, bahan ajar, dan evaluasi.",
-        "Penyusunan RPS dilakukan setiap awal semester oleh dosen pengampu."
+        "Penyusunan RPS dilakukan setiap awal semester oleh dosen pengampu.",
+        "RPS disusun oleh dosen pengampu dan merupakan bagian dari rancangan pembelajaran mata kuliah.",
+        "RPS harus sesuai dengan kurikulum dan kompetensi yang diuji.",
+        "Format RPS mencakup tujuan pembelajaran, metode evaluasi, dan jadwal kegiatan.",
+        "RPS harus divalidasi dan disetujui oleh program studi sebelum digunakan.",
+        "Proses penyusunan RPS melibatkan penyesuaian dengan capaian pembelajaran yang direncanakan."
       ]
     },
     {
@@ -2063,12 +2093,27 @@
         "Apa sumber nilai akhir mata kuliah?",
         "Bagaimana proses input nilai akhir mata kuliah?",
         "Apakah nilai akhir bisa diubah?",
-        "Apa saja bobot nilai hasil ujian?"
+        "Apa saja bobot nilai hasil ujian?",
+        "Bagaimana pengolahan hasil ujian di UMMI?",
+        "Apa saja komponen nilai akhir mata kuliah di UMMI?",
+        "Bagaimana cara input nilai ke SIAK UMMI?",
+        "Apakah nilai akhir bisa diubah?",
+        "Bagaimana perhitungan bobot nilai ujian di UMMI?",
+        "Apa yang dimaksud dengan rekognisi akademik?",
+        "Bagaimana nilai akhir diinput ke PDDikti?",
+        "Apakah nilai huruf memiliki bobot nilai tertentu?",
+        "Bagaimana proses penilaian ujian di UMMI?",
+        "Apakah ada batasan perbaikan nilai ujian?"
       ],
       "responses": [
         "Nilai akhir mata kuliah berasal dari proses pembelajaran berupa tes, pelaksanaan praktikum, dan penugasan dengan bobot penilaian yang sesuai.",
         "Nilai akhir mata kuliah diinput ke SIAK UMMI dan diteruskan ke PDDikti.",
-        "Nilai Akhir merupakan nilai yang tidak bisa diubah atau diperbaiki lagi."
+        "Nilai Akhir merupakan nilai yang tidak bisa diubah atau diperbaiki lagi.",
+        "Nilai akhir mata kuliah berasal dari proses pembelajaran berupa tes, praktikum, dan penugasan dengan bobot yang sesuai.",
+        "Nilai akhir mata kuliah diinput ke SIAK UMMI dan diteruskan ke PDDikti.",
+        "Nilai akhir yang telah ditetapkan tidak bisa diubah atau diperbaiki lagi.",
+        "Bobot nilai hasil ujian berupa nilai huruf dengan bobot angka tertentu.",
+        "Perbaikan hasil ujian dapat dilakukan sebelum nilai akhir mata kuliah ditetapkan."
       ]
     },
     {
@@ -2108,12 +2153,27 @@
         "Kapan perbaikan hasil ujian dapat dilakukan?",
         "Apa yang harus dilakukan dosen terkait nilai proses?",
         "Apakah ada kesempatan remedial?",
-        "Bagaimana aturan remedial ujian?"
+        "Bagaimana aturan remedial ujian?",
+        "Bagaimana proses perbaikan hasil ujian di UMMI?",
+        "Apa syarat untuk melakukan perbaikan hasil ujian?",
+        "Kapan waktu perbaikan hasil ujian diadakan?",
+        "Bagaimana cara mengajukan perbaikan nilai ujian?",
+        "Apakah ada batasan dalam perbaikan hasil ujian?",
+        "Bagaimana proses remedial di UMMI?",
+        "Apakah ada biaya untuk remedial?",
+        "Siapa yang dapat mengikuti remedial?",
+        "Bagaimana nilai hasil remedial dihitung?",
+        "Apakah remedial bisa mengubah nilai akhir?"
       ],
       "responses": [
         "Dosen harus mempublikasikan nilai proses sebelum menetapkan nilai akhir untuk memberikan kesempatan bagi mahasiswa melakukan perbaikan dan remedial.",
         "Perbaikan hasil ujian dan remedial dapat dilaksanakan sebelum nilai akhir mata kuliah muncul.",
-        "Waktu perbaikan dan remedial diatur dalam kalender akademik."
+        "Waktu perbaikan dan remedial diatur dalam kalender akademik.",
+        "Perbaikan hasil ujian dapat dilakukan sebelum nilai akhir mata kuliah ditetapkan.",
+        "Waktu perbaikan dan remedial diatur dalam kalender akademik.",
+        "Remedial tidak dikenai biaya tambahan dan wajib diberikan kepada mahasiswa yang membutuhkannya.",
+        "Nilai hasil remedial menjadi kumulatif nilai akhir dengan nilai maksimal adalah nilai C.",
+        "Remedial diatur berdasarkan kesepakatan antara mahasiswa dan dosen."
       ]
     },
     {
