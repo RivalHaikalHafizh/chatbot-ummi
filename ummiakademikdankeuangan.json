@@ -223,8 +223,8 @@
         "Bagaimana pelaksanaan semester antara?",
         "Kapan semester antara dilaksanakan?",
         "Apa syarat mengikuti semester antara?",
-        "Apa itu semester antara?",
-        "Kapan semester antara dilaksanakan?",
+        "semester antara adalah",
+        "Kapan waktu semester antara",
         "Bagaimana cara mendaftar semester antara?",
         "Apakah ada biaya untuk semester antara?",
         "Apa saja mata kuliah yang ditawarkan di semester antara?",
@@ -526,7 +526,7 @@
         "Apa tujuan dari pendidikan akademik di UMMI?",
         "Jelaskan tujuan pendidikan di UMMI",
         "Apa saja tujuan pendidikan di UMMI?",
-        "Apa tujuan pendidikan di UMMI?",
+        "tujuan pendidikan",
         "Sebutkan tujuan utama pendidikan di UMMI!",
         "Apa saja tujuan dari pendidikan di UMMI?",
         "Tujuan pendidikan di Universitas Muhammadiyah Sukabumi apa?",
@@ -716,7 +716,7 @@
     {
       "tag": "semester_gasal_genap",
       "patterns": [
-        "Apa itu semester gasal dan genap?",
+        "Semester gasal dan genap adalah?",
         "Kapan dimulai semester gasal di UMMI?",
         "Kapan dimulai semester genap di UMMI?",
         "Apa yang dimaksud dengan semester gasal dan genap?",
@@ -1020,7 +1020,7 @@
         "Mengapa pendidikan vokasi penting?",
         "Apa manfaat dari pendidikan vokasi?",
         "Apa yang ingin dicapai melalui pendidikan vokasi?",
-        "Bagaimana tujuan pendidikan vokasi di UMMI?",
+        "ujuan pendidikan vokasi yaitu",
         "Apa tujuan pendidikan vokasi di UMMI?",
         "Sebutkan tujuan pendidikan vokasi UMMI!",
         "Tujuan utama pendidikan vokasi di UMMI apa?",
@@ -1170,7 +1170,7 @@
         "Mengapa pendidikan akademik penting?",
         "Apa manfaat dari pendidikan akademik?",
         "Apa yang ingin dicapai melalui pendidikan akademik?",
-        "Bagaimana tujuan pendidikan akademik di UMMI?",
+        "Tujuan pendidikan akademik yaitu",
         "Apa tujuan pendidikan akademik di UMMI?",
         "Sebutkan tujuan pendidikan akademik UMMI!",
         "Tujuan utama pendidikan akademik di UMMI apa?",
@@ -1935,7 +1935,7 @@
       "patterns": [
         "Bagaimana prosedur pengajuan topik skripsi?",
         "Apa saja syarat untuk mulai skripsi?",
-        "Bagaimana proses bimbingan skripsi?",
+        "Proses bimbingan skripsi",
         "Berapa kali bimbingan skripsi diperlukan?",
         "Apa yang harus dilakukan jika mengalami kesulitan dalam skripsi?",
         "Apa itu skripsi?",
@@ -1965,7 +1965,7 @@
     {
       "tag": "transkrip_nilai",
       "patterns": [
-        "Bagaimana cara mendapatkan transkrip nilai?",
+        "Cara mendapatkan transkrip",
         "Apakah ada biaya untuk mendapatkan transkrip nilai?",
         "Berapa lama waktu yang dibutuhkan untuk mendapatkan transkrip nilai?",
         "Apakah transkrip nilai bisa diambil secara online?",
@@ -2736,9 +2736,9 @@
     {
       "tag": "program_pertukaran",
       "patterns": [
-        "Apa itu program pertukaran mahasiswa?",
+        "informasi program pertukaran mahasiswa?",
         "Bagaimana cara mengikuti program pertukaran mahasiswa di UMMI?",
-        "Universitas mana saja yang terlibat dalam program pertukaran?",
+        "Universitas yang ada dalam dalam program pertukaran?",
         "Berapa lama durasi program pertukaran mahasiswa?",
         "Apa manfaat mengikuti program pertukaran mahasiswa?",
         "Apa itu program pertukaran mahasiswa?",
