@@ -102,12 +102,27 @@
         "Bagaimana cara mengurus status non aktif?",
         "Berapa lama batas masa non aktif?",
         "Apa konsekuensi menjadi mahasiswa non aktif?",
-        "Apa yang terjadi jika melebihi batas masa non aktif?"
+        "Apa yang terjadi jika melebihi batas masa non aktif?",
+        "Bagaimana prosedur mengajukan status non aktif?",
+        "Apa syarat untuk menjadi mahasiswa non aktif?",
+        "Apakah ada biaya untuk mengajukan non aktif?",
+        "Berapa lama saya bisa menjadi mahasiswa non aktif?",
+        "Bagaimana cara kembali menjadi mahasiswa aktif?",
+        "Apakah status non aktif mempengaruhi masa studi?",
+        "Apa yang harus dilakukan untuk memperpanjang status non aktif?",
+        "Apakah mahasiswa non aktif bisa menggunakan fasilitas kampus?",
+        "Bagaimana cara mengajukan cuti akademik?",
+        "Apakah ada batas waktu untuk mengajukan status non aktif?"
       ],
       "responses": [
         "Non aktif adalah status mahasiswa yang tidak terdaftar pada semester tertentu tanpa izin.",
         "Masa non aktif diperhitungkan sebagai masa studi mahasiswa.",
-        "Batas masa non aktif maksimal 4 semester, setelah itu dinyatakan mengundurkan diri."
+        "Batas masa non aktif maksimal 4 semester, setelah itu dinyatakan mengundurkan diri.",
+        "Prosedur mengajukan status non aktif melibatkan pengisian formulir dan persetujuan dari dekanat.",
+        "Syarat untuk menjadi mahasiswa non aktif biasanya termasuk alasan yang valid seperti kesehatan atau masalah pribadi.",
+        "Ada biaya administrasi untuk mengajukan status non aktif.",
+        "Mahasiswa bisa menjadi non aktif maksimal selama dua semester berturut-turut.",
+        "Untuk kembali menjadi mahasiswa aktif, Anda harus mengajukan permohonan kembali ke dekanat."
       ]
     },
     {
@@ -147,12 +162,27 @@
         "Bagaimana cara registrasi semester aktif?",
         "Kapan masa registrasi mahasiswa baru?",
         "Apa yang harus dilakukan saat registrasi?",
-        "Apa itu her-registrasi?"
+        "Apa itu her-registrasi?",
+        "Bagaimana cara registrasi mahasiswa?",
+        "Apa saja dokumen yang diperlukan untuk registrasi?",
+        "Kapan waktu registrasi dibuka?",
+        "Bagaimana cara mengurus registrasi ulang?",
+        "Apakah ada biaya registrasi?",
+        "Bagaimana cara mengecek status registrasi?",
+        "Apa yang harus dilakukan jika terlambat registrasi?",
+        "Bagaimana prosedur registrasi online?",
+        "Apa yang harus dilakukan setelah registrasi?",
+        "Bagaimana cara mendapatkan kartu mahasiswa setelah registrasi?"
       ],
       "responses": [
         "Masa registrasi adalah waktu untuk mendaftar ulang sebagai mahasiswa aktif setiap semester.",
         "Mahasiswa harus melakukan registrasi semester aktif dan membayar SPP.",
-        "Masa registrasi mencakup pendaftaran ulang mahasiswa baru dan lama."
+        "Masa registrasi mencakup pendaftaran ulang mahasiswa baru dan lama.",
+        "Cara registrasi mahasiswa baru bisa dilakukan dengan mengisi formulir pendaftaran dan melampirkan dokumen yang diperlukan.",
+        "Dokumen yang diperlukan untuk registrasi meliputi ijazah, transkrip nilai, dan identitas diri.",
+        "Waktu registrasi biasanya dibuka pada awal semester baru.",
+        "Untuk registrasi ulang, mahasiswa perlu memperbarui data dan melunasi administrasi.",
+        "Ada biaya tertentu yang harus dibayar saat registrasi."
       ]
     },
     {
@@ -192,12 +222,27 @@
         "Apa tujuan dari semester antara?",
         "Bagaimana pelaksanaan semester antara?",
         "Kapan semester antara dilaksanakan?",
-        "Apa syarat mengikuti semester antara?"
+        "Apa syarat mengikuti semester antara?",
+        "Apa itu semester antara?",
+        "Kapan semester antara dilaksanakan?",
+        "Bagaimana cara mendaftar semester antara?",
+        "Apakah ada biaya untuk semester antara?",
+        "Apa saja mata kuliah yang ditawarkan di semester antara?",
+        "Bagaimana cara mengurus perkuliahan di semester antara?",
+        "Apakah nilai dari semester antara masuk dalam transkrip?",
+        "Bagaimana sistem evaluasi di semester antara?",
+        "Apa keuntungan mengikuti semester antara?",
+        "Bagaimana cara mengecek jadwal perkuliahan semester antara?"
       ],
       "responses": [
         "Semester antara adalah semester pendek untuk mempercepat penyelesaian studi.",
         "Semester antara dilakukan dengan penawaran mata kuliah tertentu.",
-        "Pelaksanaan semester antara bertujuan untuk mempercepat kelulusan tanpa mengabaikan kualitas akademik."
+        "Pelaksanaan semester antara bertujuan untuk mempercepat kelulusan tanpa mengabaikan kualitas akademik.",
+        "Semester antara adalah semester tambahan yang dilaksanakan antara semester ganjil dan genap.",
+        "Semester antara biasanya dilaksanakan selama liburan panjang.",
+        "Cara mendaftar semester antara adalah dengan mengisi formulir pendaftaran dan melunasi administrasi.",
+        "Ada biaya tertentu yang harus dibayar untuk mengikuti semester antara.",
+        "Mata kuliah yang ditawarkan di semester antara biasanya mata kuliah pengulangan atau tambahan."
       ]
     },
     {
@@ -237,12 +282,27 @@
         "Berapa lama masa libur akademik?",
         "Apa yang dimaksud dengan libur akademik?",
         "Bagaimana jadwal libur akademik?",
-        "Apa saja kegiatan yang dilakukan selama libur akademik?"
+        "Apa saja kegiatan yang dilakukan selama libur akademik?",
+        "Kapan saja libur akademik di universitas ini?",
+        "Bagaimana cara mengetahui jadwal libur akademik?",
+        "Apakah ada libur khusus untuk hari raya keagamaan?",
+        "Berapa lama libur semester biasanya berlangsung?",
+        "Apakah libur akademik mempengaruhi jadwal ujian?",
+        "Bagaimana jika ada perubahan jadwal libur akademik?",
+        "Apa saja kegiatan yang biasanya dilakukan selama libur akademik?",
+        "Apakah perpustakaan buka selama libur akademik?",
+        "Bagaimana cara mendapatkan informasi terbaru tentang libur akademik?",
+        "Apakah dosen tetap memberikan tugas selama libur akademik?"
       ],
       "responses": [
         "Waktu libur akademik ditentukan dalam kalender akademik setiap tahun.",
         "Masa libur akademik mencakup libur semester dan libur nasional.",
-        "Libur akademik adalah waktu istirahat dari kegiatan perkuliahan yang ditentukan oleh universitas."
+        "Libur akademik adalah waktu istirahat dari kegiatan perkuliahan yang ditentukan oleh universitas.",
+        "Libur akademik di universitas ini mencakup libur semester, hari raya keagamaan, dan libur nasional.",
+        "Jadwal libur akademik dapat dilihat di kalender akademik yang tersedia di website universitas.",
+        "Ada libur khusus untuk hari raya keagamaan yang diakui oleh pemerintah.",
+        "Libur semester biasanya berlangsung selama 2-4 minggu tergantung pada kebijakan universitas.",
+        "Perubahan jadwal libur akademik akan diumumkan melalui website dan papan pengumuman universitas."
       ]
     },
     {
@@ -252,12 +312,27 @@
         "Bagaimana pendidikan akademik di UMMI?",
         "Jelaskan tentang pendidikan akademik di UMMI",
         "Apa saja yang termasuk pendidikan akademik di UMMI?",
-        "Program studi apa yang tersedia untuk pendidikan akademik di UMMI?"
+        "Program studi apa yang tersedia untuk pendidikan akademik di UMMI?",
+        "Apa saja program pendidikan akademik yang tersedia?",
+        "Bagaimana kurikulum pendidikan akademik di universitas ini?",
+        "Apa perbedaan antara pendidikan akademik dan vokasi?",
+        "Bagaimana cara mendaftar program pendidikan akademik?",
+        "Apa syarat kelulusan untuk program pendidikan akademik?",
+        "Bagaimana sistem evaluasi di program pendidikan akademik?",
+        "Apakah ada program magang untuk pendidikan akademik?",
+        "Bagaimana cara mengajukan pindah program studi akademik?",
+        "Apa saja fasilitas yang tersedia untuk pendidikan akademik?",
+        "Bagaimana sistem penilaian dalam pendidikan akademik?"
       ],
       "responses": [
         "Pendidikan akademik adalah pendidikan tinggi yang diarahkan terutama pada penguasaan dan pengembangan disiplin ilmu pengetahuan, teknologi, dan/atau seni tertentu.",
         "Pendidikan akademik mencakup program pendidikan sarjana (S1) dan pascasarjana (S2 dan S3).",
-        "UMMI menyelenggarakan pendidikan akademik dengan jenjang pendidikan Sarjana (S1) dan Pascasarjana Magister (S2)."
+        "UMMI menyelenggarakan pendidikan akademik dengan jenjang pendidikan Sarjana (S1) dan Pascasarjana Magister (S2).",
+        "Program pendidikan akademik yang tersedia termasuk sarjana, magister, dan doktor.",
+        "Kurikulum pendidikan akademik mencakup mata kuliah wajib, pilihan, dan tugas akhir.",
+        "Pendidikan akademik fokus pada teori dan penelitian, sedangkan vokasi lebih pada praktik dan keterampilan.",
+        "Cara mendaftar program pendidikan akademik sama dengan pendaftaran mahasiswa baru lainnya.",
+        "Syarat kelulusan termasuk menyelesaikan semua mata kuliah, lulus ujian akhir, dan menyelesaikan tugas akhir."
       ]
     },
     {
@@ -267,12 +342,27 @@
         "Program studi S1 apa yang tersedia di UMMI?",
         "Jelaskan program studi sarjana di UMMI",
         "Program studi sarjana apa yang ada di UMMI?",
-        "Berapa banyak program studi sarjana di UMMI?"
+        "Berapa banyak program studi sarjana di UMMI?",
+        "Apa saja program studi sarjana yang tersedia?",
+        "Bagaimana cara mendaftar program studi sarjana?",
+        "Apa syarat kelulusan untuk program studi sarjana?",
+        "Bagaimana sistem evaluasi di program studi sarjana?",
+        "Apakah ada program magang untuk program studi sarjana?",
+        "Bagaimana cara mengajukan pindah program studi sarjana?",
+        "Apa saja fasilitas yang tersedia untuk program studi sarjana?",
+        "Bagaimana kurikulum program studi sarjana di universitas ini?",
+        "Apa perbedaan antara program studi sarjana dan diploma?",
+        "Apakah ada beasiswa untuk program studi sarjana?"
       ],
       "responses": [
         "Program studi sarjana (S1) di UMMI meliputi Teknik Sipil, Kimia, Teknik Informatika, Agribisnis, Akuakultur, Akuntansi, Manajemen Retail, dan Administrasi Publik.",
         "UMMI menawarkan berbagai program studi sarjana untuk berbagai disiplin ilmu.",
-        "Pendidikan sarjana di UMMI bertujuan untuk menghasilkan lulusan yang kompeten di bidangnya."
+        "Pendidikan sarjana di UMMI bertujuan untuk menghasilkan lulusan yang kompeten di bidangnya.",
+        "Program studi sarjana yang tersedia meliputi berbagai bidang ilmu.",
+        "Cara mendaftar program studi sarjana melibatkan pengisian formulir pendaftaran dan seleksi administrasi.",
+        "Syarat kelulusan untuk program studi sarjana mencakup penyelesaian skripsi dan semua mata kuliah.",
+        "Sistem evaluasi di program studi sarjana terdiri dari ujian tertulis, praktek, dan skripsi.",
+        "Ada program magang untuk beberapa program studi sarjana."
       ]
     },
     {
@@ -282,12 +372,27 @@
         "Program studi S2 apa yang tersedia di UMMI?",
         "Jelaskan program studi magister di UMMI",
         "Program studi magister apa yang ada di UMMI?",
-        "Berapa banyak program studi magister di UMMI?"
+        "Berapa banyak program studi magister di UMMI?",
+        "Apa saja program studi magister yang tersedia?",
+        "Bagaimana cara mendaftar program studi magister?",
+        "Apa syarat kelulusan untuk program studi magister?",
+        "Bagaimana sistem evaluasi di program studi magister?",
+        "Apakah ada program magang untuk program studi magister?",
+        "Bagaimana cara mengajukan pindah program studi magister?",
+        "Apa saja fasilitas yang tersedia untuk program studi magister?",
+        "Bagaimana kurikulum program studi magister di universitas ini?",
+        "Apa perbedaan antara program studi magister dan sarjana?",
+        "Apakah ada beasiswa untuk program studi magister?"
       ],
       "responses": [
         "UMMI menyelenggarakan pendidikan magister (S2) dengan berbagai program studi.",
         "Program studi magister di UMMI bertujuan untuk menghasilkan tenaga ahli/pakar yang ilmuwan di berbagai bidang.",
-        "Pendidikan magister di UMMI adalah jenjang pendidikan yang ditempuh setelah sarjana."
+        "Pendidikan magister di UMMI adalah jenjang pendidikan yang ditempuh setelah sarjana.",
+        "Program studi magister yang tersedia mencakup berbagai bidang studi.",
+        "Cara mendaftar program studi magister melibatkan pengisian formulir pendaftaran dan seleksi administrasi.",
+        "Syarat kelulusan untuk program studi magister mencakup penyelesaian tesis dan semua mata kuliah.",
+        "Sistem evaluasi di program studi magister terdiri dari ujian tertulis, presentasi, dan tesis.",
+        "Ada program magang untuk beberapa program studi magister."
       ]
     },
     {
@@ -420,12 +525,27 @@
         "Apa tujuan dari pendidikan vokasi di UMMI?",
         "Apa tujuan dari pendidikan akademik di UMMI?",
         "Jelaskan tujuan pendidikan di UMMI",
-        "Apa saja tujuan pendidikan di UMMI?"
+        "Apa saja tujuan pendidikan di UMMI?",
+        "Apa tujuan pendidikan di UMMI?",
+        "Sebutkan tujuan utama pendidikan di UMMI!",
+        "Apa saja tujuan dari pendidikan di UMMI?",
+        "Tujuan pendidikan di Universitas Muhammadiyah Sukabumi apa?",
+        "Apa visi dan misi UMMI?",
+        "Untuk apa pendidikan di UMMI?",
+        "Mengapa UMMI didirikan?",
+        "Apa filosofi pendidikan di UMMI?",
+        "Kenapa pendidikan di UMMI penting?",
+        "Tujuan pendidikan tinggi di UMMI apa?"
       ],
       "responses": [
         "Tujuan pendidikan di UMMI adalah untuk menghasilkan lulusan yang kompeten dan ahli di bidangnya.",
         "Pendidikan vokasi bertujuan menunjang penguasaan keahlian terapan tertentu.",
-        "Pendidikan akademik bertujuan pada penguasaan dan pengembangan disiplin ilmu pengetahuan, teknologi, dan seni."
+        "Pendidikan akademik bertujuan pada penguasaan dan pengembangan disiplin ilmu pengetahuan, teknologi, dan seni.",
+        "Tujuan pendidikan di UMMI adalah membangun masyarakat dalam segala aspek kehidupannya.",
+        "Tujuan pendidikan di UMMI termasuk membangun masyarakat Islam yang sebenar-benarnya.",
+        "UMMI bertujuan mengembangkan nilai-nilai kearifan lokal dalam berbagai bidang untuk mencapai tingkat global.",
+        "UMMI berkomitmen pada pembangunan sumber daya manusia di daerah Sukabumi.",
+        "Pendidikan di UMMI mengembangkan keilmuan dan keislaman demi membangun bangsa dan negara."
       ]
     },
     {
@@ -465,12 +585,27 @@
         "Bagaimana cara menggunakan Sistem Informasi Akademik?",
         "Sistem Informasi Akademik UMMI berfungsi untuk apa?",
         "Apa fungsi Sistem Informasi Akademik di UMMI?",
-        "Bagaimana mengakses Sistem Informasi Akademik UMMI?"
+        "Bagaimana mengakses Sistem Informasi Akademik UMMI?",
+        "Apa itu sistem informasi akademik?",
+        "Bagaimana cara mengakses sistem informasi akademik?",
+        "Apa saja fitur yang tersedia di sistem informasi akademik?",
+        "Bagaimana cara mengurus masalah akses di sistem informasi akademik?",
+        "Apakah sistem informasi akademik tersedia dalam versi mobile?",
+        "Bagaimana cara mengupdate data di sistem informasi akademik?",
+        "Apa yang harus dilakukan jika data di sistem informasi akademik tidak sesuai?",
+        "Bagaimana cara mengecek jadwal perkuliahan di sistem informasi akademik?",
+        "Apakah sistem informasi akademik terintegrasi dengan sistem pembayaran?",
+        "Bagaimana cara mendapatkan bantuan teknis untuk sistem informasi akademik?"
       ],
       "responses": [
         "Sistem Informasi Akademik (SIAK) UMMI digunakan untuk mengelola informasi akademik seperti kalender akademik dan kegiatan perkuliahan.",
         "Sistem Informasi Akademik UMMI membantu dalam penyusunan dan pengesahan kalender akademik serta sosialisasinya.",
-        "Anda bisa mengakses informasi akademik UMMI melalui Sistem Informasi Akademik (SIAK)."
+        "Anda bisa mengakses informasi akademik UMMI melalui Sistem Informasi Akademik (SIAK).",
+        "Sistem informasi akademik adalah platform online untuk mengelola data akademik mahasiswa.",
+        "Cara mengakses sistem informasi akademik adalah dengan login menggunakan akun mahasiswa.",
+        "Fitur yang tersedia di sistem informasi akademik termasuk jadwal perkuliahan, nilai, dan registrasi mata kuliah.",
+        "Untuk masalah akses, hubungi bagian IT universitas.",
+        "Sistem informasi akademik tersedia dalam versi web dan mobile."
       ]
     },
     {
@@ -480,12 +615,27 @@
         "Bagaimana proses registrasi mahasiswa baru?",
         "Masa registrasi di UMMI kapan saja?",
         "Apa saja yang perlu dilakukan saat registrasi di UMMI?",
-        "Masa registrasi online di UMMI kapan?"
+        "Masa registrasi online di UMMI kapan?",
+        "Kapan masa registrasi untuk semester baru?",
+        "Bagaimana prosedur registrasi mahasiswa baru?",
+        "Apa syarat registrasi ulang mahasiswa lama?",
+        "Apakah registrasi bisa dilakukan secara online?",
+        "Berapa biaya registrasi mahasiswa baru?",
+        "Apa saja dokumen yang diperlukan untuk registrasi?",
+        "Dimana tempat registrasi mahasiswa baru?",
+        "Apakah ada batas waktu untuk registrasi?",
+        "Bagaimana cara mengecek status registrasi?",
+        "Apakah ada panduan untuk registrasi online?"
       ],
       "responses": [
         "Masa registrasi mahasiswa baru di UMMI terjadi di semester gasal dan genap.",
         "Proses registrasi bisa dilakukan secara langsung ke kampus atau melalui link http://pmb.ummi.ac.id/",
-        "Registrasi mahasiswa baru di UMMI dilakukan sepanjang tahun di semester gasal dan genap."
+        "Registrasi mahasiswa baru di UMMI dilakukan sepanjang tahun di semester gasal dan genap.",
+        "Masa registrasi untuk semester baru biasanya diumumkan melalui kalender akademik.",
+        "Prosedur registrasi mahasiswa baru meliputi pengisian formulir, pembayaran biaya, dan pengumpulan dokumen.",
+        "Mahasiswa lama harus melengkapi syarat administrasi dan keuangan untuk registrasi ulang.",
+        "Registrasi bisa dilakukan secara online melalui portal mahasiswa.",
+        "Biaya registrasi mahasiswa baru bervariasi tergantung program studi yang dipilih."
       ]
     },
     {
@@ -495,12 +645,27 @@
         "Apa saja jalur penerimaan mahasiswa baru di UMMI?",
         "Bagaimana cara mendaftar sebagai mahasiswa baru di UMMI?",
         "Proses penerimaan mahasiswa baru di UMMI seperti apa?",
-        "Penerimaan mahasiswa baru UMMI kapan?"
+        "Penerimaan mahasiswa baru UMMI kapan?",
+        "Bagaimana cara mendaftar sebagai mahasiswa baru?",
+        "Apa saja syarat pendaftaran mahasiswa baru?",
+        "Kapan jadwal pendaftaran mahasiswa baru?",
+        "Apa yang harus dipersiapkan untuk pendaftaran mahasiswa baru?",
+        "Apakah ada ujian masuk untuk mahasiswa baru?",
+        "Bagaimana cara mengisi formulir pendaftaran mahasiswa baru?",
+        "Apakah ada biaya pendaftaran untuk mahasiswa baru?",
+        "Bagaimana cara mengetahui hasil seleksi pendaftaran mahasiswa baru?",
+        "Apakah ada program orientasi untuk mahasiswa baru?",
+        "Apa saja program studi yang tersedia untuk mahasiswa baru?"
       ],
       "responses": [
         "Proses penerimaan mahasiswa baru di UMMI dilakukan sepanjang tahun baik di semester gasal maupun semester genap.",
         "Penerimaan mahasiswa baru UMMI dikelola oleh UPT HPPMB dengan berbagai jalur seperti reguler, transfer, dan RPL.",
-        "Anda dapat mendaftar sebagai mahasiswa baru UMMI melalui link http://pmb.ummi.ac.id/"
+        "Anda dapat mendaftar sebagai mahasiswa baru UMMI melalui link http://pmb.ummi.ac.id/",
+        "Cara mendaftar sebagai mahasiswa baru melibatkan pengisian formulir online dan pengumpulan dokumen.",
+        "Syarat pendaftaran mahasiswa baru termasuk ijazah terakhir, KTP, dan pas foto.",
+        "Jadwal pendaftaran mahasiswa baru biasanya diumumkan beberapa bulan sebelum tahun ajaran baru.",
+        "Persiapkan dokumen seperti ijazah, transkrip nilai, dan surat rekomendasi untuk pendaftaran.",
+        "Ada ujian masuk untuk beberapa program studi tertentu."
       ]
     },
     {
@@ -525,12 +690,27 @@
         "Apa itu Masa Perbaikan Kartu Rencana Studi?",
         "Kapan masa perbaikan Kartu Rencana Studi di UMMI?",
         "Apa yang dimaksud dengan Masa Perbaikan Kartu Rencana Studi?",
-        "Bagaimana proses perbaikan Kartu Rencana Studi di UMMI?"
+        "Bagaimana proses perbaikan Kartu Rencana Studi di UMMI?",
+        "Bagaimana cara memperbaiki kartu studi?",
+        "Apa syarat untuk memperbaiki kartu studi?",
+        "Kapan waktu perbaikan kartu studi?",
+        "Apakah ada biaya untuk memperbaiki kartu studi?",
+        "Bagaimana cara mengajukan perbaikan kartu studi?",
+        "Apakah perbaikan kartu studi bisa dilakukan secara online?",
+        "Apa saja dokumen yang diperlukan untuk perbaikan kartu studi?",
+        "Bagaimana jika ada kesalahan pada kartu studi?",
+        "Berapa lama proses perbaikan kartu studi?",
+        "Siapa yang harus dihubungi untuk perbaikan kartu studi?"
       ],
       "responses": [
         "Masa Perbaikan Kartu Rencana Studi (PKRS) adalah waktu yang diberikan untuk memperbaiki mata kuliah yang telah dipilih.",
         "Proses perbaikan Kartu Rencana Studi dilakukan secara online melalui Sistem Informasi Akademik (SIAK).",
-        "Masa Perbaikan Kartu Rencana Studi di UMMI dijadwalkan sesuai kalender akademik."
+        "Masa Perbaikan Kartu Rencana Studi di UMMI dijadwalkan sesuai kalender akademik.",
+        "Cara memperbaiki kartu studi adalah dengan mengajukan permohonan ke bagian akademik.",
+        "Syarat perbaikan kartu studi mencakup bukti kesalahan dan formulir permohonan.",
+        "Waktu perbaikan kartu studi biasanya dibuka pada awal semester.",
+        "Ada biaya administrasi untuk perbaikan kartu studi.",
+        "Permohonan perbaikan kartu studi bisa diajukan secara online melalui portal mahasiswa."
       ]
     },
     {
@@ -540,12 +720,27 @@
         "Kapan dimulai semester gasal di UMMI?",
         "Kapan dimulai semester genap di UMMI?",
         "Apa yang dimaksud dengan semester gasal dan genap?",
-        "Perbedaan antara semester gasal dan genap?"
+        "Perbedaan antara semester gasal dan genap?",
+        "Apa itu semester gasal dan genap?",
+        "Kapan semester gasal dan genap dilaksanakan?",
+        "Apa saja mata kuliah yang ditawarkan di semester gasal dan genap?",
+        "Bagaimana cara mengecek jadwal perkuliahan semester gasal dan genap?",
+        "Apakah ada perbedaan antara semester gasal dan genap?",
+        "Bagaimana cara mengurus perkuliahan di semester gasal dan genap?",
+        "Apa yang harus dilakukan jika ada jadwal bentrok di semester gasal dan genap?",
+        "Bagaimana sistem evaluasi di semester gasal dan genap?",
+        "Apakah ada liburan di antara semester gasal dan genap?",
+        "Bagaimana cara mengajukan cuti di semester gasal dan genap?"
       ],
       "responses": [
         "Semester gasal adalah semester yang dimulai pada awal tahun akademik, sedangkan semester genap dimulai pada pertengahan tahun akademik.",
         "Semester gasal dan genap masing-masing berlangsung selama sekitar 14-16 minggu.",
-        "UMMI menyelenggarakan pembelajaran di semester gasal dan genap setiap tahun akademik."
+        "UMMI menyelenggarakan pembelajaran di semester gasal dan genap setiap tahun akademik.",
+        "Semester gasal adalah semester yang dimulai pada awal tahun akademik, sementara semester genap adalah semester yang dimulai pada pertengahan tahun akademik.",
+        "Semester gasal biasanya dimulai pada bulan September, dan semester genap dimulai pada bulan Februari.",
+        "Mata kuliah yang ditawarkan di semester gasal dan genap bervariasi sesuai kurikulum program studi.",
+        "Jadwal perkuliahan semester gasal dan genap dapat dicek melalui sistem informasi akademik online.",
+        "Semester gasal dan genap memiliki jumlah minggu perkuliahan yang sama."
       ]
     },
     {
@@ -555,12 +750,27 @@
         "Bagaimana proses wisuda di UMMI?",
         "Masa wisuda di UMMI seperti apa?",
         "Apa yang dimaksud dengan masa wisuda?",
-        "Kapan waktu wisuda di UMMI?"
+        "Kapan waktu wisuda di UMMI?",
+        "Kapan jadwal wisuda berikutnya?",
+        "Bagaimana prosedur pendaftaran wisuda?",
+        "Apa syarat untuk mengikuti wisuda?",
+        "Berapa biaya yang diperlukan untuk wisuda?",
+        "Apa saja dokumen yang harus disiapkan untuk wisuda?",
+        "Dimana tempat pelaksanaan wisuda?",
+        "Apakah ada batas waktu pendaftaran wisuda?",
+        "Bagaimana cara mengetahui jadwal pelaksanaan wisuda?",
+        "Apakah wisuda bisa dilakukan secara virtual?",
+        "Bagaimana cara mendapatkan toga dan perlengkapan wisuda lainnya?"
       ],
       "responses": [
         "Masa wisuda di UMMI dijadwalkan sesuai dengan kalender akademik.",
         "Proses wisuda melibatkan berbagai persiapan termasuk penyelesaian administrasi akademik.",
-        "Waktu wisuda ditentukan dan disosialisasikan melalui kalender akademik."
+        "Waktu wisuda ditentukan dan disosialisasikan melalui kalender akademik.",
+        "Jadwal wisuda diumumkan melalui website universitas dan papan pengumuman fakultas.",
+        "Prosedur pendaftaran wisuda meliputi pengisian formulir, pembayaran biaya, dan pengumpulan dokumen pendukung.",
+        "Syarat untuk mengikuti wisuda termasuk menyelesaikan semua mata kuliah dan tugas akhir.",
+        "Biaya wisuda mencakup biaya pendaftaran, toga, dan perlengkapan wisuda lainnya.",
+        "Dokumen yang harus disiapkan untuk wisuda termasuk transkrip nilai, surat keterangan lulus, dan bukti pembayaran."
       ]
     },
     {
@@ -570,12 +780,27 @@
         "Kapan masa Studium General di UMMI?",
         "Apa yang dilakukan pada masa Studium General?",
         "Bagaimana kegiatan Studium General di UMMI?",
-        "Apa tujuan dari Studium General di UMMI?"
+        "Apa tujuan dari Studium General di UMMI?",
+        "Apa itu studium general?",
+        "Kapan studium general biasanya dilaksanakan?",
+        "Siapa yang wajib mengikuti studium general?",
+        "Apa manfaat dari mengikuti studium general?",
+        "Bagaimana format pelaksanaan studium general?",
+        "Apakah studium general mempengaruhi nilai akademik?",
+        "Bagaimana cara mendaftar studium general?",
+        "Apakah ada biaya untuk mengikuti studium general?",
+        "Bagaimana jadwal studium general diumumkan?",
+        "Apakah studium general bisa diikuti secara online?"
       ],
       "responses": [
         "Studium General adalah kegiatan akademik yang melibatkan penyampaian materi oleh pakar di bidang tertentu.",
         "Masa Studium General dijadwalkan dalam kalender akademik UMMI.",
-        "Kegiatan Studium General bertujuan untuk memperkaya wawasan mahasiswa."
+        "Kegiatan Studium General bertujuan untuk memperkaya wawasan mahasiswa.",
+        "Studium general adalah kegiatan akademik berupa kuliah umum yang wajib diikuti oleh mahasiswa baru.",
+        "Studium general biasanya dilaksanakan pada awal semester.",
+        "Mahasiswa baru wajib mengikuti studium general sebagai bagian dari orientasi akademik.",
+        "Mengikuti studium general memberikan wawasan luas tentang berbagai isu penting dan membekali mahasiswa untuk studi lebih lanjut.",
+        "Format pelaksanaan studium general dapat berupa kuliah umum, seminar, atau diskusi panel."
       ]
     },
     {
@@ -585,12 +810,27 @@
         "Jelaskan program pendidikan Sarjana di UMMI.",
         "UMMI memiliki program Sarjana apa saja?",
         "Sarjana di UMMI bagaimana?",
-        "Detail program Sarjana (S1) di UMMI?"
+        "Detail program Sarjana (S1) di UMMI?",
+        "Apa itu program Sarjana 1?",
+        "Berapa lama waktu studi untuk program Sarjana 1?",
+        "Apa saja syarat kelulusan untuk program Sarjana 1?",
+        "Bagaimana sistem evaluasi di program Sarjana 1?",
+        "Apa yang dimaksud dengan SKS dalam program Sarjana 1?",
+        "Bagaimana cara mendaftar ke program Sarjana 1?",
+        "Apa saja jurusan yang tersedia di program Sarjana 1?",
+        "Apakah ada program magang untuk mahasiswa Sarjana 1?",
+        "Bagaimana cara mengajukan pindah program studi Sarjana 1?",
+        "Apakah ada beasiswa untuk program Sarjana 1?"
       ],
       "responses": [
         "Program Sarjana (S1) di UMMI adalah pendidikan akademik yang diarahkan pada penguasaan dan pengembangan disiplin ilmu tertentu.",
         "UMMI menyelenggarakan program Sarjana (S1) dengan berbagai jurusan yang mencakup teknologi, seni, dan ilmu pengetahuan.",
-        "Program Sarjana di UMMI bertujuan untuk menghasilkan lulusan yang kompeten di bidangnya."
+        "Program Sarjana di UMMI bertujuan untuk menghasilkan lulusan yang kompeten di bidangnya.",
+        "Program Sarjana 1 adalah program pendidikan tingkat sarjana dengan durasi studi sekitar 4 tahun.",
+        "Waktu studi untuk program Sarjana 1 biasanya 4 tahun atau 8 semester.",
+        "Syarat kelulusan untuk program Sarjana 1 mencakup penyelesaian semua mata kuliah dan skripsi.",
+        "Sistem evaluasi di program Sarjana 1 terdiri dari ujian tertulis, praktek, dan skripsi.",
+        "SKS atau Sistem Kredit Semester adalah satuan kredit untuk menentukan beban studi mahasiswa."
       ]
     },
     {
@@ -600,12 +840,27 @@
         "Jelaskan program pascasarjana Magister di UMMI.",
         "UMMI punya program pascasarjana apa saja?",
         "Bagaimana pendidikan pascasarjana di UMMI?",
-        "Detail program Magister di UMMI?"
+        "Detail program Magister di UMMI?",
+        "Bagaimana cara mendaftar program magister?",
+        "Apa saja syarat masuk program pascasarjana?",
+        "Berapa lama masa studi untuk program magister?",
+        "Apa saja program magister yang tersedia?",
+        "Bagaimana prosedur penerimaan mahasiswa magister?",
+        "Apakah ada beasiswa untuk program magister?",
+        "Bagaimana sistem evaluasi di program magister?",
+        "Apa perbedaan antara program magister reguler dan eksekutif?",
+        "Apakah ada program magister online?",
+        "Bagaimana cara menghubungi program studi magister?"
       ],
       "responses": [
         "Program Magister di UMMI adalah jenjang pendidikan yang ditempuh setelah jenjang Sarjana.",
         "UMMI menyelenggarakan program pascasarjana Magister (S2) untuk menghasilkan tenaga ahli dan ilmuwan.",
-        "Pendidikan pascasarjana di UMMI fokus pada penguasaan dan pengembangan disiplin ilmu."
+        "Pendidikan pascasarjana di UMMI fokus pada penguasaan dan pengembangan disiplin ilmu.",
+        "Cara mendaftar program magister meliputi pengisian formulir pendaftaran, pengumpulan dokumen, dan ujian masuk.",
+        "Syarat masuk program pascasarjana termasuk memiliki gelar sarjana dan memenuhi kualifikasi yang ditentukan.",
+        "Masa studi untuk program magister biasanya berlangsung selama 2 tahun.",
+        "Program magister yang tersedia bervariasi tergantung pada fakultas dan jurusan.",
+        "Prosedur penerimaan mahasiswa magister mencakup seleksi administrasi dan wawancara."
       ]
     },
     {
@@ -615,12 +870,27 @@
         "Jelaskan program pendidikan vokasi di UMMI.",
         "UMMI punya program pendidikan vokasi apa saja?",
         "Detail pendidikan vokasi di UMMI.",
-        "Bagaimana program vokasi di UMMI?"
+        "Bagaimana program vokasi di UMMI?",
+        "Apa saja program pendidikan vokasi yang tersedia?",
+        "Bagaimana cara mendaftar program pendidikan vokasi?",
+        "Apa syarat kelulusan untuk pendidikan vokasi?",
+        "Bagaimana sistem evaluasi di pendidikan vokasi?",
+        "Apakah ada program magang untuk pendidikan vokasi?",
+        "Bagaimana cara mengajukan pindah program studi vokasi?",
+        "Apa saja fasilitas yang tersedia untuk pendidikan vokasi?",
+        "Bagaimana kurikulum pendidikan vokasi di universitas ini?",
+        "Apa perbedaan antara pendidikan vokasi dan akademik?",
+        "Apakah ada beasiswa untuk pendidikan vokasi?"
       ],
       "responses": [
         "Pendidikan vokasi di UMMI adalah pendidikan tinggi yang menunjang pada penguasaan keahlian terapan tertentu.",
         "UMMI menyelenggarakan program pendidikan vokasi dengan jenjang pendidikan Diploma III.",
-        "Program vokasi di UMMI dirancang untuk menghasilkan lulusan dengan keahlian terapan tertentu."
+        "Program vokasi di UMMI dirancang untuk menghasilkan lulusan dengan keahlian terapan tertentu.",
+        "Program pendidikan vokasi yang tersedia termasuk diploma 3 dan diploma 4.",
+        "Cara mendaftar program pendidikan vokasi melibatkan pengisian formulir pendaftaran dan seleksi administrasi.",
+        "Syarat kelulusan untuk pendidikan vokasi mencakup menyelesaikan semua mata kuliah dan magang industri.",
+        "Sistem evaluasi di pendidikan vokasi terdiri dari ujian tertulis, praktek, dan proyek akhir.",
+        "Ada program magang industri wajib untuk pendidikan vokasi."
       ]
     },
     {
@@ -690,12 +960,27 @@
         "UMMI punya program Magister apa saja?",
         "Jelaskan program Magister di UMMI.",
         "Detail program Magister di UMMI.",
-        "Program pascasarjana apa yang ada di UMMI?"
+        "Program pascasarjana apa yang ada di UMMI?",
+        "Apa saja program magister yang tersedia?",
+        "Bagaimana cara mendaftar program magister?",
+        "Apa syarat kelulusan untuk program magister?",
+        "Bagaimana sistem evaluasi di program magister?",
+        "Apakah ada program magang untuk program magister?",
+        "Bagaimana cara mengajukan pindah program studi magister?",
+        "Apa saja fasilitas yang tersedia untuk program magister?",
+        "Bagaimana kurikulum program magister di universitas ini?",
+        "Apa perbedaan antara program magister dan doktor?",
+        "Apakah ada beasiswa untuk program magister?"
       ],
       "responses": [
         "UMMI menyelenggarakan program Magister (S2) untuk menghasilkan tenaga ahli di berbagai bidang.",
         "Program Magister di UMMI mencakup berbagai disiplin ilmu yang ditempuh setelah jenjang Sarjana.",
-        "UMMI menawarkan program Magister untuk melanjutkan studi ke jenjang yang lebih tinggi."
+        "UMMI menawarkan program Magister untuk melanjutkan studi ke jenjang yang lebih tinggi.",
+        "Program magister yang tersedia meliputi berbagai bidang studi sesuai minat.",
+        "Cara mendaftar program magister melibatkan pengisian formulir pendaftaran dan seleksi administrasi.",
+        "Syarat kelulusan untuk program magister mencakup penyelesaian tesis dan semua mata kuliah.",
+        "Sistem evaluasi di program magister terdiri dari ujian tertulis, presentasi, dan tesis.",
+        "Ada program magang industri untuk beberapa program magister."
       ]
     },
     {
@@ -735,12 +1020,27 @@
         "Mengapa pendidikan vokasi penting?",
         "Apa manfaat dari pendidikan vokasi?",
         "Apa yang ingin dicapai melalui pendidikan vokasi?",
+        "Bagaimana tujuan pendidikan vokasi di UMMI?",
+        "Apa tujuan pendidikan vokasi di UMMI?",
+        "Sebutkan tujuan pendidikan vokasi UMMI!",
+        "Tujuan utama pendidikan vokasi di UMMI apa?",
+        "Apa saja tujuan dari pendidikan vokasi UMMI?",
+        "Mengapa UMMI mengadakan pendidikan vokasi?",
+        "Pendidikan vokasi di UMMI bertujuan apa?",
+        "Apa misi pendidikan vokasi di UMMI?",
+        "Untuk apa pendidikan vokasi di UMMI?",
+        "Apa yang ingin dicapai UMMI melalui pendidikan vokasi?",
         "Bagaimana tujuan pendidikan vokasi di UMMI?"
       ],
       "responses": [
         "Tujuan pendidikan vokasi adalah untuk menghasilkan tenaga kerja yang terampil di bidang tertentu.",
         "Pendidikan vokasi bertujuan untuk mempersiapkan mahasiswa dengan keterampilan praktis yang dibutuhkan di industri.",
-        "Melalui pendidikan vokasi, UMMI ingin memastikan lulusannya siap bekerja dengan keahlian terapan yang kuat."
+        "Melalui pendidikan vokasi, UMMI ingin memastikan lulusannya siap bekerja dengan keahlian terapan yang kuat.",
+        "Pendidikan vokasi di UMMI bertujuan menunjang penguasaan keahlian terapan tertentu.",
+        "Tujuan pendidikan vokasi UMMI adalah menghasilkan lulusan yang siap kerja dengan keahlian terapan.",
+        "UMMI berfokus pada pengembangan program pendidikan Diploma dalam pendidikan vokasi.",
+        "Pendidikan vokasi di UMMI bertujuan meningkatkan kompetensi profesional mahasiswa.",
+        "UMMI menyediakan pendidikan vokasi untuk memenuhi kebutuhan pasar kerja."
       ]
     },
     {
@@ -750,12 +1050,27 @@
         "Apa yang diajarkan dalam pendidikan vokasi?",
         "Apa isi kurikulum pendidikan vokasi?",
         "Bagaimana struktur kurikulum vokasi?",
-        "Bisakah Anda menjelaskan kurikulum vokasi di UMMI?"
+        "Bisakah Anda menjelaskan kurikulum vokasi di UMMI?",
+        "Apa perbedaan kurikulum vokasi dengan kurikulum akademik?",
+        "Apa saja mata kuliah yang termasuk dalam kurikulum vokasi?",
+        "Bagaimana cara mengetahui jadwal kuliah vokasi?",
+        "Apakah kurikulum vokasi berubah setiap tahun?",
+        "Bagaimana prosedur perubahan mata kuliah dalam kurikulum vokasi?",
+        "Apakah ada mata kuliah wajib dalam program vokasi?",
+        "Bagaimana cara melihat kurikulum vokasi terbaru?",
+        "Apakah ada perbedaan kurikulum vokasi antara program studi?",
+        "Bagaimana kurikulum vokasi disusun?",
+        "Apakah kurikulum vokasi mengikuti standar nasional?"
       ],
       "responses": [
         "Kurikulum pendidikan vokasi di UMMI dirancang untuk memberikan keterampilan praktis dan pengetahuan terapan.",
         "Isi kurikulum vokasi mencakup pelajaran yang relevan dengan industri dan praktik langsung.",
-        "Kurikulum vokasi di UMMI menggabungkan teori dan praktik untuk memastikan lulusannya siap kerja."
+        "Kurikulum vokasi di UMMI menggabungkan teori dan praktik untuk memastikan lulusannya siap kerja.",
+        "Kurikulum vokasi lebih berfokus pada pengembangan keterampilan praktis dibandingkan teori.",
+        "Mata kuliah dalam kurikulum vokasi mencakup banyak praktik dan magang industri.",
+        "Jadwal kuliah vokasi dapat dilihat melalui sistem informasi akademik universitas.",
+        "Kurikulum vokasi dapat berubah setiap tahun berdasarkan kebutuhan industri dan evaluasi.",
+        "Ada mata kuliah wajib dalam program vokasi yang harus diambil oleh semua mahasiswa."
       ]
     },
     {
@@ -765,12 +1080,27 @@
         "Berapa tahun pendidikan vokasi berlangsung?",
         "Apa durasi studi di program vokasi?",
         "Berapa lama waktu yang dibutuhkan untuk menyelesaikan pendidikan vokasi?",
-        "Bagaimana durasi program vokasi di UMMI?"
+        "Bagaimana durasi program vokasi di UMMI?",
+        "Berapa lama masa studi untuk program vokasi?",
+        "Apa saja tahapan dalam masa studi vokasi?",
+        "Bagaimana cara memperpanjang masa studi vokasi?",
+        "Apakah ada batas waktu untuk menyelesaikan studi vokasi?",
+        "Apa yang terjadi jika mahasiswa tidak menyelesaikan studi dalam batas waktu?",
+        "Apakah masa studi vokasi bisa dipercepat?",
+        "Bagaimana cara mengajukan cuti studi untuk program vokasi?",
+        "Apa saja persyaratan untuk kelulusan program vokasi?",
+        "Apakah ada bimbingan akademik selama masa studi vokasi?",
+        "Bagaimana cara mengetahui sisa masa studi vokasi?"
       ],
       "responses": [
         "Masa studi pendidikan vokasi bervariasi tergantung pada jenjangnya, dari satu hingga empat tahun.",
         "Program Diploma I biasanya berlangsung satu tahun, sedangkan Diploma IV bisa mencapai empat tahun.",
-        "Durasi studi di program vokasi di UMMI tergantung pada jenjang yang dipilih, antara satu hingga empat tahun."
+        "Durasi studi di program vokasi di UMMI tergantung pada jenjang yang dipilih, antara satu hingga empat tahun.",
+        "Masa studi untuk program vokasi biasanya berlangsung selama 3 tahun.",
+        "Tahapan dalam masa studi vokasi meliputi kuliah, praktikum, dan tugas akhir.",
+        "Untuk memperpanjang masa studi vokasi, mahasiswa harus mengajukan permohonan ke bagian akademik.",
+        "Ada batas waktu maksimal untuk menyelesaikan studi vokasi sesuai dengan peraturan universitas.",
+        "Jika mahasiswa tidak menyelesaikan studi dalam batas waktu, mereka harus mengajukan perpanjangan atau bisa dianggap drop out."
       ]
     },
     {
@@ -780,12 +1110,27 @@
         "Bisakah Anda menyebutkan program diploma di UMMI?",
         "Program diploma apa yang tersedia di UMMI?",
         "Apa saja pilihan program diploma di UMMI?",
-        "Bagaimana program diploma di UMMI?"
+        "Bagaimana program diploma di UMMI?",
+        "Apa saja program diploma yang tersedia?",
+        "Bagaimana cara mendaftar program diploma?",
+        "Apa syarat kelulusan untuk program diploma?",
+        "Bagaimana sistem evaluasi di program diploma?",
+        "Apakah ada program magang untuk program diploma?",
+        "Bagaimana cara mengajukan pindah program studi diploma?",
+        "Apa saja fasilitas yang tersedia untuk program diploma?",
+        "Bagaimana kurikulum program diploma di universitas ini?",
+        "Apa perbedaan antara program diploma dan sarjana?",
+        "Apakah ada beasiswa untuk program diploma?"
       ],
       "responses": [
         "UMMI menawarkan berbagai program diploma di bidang keperawatan, perpajakan, hubungan masyarakat, dan lain-lain.",
         "Beberapa program diploma di UMMI termasuk Diploma I, II, III, dan IV dalam berbagai bidang studi.",
-        "Program diploma di UMMI dirancang untuk memberikan keahlian terapan di berbagai disiplin ilmu."
+        "Program diploma di UMMI dirancang untuk memberikan keahlian terapan di berbagai disiplin ilmu.",
+        "Program diploma yang tersedia termasuk diploma 3 dan diploma 4.",
+        "Cara mendaftar program diploma melibatkan pengisian formulir pendaftaran dan seleksi administrasi.",
+        "Syarat kelulusan untuk program diploma mencakup menyelesaikan semua mata kuliah dan magang industri.",
+        "Sistem evaluasi di program diploma terdiri dari ujian tertulis, praktek, dan proyek akhir.",
+        "Ada program magang industri wajib untuk program diploma."
       ]
     },
     {
@@ -825,12 +1170,27 @@
         "Mengapa pendidikan akademik penting?",
         "Apa manfaat dari pendidikan akademik?",
         "Apa yang ingin dicapai melalui pendidikan akademik?",
+        "Bagaimana tujuan pendidikan akademik di UMMI?",
+        "Apa tujuan pendidikan akademik di UMMI?",
+        "Sebutkan tujuan pendidikan akademik UMMI!",
+        "Tujuan utama pendidikan akademik di UMMI apa?",
+        "Apa saja tujuan dari pendidikan akademik UMMI?",
+        "Mengapa UMMI mengadakan pendidikan akademik?",
+        "Pendidikan akademik di UMMI bertujuan apa?",
+        "Apa misi pendidikan akademik di UMMI?",
+        "Untuk apa pendidikan akademik di UMMI?",
+        "Apa yang ingin dicapai UMMI melalui pendidikan akademik?",
         "Bagaimana tujuan pendidikan akademik di UMMI?"
       ],
       "responses": [
         "Tujuan pendidikan akademik adalah untuk menghasilkan lulusan dengan kemampuan intelektual dan ilmiah yang tinggi.",
         "Pendidikan akademik bertujuan untuk mengembangkan pengetahuan dan keterampilan analitis mahasiswa.",
-        "Melalui pendidikan akademik, UMMI ingin menghasilkan lulusan yang kompeten dan siap menghadapi tantangan global."
+        "Melalui pendidikan akademik, UMMI ingin menghasilkan lulusan yang kompeten dan siap menghadapi tantangan global.",
+        "Pendidikan akademik di UMMI bertujuan menyelenggarakan pendidikan tinggi yang berkualitas.",
+        "Tujuan pendidikan akademik UMMI adalah mengembangkan IPTEKS melalui penelitian yang berkualitas.",
+        "UMMI berfokus pada pengembangan IPTEKS yang memiliki nilai maslahat bagi umat manusia.",
+        "UMMI menyelenggarakan pendidikan akademik untuk meningkatkan kualitas hidup masyarakat.",
+        "Pendidikan akademik di UMMI bertujuan mengembangkan Al-Islam dan Kemuhammadiyahan."
       ]
     },
     {
@@ -840,12 +1200,27 @@
         "Apa yang diajarkan dalam pendidikan akademik?",
         "Apa isi kurikulum pendidikan akademik?",
         "Bagaimana struktur kurikulum akademik?",
-        "Bisakah Anda menjelaskan kurikulum akademik di UMMI?"
+        "Bisakah Anda menjelaskan kurikulum akademik di UMMI?",
+        "Apa saja mata kuliah yang termasuk dalam kurikulum akademik?",
+        "Bagaimana cara mengetahui jadwal kuliah?",
+        "Apakah kurikulum akademik berubah setiap tahun?",
+        "Bagaimana prosedur perubahan mata kuliah dalam kurikulum?",
+        "Apakah ada mata kuliah wajib yang harus diambil?",
+        "Bagaimana cara melihat kurikulum akademik terbaru?",
+        "Apakah ada perbedaan kurikulum antara fakultas?",
+        "Bagaimana kurikulum akademik disusun?",
+        "Apakah kurikulum akademik mengikuti standar nasional?",
+        "Apa yang dimaksud dengan kurikulum berbasis kompetensi?"
       ],
       "responses": [
         "Kurikulum pendidikan akademik di UMMI dirancang untuk memberikan pengetahuan teoritis dan keterampilan analitis.",
         "Isi kurikulum akademik mencakup mata kuliah yang mendalam dalam bidang studi tertentu.",
-        "Kurikulum akademik di UMMI menggabungkan teori, penelitian, dan aplikasi praktis untuk pengembangan akademik."
+        "Kurikulum akademik di UMMI menggabungkan teori, penelitian, dan aplikasi praktis untuk pengembangan akademik.",
+        "Mata kuliah dalam kurikulum akademik mencakup mata kuliah wajib dan pilihan sesuai dengan program studi.",
+        "Jadwal kuliah dapat dilihat melalui sistem informasi akademik universitas.",
+        "Kurikulum akademik dapat mengalami perubahan setiap tahun berdasarkan evaluasi dan kebutuhan pendidikan.",
+        "Perubahan mata kuliah dalam kurikulum harus melalui persetujuan fakultas dan program studi.",
+        "Ada mata kuliah wajib yang harus diambil oleh semua mahasiswa sesuai dengan program studi."
       ]
     },
     {
@@ -1155,12 +1530,27 @@
         "Apa prosedur registrasi mata kuliah di UMMI?",
         "Bagaimana proses registrasi mata kuliah di UMMI?",
         "Registrasi mata kuliah di UMMI bagaimana?",
-        "Apa langkah-langkah registrasi mata kuliah di UMMI?"
+        "Apa langkah-langkah registrasi mata kuliah di UMMI?",
+        "Bagaimana cara registrasi mata kuliah?",
+        "Kapan registrasi mata kuliah dibuka?",
+        "Apakah ada batas waktu untuk registrasi mata kuliah?",
+        "Bagaimana cara mengubah mata kuliah setelah registrasi?",
+        "Apa yang harus dilakukan jika tidak bisa registrasi mata kuliah?",
+        "Bagaimana cara mengurus mata kuliah yang bentrok jadwalnya?",
+        "Apakah ada biaya untuk registrasi mata kuliah?",
+        "Bagaimana cara mengecek jadwal mata kuliah yang telah diregistrasi?",
+        "Apa yang harus dilakukan jika mata kuliah penuh?",
+        "Bagaimana cara membatalkan mata kuliah yang telah diregistrasi?"
       ],
       "responses": [
         "Registrasi mata kuliah di UMMI dilakukan secara online melalui portal akademik.",
         "Mahasiswa dapat melakukan registrasi mata kuliah melalui portal akademik UMMI.",
-        "Proses registrasi mata kuliah di UMMI dilakukan secara online melalui portal akademik."
+        "Proses registrasi mata kuliah di UMMI dilakukan secara online melalui portal akademik.",
+        "Cara registrasi mata kuliah dilakukan melalui sistem informasi akademik online.",
+        "Registrasi mata kuliah biasanya dibuka sebelum awal semester.",
+        "Ada batas waktu tertentu untuk registrasi mata kuliah, biasanya hingga minggu pertama perkuliahan.",
+        "Untuk mengubah mata kuliah setelah registrasi, mahasiswa perlu mengajukan permohonan melalui bagian akademik.",
+        "Jika tidak bisa registrasi mata kuliah, periksa kembali jadwal dan syarat mata kuliah."
       ]
     },
     {
@@ -1200,12 +1590,27 @@
         "Apa itu kode NIM di UMMI?",
         "Kode NIM mahasiswa UMMI bagaimana?",
         "Bagaimana cara mendapatkan kode NIM di UMMI?",
-        "Kode NIM di UMMI apa saja?"
+        "Kode NIM di UMMI apa saja?",
+        "Bagaimana cara mendapatkan kode NIM?",
+        "Apa yang harus dilakukan jika kode NIM hilang?",
+        "Apa arti dari setiap digit pada kode NIM?",
+        "Kapan kode NIM diberikan kepada mahasiswa baru?",
+        "Bisakah kode NIM diubah?",
+        "Apa yang harus dilakukan jika ada kesalahan pada kode NIM?",
+        "Bagaimana cara mengecek kode NIM saya?",
+        "Apakah kode NIM digunakan untuk semua keperluan akademik?",
+        "Bagaimana prosedur mendapatkan kode NIM baru jika hilang?",
+        "Apa yang dimaksud dengan kode NIM?"
       ],
       "responses": [
         "Kode NIM di UMMI terdiri dari kode tahun masuk, kode jenjang, kode program studi, dan kode kelas.",
         "Kode NIM mahasiswa UMMI mencakup tahun masuk, jenjang, program studi, dan kelas.",
-        "UMMI menggunakan kode NIM yang terdiri dari tahun masuk, jenjang, program studi, dan kelas."
+        "UMMI menggunakan kode NIM yang terdiri dari tahun masuk, jenjang, program studi, dan kelas.",
+        "Kode NIM diberikan kepada mahasiswa baru setelah proses registrasi.",
+        "Jika kode NIM hilang, segera laporkan ke bagian administrasi untuk mendapatkan yang baru.",
+        "Setiap digit pada kode NIM memiliki arti khusus yang berkaitan dengan program studi dan tahun masuk.",
+        "Kode NIM diberikan pada awal masa studi setelah registrasi berhasil.",
+        "Kode NIM tidak dapat diubah kecuali ada kesalahan dalam penulisan awal."
       ]
     },
     {
@@ -1245,12 +1650,27 @@
         "Bagaimana pengakuan pembelajaran lampau di UMMI?",
         "Pengakuan pembelajaran lampau di UMMI seperti apa?",
         "Apa syarat pengakuan pembelajaran lampau di UMMI?",
-        "UMMI menawarkan pengakuan pembelajaran lampau?"
+        "UMMI menawarkan pengakuan pembelajaran lampau?",
+        "Bagaimana proses pengakuan pembelajaran sebelumnya?",
+        "Apa syarat untuk mendapatkan pengakuan pembelajaran?",
+        "Apakah ada biaya untuk proses pengakuan pembelajaran?",
+        "Bagaimana cara mengajukan pengakuan pembelajaran?",
+        "Berapa lama proses pengakuan pembelajaran?",
+        "Apakah semua mata kuliah bisa diakui?",
+        "Bagaimana cara mengetahui hasil pengakuan pembelajaran?",
+        "Apakah nilai dari perguruan tinggi lain bisa diakui?",
+        "Apa saja dokumen yang diperlukan untuk pengakuan pembelajaran?",
+        "Apakah ada batas waktu untuk mengajukan pengakuan pembelajaran?"
       ],
       "responses": [
         "Pengakuan Pembelajaran Lampau (RPL) di UMMI mengakui capaian pembelajaran dari pendidikan formal, nonformal, atau pengalaman kerja.",
         "UMMI mengakui pembelajaran lampau melalui program RPL.",
-        "RPL di UMMI mengakui capaian pembelajaran dari pendidikan dan pengalaman kerja."
+        "RPL di UMMI mengakui capaian pembelajaran dari pendidikan dan pengalaman kerja.",
+        "Proses pengakuan pembelajaran sebelumnya melibatkan pengajuan dokumen dan evaluasi oleh fakultas.",
+        "Syarat untuk mendapatkan pengakuan pembelajaran termasuk transkrip nilai dan silabus mata kuliah.",
+        "Ada biaya administrasi untuk proses pengakuan pembelajaran.",
+        "Cara mengajukan pengakuan pembelajaran dengan mengisi formulir dan melampirkan dokumen yang diperlukan.",
+        "Proses pengakuan pembelajaran biasanya memakan waktu 2-4 minggu."
       ]
     },
     {
@@ -1260,12 +1680,27 @@
         "Bagaimana program kerjasama di UMMI?",
         "Program kerjasama UMMI apa saja?",
         "UMMI bekerjasama dengan siapa saja?",
-        "Apa saja kerjasama yang dilakukan UMMI?"
+        "Apa saja kerjasama yang dilakukan UMMI?",
+        "Apa itu program kerjasama?",
+        "Bagaimana cara mendaftar program kerjasama?",
+        "Universitas mana saja yang bekerjasama?",
+        "Apakah ada biaya untuk program kerjasama?",
+        "Bagaimana cara mengetahui detail program kerjasama?",
+        "Apakah ada syarat khusus untuk mengikuti program kerjasama?",
+        "Kapan pendaftaran program kerjasama dibuka?",
+        "Apakah program kerjasama tersedia untuk semua jurusan?",
+        "Bagaimana cara mendapatkan informasi tentang program kerjasama?",
+        "Apakah ada keuntungan mengikuti program kerjasama?"
       ],
       "responses": [
         "UMMI memiliki program kerjasama dengan berbagai institusi dalam dan luar negeri.",
         "Program kerjasama di UMMI melibatkan berbagai institusi pendidikan dan industri.",
-        "UMMI bekerjasama dengan banyak institusi dalam dan luar negeri untuk program pendidikan dan penelitian."
+        "UMMI bekerjasama dengan banyak institusi dalam dan luar negeri untuk program pendidikan dan penelitian.",
+        "Program kerjasama adalah kolaborasi antara universitas dengan institusi lain untuk memberikan kesempatan belajar atau penelitian.",
+        "Cara mendaftar program kerjasama bisa dilihat di situs web universitas atau menghubungi bagian kerjasama.",
+        "Universitas yang bekerjasama biasanya diumumkan di awal semester.",
+        "Ada biaya tertentu untuk mengikuti program kerjasama tergantung pada institusinya.",
+        "Detail program kerjasama bisa diperoleh melalui brosur atau laman resmi universitas."
       ]
     },
     {
@@ -1410,12 +1845,27 @@
         "Panduan pembayaran SPP",
         "Syarat pembayaran SPP",
         "Kapan harus membayar SPP?",
-        "Pembayaran SPP"
+        "Pembayaran SPP",
+        "Bagaimana prosedur pembayaran SPP?",
+        "Kapan jadwal pembayaran SPP?",
+        "Apa metode pembayaran SPP yang tersedia?",
+        "Bagaimana cara cek tagihan SPP?",
+        "Apakah ada denda untuk keterlambatan pembayaran SPP?",
+        "Apakah pembayaran SPP bisa dicicil?",
+        "Bagaimana cara mendapatkan bukti pembayaran SPP?",
+        "Apakah ada potongan atau diskon untuk pembayaran SPP?",
+        "Bagaimana cara mengajukan keringanan pembayaran SPP?",
+        "Apa yang harus dilakukan jika ada kesalahan pada tagihan SPP?"
       ],
       "responses": [
         "Pembayaran SPP dilakukan setiap semester.",
         "Dana SPP harus dibayarkan untuk registrasi semester aktif.",
-        "Informasi lebih lanjut dapat dilihat di Biro Administrasi Akademik."
+        "Informasi lebih lanjut dapat dilihat di Biro Administrasi Akademik.",
+        "Prosedur pembayaran SPP dapat dilakukan melalui bank yang bekerja sama dengan universitas.",
+        "Jadwal pembayaran SPP biasanya diumumkan setiap awal semester.",
+        "Metode pembayaran SPP yang tersedia termasuk transfer bank, pembayaran online, dan melalui loket kampus.",
+        "Tagihan SPP dapat dicek melalui portal mahasiswa.",
+        "Ada denda keterlambatan jika pembayaran SPP tidak dilakukan tepat waktu."
       ]
     },
     {
@@ -1425,12 +1875,27 @@
         "Panduan mengulang mata kuliah",
         "Syarat mengulang mata kuliah",
         "Apa itu mengulang mata kuliah?",
-        "Mengulang mata kuliah"
+        "Mengulang mata kuliah",
+        "Bagaimana prosedur mengulang mata kuliah?",
+        "Apa syarat untuk mengulang mata kuliah?",
+        "Apakah ada biaya tambahan untuk mengulang mata kuliah?",
+        "Berapa kali maksimal mengulang mata kuliah yang diizinkan?",
+        "Bagaimana cara mendaftar untuk mengulang mata kuliah?",
+        "Apakah nilai mata kuliah yang diulang menggantikan nilai sebelumnya?",
+        "Apakah ada batas waktu untuk mengulang mata kuliah?",
+        "Bagaimana jika saya tidak lulus mata kuliah setelah mengulang?",
+        "Apakah mengulang mata kuliah mempengaruhi masa studi?",
+        "Apakah ada bimbingan khusus untuk mahasiswa yang mengulang mata kuliah?"
       ],
       "responses": [
         "Mengulang mata kuliah dilakukan pada semester antara.",
         "Tujuannya untuk mempercepat penyelesaian studi tanpa mengabaikan kualitas akademik.",
-        "Mengulang mata kuliah bukan untuk perbaikan nilai, melainkan untuk mata kuliah yang belum pernah ditempuh."
+        "Mengulang mata kuliah bukan untuk perbaikan nilai, melainkan untuk mata kuliah yang belum pernah ditempuh.",
+        "Prosedur mengulang mata kuliah meliputi pendaftaran ulang mata kuliah melalui portal akademik.",
+        "Syarat untuk mengulang mata kuliah biasanya melibatkan izin dari dosen pembimbing dan pembayaran biaya tambahan.",
+        "Ada biaya tambahan untuk mengulang mata kuliah, yang bervariasi tergantung pada kebijakan universitas.",
+        "Mahasiswa diperbolehkan mengulang mata kuliah maksimal dua kali.",
+        "Nilai mata kuliah yang diulang akan menggantikan nilai sebelumnya dalam transkrip nilai."
       ]
     },
     {
@@ -1472,14 +1937,29 @@
         "Apa saja syarat untuk mulai skripsi?",
         "Bagaimana proses bimbingan skripsi?",
         "Berapa kali bimbingan skripsi diperlukan?",
-        "Apa yang harus dilakukan jika mengalami kesulitan dalam skripsi?"
+        "Apa yang harus dilakukan jika mengalami kesulitan dalam skripsi?",
+        "Apa itu skripsi?",
+        "Bagaimana cara memilih topik skripsi?",
+        "Apa saja syarat untuk memulai skripsi?",
+        "Bagaimana proses bimbingan skripsi?",
+        "Apa yang harus dilakukan jika mengalami kendala dalam skripsi?",
+        "Bagaimana cara menyusun proposal skripsi?",
+        "Apa saja format penulisan skripsi yang benar?",
+        "Bagaimana cara mengajukan sidang skripsi?",
+        "Apa yang harus dilakukan setelah sidang skripsi?",
+        "Bagaimana cara mengurus revisi skripsi?"
       ],
       "responses": [
         "Prosedur pengajuan topik skripsi dilakukan dengan mengisi formulir dan mendapatkan persetujuan dari dosen pembimbing.",
         "Syarat untuk mulai skripsi termasuk menyelesaikan mata kuliah prasyarat dan memiliki IPK minimal.",
         "Proses bimbingan skripsi dilakukan secara rutin dengan dosen pembimbing.",
         "Jumlah bimbingan skripsi tergantung pada kebutuhan mahasiswa dan dosen pembimbing.",
-        "Jika mengalami kesulitan dalam skripsi, mahasiswa bisa meminta bantuan dosen pembimbing atau fakultas."
+        "Jika mengalami kesulitan dalam skripsi, mahasiswa bisa meminta bantuan dosen pembimbing atau fakultas.",
+        "Skripsi adalah karya tulis ilmiah yang merupakan syarat kelulusan program Sarjana.",
+        "Cara memilih topik skripsi adalah dengan berkonsultasi dengan dosen pembimbing dan memilih topik yang sesuai minat.",
+        "Syarat untuk memulai skripsi biasanya meliputi telah menyelesaikan sejumlah SKS tertentu.",
+        "Proses bimbingan skripsi melibatkan pertemuan rutin dengan dosen pembimbing.",
+        "Jika mengalami kendala dalam skripsi, segera konsultasikan dengan dosen pembimbing."
       ]
     },
     {
@@ -1489,14 +1969,29 @@
         "Apakah ada biaya untuk mendapatkan transkrip nilai?",
         "Berapa lama waktu yang dibutuhkan untuk mendapatkan transkrip nilai?",
         "Apakah transkrip nilai bisa diambil secara online?",
-        "Dimana saya bisa mengambil transkrip nilai?"
+        "Dimana saya bisa mengambil transkrip nilai?",
+        "Bagaimana cara mendapatkan transkrip nilai?",
+        "Apa itu transkrip nilai sementara?",
+        "Apa perbedaan antara transkrip nilai sementara dan tetap?",
+        "Bagaimana prosedur pembuatan transkrip nilai?",
+        "Apa saja yang tercantum dalam transkrip nilai?",
+        "Siapa yang menandatangani transkrip nilai?",
+        "Kapan mahasiswa bisa mendapatkan transkrip nilai tetap?",
+        "Apakah transkrip nilai sementara sah digunakan?",
+        "Apa manfaat dari transkrip nilai sementara?",
+        "Bagaimana cara mengajukan permohonan transkrip nilai?"
       ],
       "responses": [
         "Cara mendapatkan transkrip nilai adalah dengan mengajukan permohonan ke BAAK.",
         "Ada biaya administrasi untuk mendapatkan transkrip nilai.",
         "Waktu yang dibutuhkan untuk mendapatkan transkrip nilai biasanya sekitar satu minggu.",
         "Transkrip nilai bisa diambil secara online melalui portal SIAK UMMI.",
-        "Transkrip nilai bisa diambil di BAAK setelah mendapatkan pemberitahuan."
+        "Transkrip nilai bisa diambil di BAAK setelah mendapatkan pemberitahuan.",
+        "Transkrip nilai adalah rangkuman nilai dari seluruh mata kuliah yang telah ditempuh.",
+        "Transkrip nilai sementara memuat nilai terbaik dari masing-masing mata kuliah untuk keperluan sementara.",
+        "Transkrip nilai tetap adalah daftar nilai yang memuat keseluruhan kewajiban akademik dan tugas akhir.",
+        "Prosedur pembuatan transkrip nilai melibatkan pengajuan permohonan kepada Dekan melalui BAA.",
+        "Transkrip nilai harus ditandatangani oleh Dekan dan Ketua Program Studi."
       ]
     },
     {
@@ -1506,14 +2001,29 @@
         "Bagaimana cara mendaftar ujian akhir?",
         "Apa syarat untuk mengikuti ujian akhir?",
         "Dimana lokasi ujian akhir semester?",
-        "Apa yang harus dibawa saat ujian akhir?"
+        "Apa yang harus dibawa saat ujian akhir?",
+        "Apa itu ujian akhir di UMMI?",
+        "Bagaimana cara lulus ujian akhir di UMMI?",
+        "Sebutkan syarat lulus ujian akhir di UMMI!",
+        "Apa yang harus dilakukan untuk lulus ujian akhir di UMMI?",
+        "Apa saja tahapan ujian akhir di UMMI?",
+        "Kapan ujian akhir diadakan di UMMI?",
+        "Apa saja yang diuji dalam ujian akhir di UMMI?",
+        "Bagaimana proses ujian akhir di UMMI?",
+        "Apa persyaratan untuk mengikuti ujian akhir di UMMI?",
+        "Apa saja yang perlu dipersiapkan untuk ujian akhir di UMMI?"
       ],
       "responses": [
         "Jadwal ujian akhir semester diumumkan oleh fakultas sebelum periode ujian.",
         "Cara mendaftar ujian akhir dilakukan melalui portal SIAK UMMI.",
         "Syarat untuk mengikuti ujian akhir termasuk menyelesaikan seluruh tugas dan memiliki kehadiran yang cukup.",
         "Lokasi ujian akhir semester biasanya di ruang kelas yang sudah ditentukan.",
-        "Mahasiswa harus membawa kartu ujian dan alat tulis saat ujian akhir."
+        "Mahasiswa harus membawa kartu ujian dan alat tulis saat ujian akhir.",
+        "Untuk lulus ujian akhir di UMMI, mahasiswa harus lulus semua mata kuliah dalam beban studi kumulatif.",
+        "Mahasiswa harus memiliki IPK sekurang-kurangnya 2,00 untuk jenjang sarjana.",
+        "Mahasiswa harus menyelesaikan tugas akhir/skripsi dan dinyatakan layak uji oleh Pembimbing.",
+        "Mahasiswa juga harus melakukan publikasi ilmiah sebagai bagian dari skripsi.",
+        "Ujian akhir program sarjana di UMMI terdiri dari ujian mata kuliah skripsi dan ujian komprehensif."
       ]
     },
     {
@@ -1568,12 +2078,27 @@
         "Bagaimana penilaian akhir dihitung?",
         "Apa arti nilai huruf dalam penilaian?",
         "Berapa bobot nilai untuk setiap huruf?",
-        "Bagaimana penilaian nilai akhir dilakukan?"
+        "Bagaimana penilaian nilai akhir dilakukan?",
+        "Bagaimana kriteria penilaian di universitas ini?",
+        "Apa saja faktor yang mempengaruhi penilaian akademik?",
+        "Apakah ada standar khusus untuk penilaian tugas akhir?",
+        "Bagaimana cara menghitung nilai akhir mata kuliah?",
+        "Apa yang dinilai dalam ujian tengah semester?",
+        "Apakah kehadiran mempengaruhi penilaian akhir?",
+        "Bagaimana prosedur jika tidak puas dengan penilaian?",
+        "Apa saja komponen penilaian dalam satu mata kuliah?",
+        "Bagaimana cara mendapatkan nilai yang baik?",
+        "Apakah ada kebijakan penilaian ulang?"
       ],
       "responses": [
         "Bobot nilai hasil ujian yang menjadi nilai akhir berupa nilai huruf dengan bobot nilai sebagai berikut: A = 4, B = 3, C = 2, D = 1, E = 0.",
         "Nilai akhir dihitung berdasarkan bobot penilaian yang sesuai dengan uji kompetensi yang dirancang sebelumnya.",
-        "Penilaian akhir dilakukan dengan mempertimbangkan nilai tes, praktikum, dan penugasan."
+        "Penilaian akhir dilakukan dengan mempertimbangkan nilai tes, praktikum, dan penugasan.",
+        "Kriteria penilaian mencakup kehadiran, partisipasi, tugas, ujian tengah semester, dan ujian akhir semester.",
+        "Penilaian akademik dipengaruhi oleh kualitas tugas, keaktifan di kelas, dan hasil ujian.",
+        "Ada standar khusus untuk penilaian tugas akhir yang mencakup orisinalitas, kedalaman analisis, dan presentasi.",
+        "Nilai akhir mata kuliah dihitung dari kombinasi nilai tugas, ujian tengah semester, dan ujian akhir semester.",
+        "Ujian tengah semester menilai pemahaman materi yang sudah diajarkan hingga saat itu."
       ]
     },
     {
@@ -1628,10 +2153,25 @@
         "Bagaimana cara lulus diploma di UMMI?",
         "Apa yang diperlukan untuk lulus diploma di UMMI?",
         "Syarat lulus diploma di UMMI apa saja?",
-        "Ketentuan kelulusan diploma di UMMI?"
+        "Ketentuan kelulusan diploma di UMMI?",
+        "Bagaimana prosedur kelulusan diploma?",
+        "Apa syarat untuk lulus dari program diploma?",
+        "Kapan saya bisa mengikuti ujian kelulusan diploma?",
+        "Apa yang perlu saya lakukan untuk lulus dari program diploma?",
+        "Berapa IPK minimal untuk lulus dari program diploma?",
+        "Dokumen apa saja yang dibutuhkan untuk kelulusan diploma?",
+        "Kapan jadwal wisuda diploma?",
+        "Bagaimana cara mendaftar wisuda diploma?",
+        "Apa yang harus saya lakukan setelah lulus dari program diploma?",
+        "Bagaimana cara mengurus surat keterangan lulus diploma?"
       ],
       "responses": [
-        "Syarat kelulusan jenjang diploma di UMMI meliputi lulus semua mata kuliah dalam beban studi kumulatif, mengikuti program wajib universitas, memiliki IPK minimal 2.00, menyusun laporan tugas akhir, dan melengkapi persyaratan administrasi akademik dan keuangan."
+        "Syarat kelulusan jenjang diploma di UMMI meliputi lulus semua mata kuliah dalam beban studi kumulatif, mengikuti program wajib universitas, memiliki IPK minimal 2.00, menyusun laporan tugas akhir, dan melengkapi persyaratan administrasi akademik dan keuangan.",
+        "Prosedur kelulusan diploma meliputi pengumpulan tugas akhir, mengikuti ujian kelulusan, dan memenuhi syarat administrasi.",
+        "Syarat untuk lulus dari program diploma termasuk menyelesaikan seluruh SKS, menyusun tugas akhir, dan mencapai IPK minimal.",
+        "Ujian kelulusan diploma biasanya dilaksanakan pada akhir semester genap.",
+        "Untuk lulus dari program diploma, Anda perlu menyelesaikan semua mata kuliah yang diwajibkan dan lulus ujian akhir.",
+        "IPK minimal untuk lulus dari program diploma adalah 2.75."
       ]
     },
     {
@@ -1641,10 +2181,25 @@
         "Bagaimana cara lulus sarjana di UMMI?",
         "Apa yang diperlukan untuk lulus sarjana di UMMI?",
         "Syarat lulus sarjana di UMMI apa saja?",
-        "Ketentuan kelulusan sarjana di UMMI?"
+        "Ketentuan kelulusan sarjana di UMMI?",
+        "Bagaimana prosedur kelulusan sarjana?",
+        "Apa syarat untuk lulus dari program sarjana?",
+        "Kapan saya bisa mengikuti ujian kelulusan sarjana?",
+        "Apa yang perlu saya lakukan untuk lulus dari program sarjana?",
+        "Berapa IPK minimal untuk lulus dari program sarjana?",
+        "Dokumen apa saja yang dibutuhkan untuk kelulusan sarjana?",
+        "Kapan jadwal wisuda sarjana?",
+        "Bagaimana cara mendaftar wisuda sarjana?",
+        "Apa yang harus saya lakukan setelah lulus dari program sarjana?",
+        "Bagaimana cara mengurus surat keterangan lulus sarjana?"
       ],
       "responses": [
-        "Syarat kelulusan jenjang sarjana di UMMI meliputi lulus semua mata kuliah dalam beban studi kumulatif, mengikuti program wajib universitas, memiliki IPK minimal 2.00, menyusun skripsi, melakukan publikasi ilmiah, dan melengkapi persyaratan administrasi akademik dan keuangan."
+        "Syarat kelulusan jenjang sarjana di UMMI meliputi lulus semua mata kuliah dalam beban studi kumulatif, mengikuti program wajib universitas, memiliki IPK minimal 2.00, menyusun skripsi, melakukan publikasi ilmiah, dan melengkapi persyaratan administrasi akademik dan keuangan.",
+        "Prosedur kelulusan sarjana meliputi penyusunan skripsi, mengikuti ujian akhir, dan memenuhi syarat administrasi.",
+        "Syarat untuk lulus dari program sarjana termasuk menyelesaikan seluruh SKS, menyusun skripsi, dan mencapai IPK minimal.",
+        "Ujian kelulusan sarjana biasanya dilaksanakan pada akhir semester genap.",
+        "Untuk lulus dari program sarjana, Anda perlu menyelesaikan semua mata kuliah yang diwajibkan dan lulus ujian akhir.",
+        "IPK minimal untuk lulus dari program sarjana adalah 2.75."
       ]
     },
     {
@@ -1654,10 +2209,25 @@
         "Bagaimana cara lulus pascasarjana di UMMI?",
         "Apa yang diperlukan untuk lulus pascasarjana di UMMI?",
         "Syarat lulus pascasarjana di UMMI apa saja?",
-        "Ketentuan kelulusan pascasarjana di UMMI?"
+        "Ketentuan kelulusan pascasarjana di UMMI?",
+        "Bagaimana prosedur kelulusan pascasarjana?",
+        "Apa syarat untuk lulus dari program pascasarjana?",
+        "Kapan saya bisa mengikuti ujian kelulusan pascasarjana?",
+        "Apa yang perlu saya lakukan untuk lulus dari program pascasarjana?",
+        "Berapa IPK minimal untuk lulus dari program pascasarjana?",
+        "Dokumen apa saja yang dibutuhkan untuk kelulusan pascasarjana?",
+        "Kapan jadwal wisuda pascasarjana?",
+        "Bagaimana cara mendaftar wisuda pascasarjana?",
+        "Apa yang harus saya lakukan setelah lulus dari program pascasarjana?",
+        "Bagaimana cara mengurus surat keterangan lulus pascasarjana?"
       ],
       "responses": [
-        "Syarat kelulusan jenjang pascasarjana di UMMI meliputi lulus semua mata kuliah dalam beban studi kumulatif, mengikuti program wajib universitas, memiliki IPK minimal 3.00, menyusun tesis atau disertasi, dan melengkapi persyaratan administrasi akademik dan keuangan."
+        "Syarat kelulusan jenjang pascasarjana di UMMI meliputi lulus semua mata kuliah dalam beban studi kumulatif, mengikuti program wajib universitas, memiliki IPK minimal 3.00, menyusun tesis atau disertasi, dan melengkapi persyaratan administrasi akademik dan keuangan.",
+        "Prosedur kelulusan pascasarjana meliputi penyusunan tesis, ujian komprehensif, dan memenuhi syarat administrasi.",
+        "Syarat untuk lulus dari program pascasarjana termasuk menyelesaikan seluruh SKS, menyusun tesis, dan mencapai IPK minimal.",
+        "Ujian kelulusan pascasarjana biasanya dilaksanakan pada akhir semester genap.",
+        "Untuk lulus dari program pascasarjana, Anda perlu menyelesaikan semua mata kuliah yang diwajibkan dan lulus ujian akhir.",
+        "IPK minimal untuk lulus dari program pascasarjana adalah 3.00."
       ]
     },
     {
@@ -1667,10 +2237,25 @@
         "Bagaimana cara menyelesaikan tugas akhir di UMMI?",
         "Apa syarat tugas akhir di UMMI?",
         "Ketentuan tugas akhir di UMMI apa saja?",
-        "Apa yang perlu diketahui tentang tugas akhir di UMMI?"
+        "Apa yang perlu diketahui tentang tugas akhir di UMMI?",
+        "Apa itu tugas akhir?",
+        "Bagaimana cara menyusun tugas akhir?",
+        "Apa saja bagian yang harus ada dalam tugas akhir?",
+        "Apa ketentuan penulisan tugas akhir?",
+        "Bagaimana cara mengajukan tugas akhir?",
+        "Apa syarat untuk menyelesaikan tugas akhir?",
+        "Berapa halaman minimal untuk tugas akhir?",
+        "Apa yang dimaksud dengan deteksi plagiasi dalam tugas akhir?",
+        "Bagaimana cara revisi tugas akhir?",
+        "Apa persyaratan administratif untuk tugas akhir?"
       ],
       "responses": [
-        "Tugas akhir adalah karya tulis ilmiah yang menjadi syarat kelulusan mahasiswa di UMMI, dengan istilah berbeda sesuai jenjang pendidikan: Laporan Tugas Akhir untuk Program Vokasi, Tugas Akhir/Skripsi untuk Program Sarjana, Tesis untuk Program Pascasarjana/Magister, dan Disertasi untuk Program Pascasarjana/Doktoral."
+        "Tugas akhir adalah karya tulis ilmiah yang menjadi syarat kelulusan mahasiswa di UMMI, dengan istilah berbeda sesuai jenjang pendidikan: Laporan Tugas Akhir untuk Program Vokasi, Tugas Akhir/Skripsi untuk Program Sarjana, Tesis untuk Program Pascasarjana/Magister, dan Disertasi untuk Program Pascasarjana/Doktoral.",
+        "Tugas akhir adalah karya tulis ilmiah yang menjadi syarat kelulusan mahasiswa.",
+        "Tugas akhir harus disusun sesuai dengan Pedoman Penulisan Karya Ilmiah UMMI.",
+        "Bagian-bagian tugas akhir meliputi abstrak, pendahuluan, kajian literatur, metode penelitian, hasil dan pembahasan, serta penutup.",
+        "Penulisan tugas akhir harus memenuhi standar yang ditetapkan oleh UMMI.",
+        "Tugas akhir harus melalui deteksi plagiasi sebelum bisa diajukan untuk ujian."
       ]
     },
     {
@@ -1680,10 +2265,25 @@
         "Bagaimana ketentuan penyusunan tugas akhir di UMMI?",
         "Apa saja yang harus ada dalam tugas akhir di UMMI?",
         "Syarat penulisan tugas akhir di UMMI apa saja?",
-        "Apa aturan tugas akhir di UMMI?"
+        "Apa aturan tugas akhir di UMMI?",
+        "Apa syarat untuk menyelesaikan tugas akhir?",
+        "Syarat apa saja yang harus dipenuhi untuk tugas akhir?",
+        "Bagaimana ketentuan untuk menyusun tugas akhir?",
+        "Apa persyaratan kelulusan terkait tugas akhir?",
+        "Dokumen apa saja yang dibutuhkan untuk tugas akhir?",
+        "Berapa SKS yang harus diselesaikan sebelum tugas akhir?",
+        "Apakah ada syarat khusus untuk tugas akhir?",
+        "Apa kriteria kelulusan tugas akhir?",
+        "Bagaimana prosedur penyusunan tugas akhir?",
+        "Syarat administratif apa saja yang perlu dipenuhi untuk tugas akhir?"
       ],
       "responses": [
-        "Syarat penyusunan tugas akhir di UMMI meliputi abstrak dalam Bahasa Indonesia dan Inggris, tulisan naskah dalam Bahasa Indonesia atau internasional, identitas naskah tugas akhir pada jilid, lembar pengesahan, isi badan naskah dengan beberapa BAB, dan acuan/rujukan yang relevan."
+        "Syarat penyusunan tugas akhir di UMMI meliputi abstrak dalam Bahasa Indonesia dan Inggris, tulisan naskah dalam Bahasa Indonesia atau internasional, identitas naskah tugas akhir pada jilid, lembar pengesahan, isi badan naskah dengan beberapa BAB, dan acuan/rujukan yang relevan.",
+        "Syarat tugas akhir mencakup penyelesaian seluruh mata kuliah, memiliki IPK minimal, dan publikasi ilmiah.",
+        "Mahasiswa harus menyusun dan menulis laporan tugas akhir serta lulus ujian akhir.",
+        "Penyelesaian tugas akhir membutuhkan minimal IPK 2,00 dan penyelesaian seluruh SKS yang ditetapkan.",
+        "Mahasiswa harus melakukan publikasi ilmiah dan mengikuti ujian komprehensif atau sejenisnya.",
+        "Dokumen tugas akhir harus dilengkapi dengan lembar pengesahan dan memenuhi standar penulisan."
       ]
     },
     {
@@ -1721,10 +2321,25 @@
         "Apa ketentuan pemberian ijazah di UMMI?",
         "Syarat mendapatkan ijazah di UMMI apa saja?",
         "Apa prosedur penerbitan ijazah di UMMI?",
-        "Bagaimana cara memperoleh ijazah di UMMI?"
+        "Bagaimana cara memperoleh ijazah di UMMI?",
+        "Bagaimana prosedur pengajuan ijazah?",
+        "Apa syarat untuk mendapatkan ijazah?",
+        "Kapan ijazah bisa diambil?",
+        "Apakah ada biaya untuk penerbitan ijazah?",
+        "Bagaimana cara mengurus ijazah yang hilang?",
+        "Apa saja dokumen yang diperlukan untuk pengajuan ijazah?",
+        "Berapa lama waktu yang dibutuhkan untuk penerbitan ijazah?",
+        "Apakah ijazah bisa diambil oleh orang lain?",
+        "Bagaimana cara mendapatkan salinan ijazah?",
+        "Apakah ada layanan legalisasi ijazah di kampus?"
       ],
       "responses": [
-        "Prosedur pemberian ijazah di UMMI meliputi: mahasiswa lulus dan memenuhi persyaratan administrasi, menyerahkan surat keterangan dari fakultas, laporan kelulusan oleh dekan, SK Rektor, penerbitan ijazah oleh Biro Administrasi Akademik, dan penyerahan ijazah setelah memenuhi persyaratan administrasi."
+        "Prosedur pemberian ijazah di UMMI meliputi: mahasiswa lulus dan memenuhi persyaratan administrasi, menyerahkan surat keterangan dari fakultas, laporan kelulusan oleh dekan, SK Rektor, penerbitan ijazah oleh Biro Administrasi Akademik, dan penyerahan ijazah setelah memenuhi persyaratan administrasi.",
+        "Prosedur pengajuan ijazah melibatkan pengisian formulir dan melampirkan dokumen pendukung.",
+        "Syarat untuk mendapatkan ijazah termasuk menyelesaikan semua mata kuliah dan administrasi.",
+        "Ijazah bisa diambil setelah upacara wisuda.",
+        "Ada biaya administrasi untuk penerbitan ijazah.",
+        "Untuk mengurus ijazah yang hilang, ajukan permohonan ke bagian akademik dengan bukti laporan kehilangan."
       ]
     },
     {
@@ -1734,10 +2349,25 @@
         "Apa prosedur legalisasi SKPI di UMMI?",
         "Syarat legalisasi transkrip nilai di UMMI apa saja?",
         "Bagaimana prosedur legalisasi dokumen akademik di UMMI?",
-        "Apa ketentuan legalisasi ijazah di UMMI?"
+        "Apa ketentuan legalisasi ijazah di UMMI?",
+        "Bagaimana cara legalisasi dokumen di universitas?",
+        "Apa saja dokumen yang bisa dilegalisasi?",
+        "Berapa biaya legalisasi dokumen?",
+        "Berapa lama proses legalisasi dokumen?",
+        "Apakah legalisasi dokumen bisa dilakukan secara online?",
+        "Apa syarat untuk legalisasi dokumen?",
+        "Di mana lokasi kantor legalisasi dokumen?",
+        "Bagaimana cara menghubungi bagian legalisasi dokumen?",
+        "Apakah mahasiswa perlu membuat janji untuk legalisasi dokumen?",
+        "Apa yang harus dilakukan jika dokumen yang dilegalisasi hilang?"
       ],
       "responses": [
-        "Prosedur legalisasi dokumen di UMMI meliputi: menyerahkan salinan dokumen ke Bagian Administrasi Akademik (BAA) fakultas, mengisi formulir permohonan legalisasi, tanda tangan oleh dekan atau wakil dekan, dan mengisi data lulusan di administrasi akademik fakultas."
+        "Prosedur legalisasi dokumen di UMMI meliputi: menyerahkan salinan dokumen ke Bagian Administrasi Akademik (BAA) fakultas, mengisi formulir permohonan legalisasi, tanda tangan oleh dekan atau wakil dekan, dan mengisi data lulusan di administrasi akademik fakultas.",
+        "Untuk legalisasi dokumen, mahasiswa harus mengisi formulir permohonan dan menyerahkan dokumen ke bagian administrasi.",
+        "Dokumen yang bisa dilegalisasi antara lain ijazah, transkrip nilai, dan sertifikat kelulusan.",
+        "Biaya legalisasi dokumen bervariasi tergantung pada jenis dokumen dan jumlah salinan yang dilegalisasi.",
+        "Proses legalisasi dokumen biasanya memakan waktu 3-5 hari kerja.",
+        "Legalisasi dokumen dapat dilakukan secara online melalui portal resmi universitas."
       ]
     },
     {
@@ -1780,12 +2410,27 @@
         "Bagaimana cara mengakses perpustakaan UMMI?",
         "Apakah perpustakaan UMMI memiliki layanan digital?",
         "Fasilitas apa saja yang ada di perpustakaan UMMI?",
-        "Bagaimana cara menggunakan aplikasi cek plagiasi di perpustakaan?"
+        "Bagaimana cara menggunakan aplikasi cek plagiasi di perpustakaan?",
+        "Apa saja fasilitas yang disediakan perpustakaan universitas?",
+        "Bagaimana cara meminjam buku di perpustakaan?",
+        "Apakah perpustakaan menyediakan akses ke jurnal internasional?",
+        "Apa saja layanan digital yang tersedia di perpustakaan?",
+        "Bagaimana cara mengakses e-book dari perpustakaan?",
+        "Apakah perpustakaan buka setiap hari?",
+        "Bagaimana prosedur perpanjangan peminjaman buku?",
+        "Apakah ada biaya keterlambatan pengembalian buku?",
+        "Bagaimana cara mengakses perpustakaan online?",
+        "Apakah perpustakaan menyediakan ruang untuk belajar kelompok?"
       ],
       "responses": [
         "Perpustakaan UMMI menyediakan koleksi bahan bacaan, layanan referensi, aplikasi cek plagiasi, dan berbagai kegiatan untuk meningkatkan minat baca.",
         "Mahasiswa dapat mengakses perpustakaan UMMI secara langsung atau melalui platform digital library.",
-        "Perpustakaan UMMI memiliki layanan digital untuk akses bahan bacaan elektronik."
+        "Perpustakaan UMMI memiliki layanan digital untuk akses bahan bacaan elektronik.",
+        "Perpustakaan universitas menyediakan fasilitas peminjaman buku, akses ke jurnal internasional, dan layanan digital.",
+        "Untuk meminjam buku, mahasiswa harus memiliki kartu perpustakaan dan mengikuti prosedur peminjaman.",
+        "Perpustakaan menyediakan akses ke berbagai jurnal internasional melalui portal online.",
+        "Layanan digital perpustakaan mencakup e-book, database online, dan akses ke bahan ajar digital.",
+        "Mahasiswa dapat mengakses e-book melalui website perpustakaan dengan menggunakan akun mahasiswa."
       ]
     },
     {
@@ -1795,12 +2440,27 @@
         "Apakah UMMI memiliki laboratorium untuk teknik sipil?",
         "Di mana saya bisa menemukan laboratorium kimia di UMMI?",
         "Laboratorium apa yang tersedia untuk teknik informatika?",
-        "Apakah ada laboratorium kebijakan publik di UMMI?"
+        "Apakah ada laboratorium kebijakan publik di UMMI?",
+        "Apa saja fasilitas yang ada di laboratorium akademik?",
+        "Bagaimana cara menggunakan laboratorium akademik?",
+        "Apakah ada jadwal khusus untuk penggunaan laboratorium?",
+        "Bagaimana prosedur peminjaman alat di laboratorium?",
+        "Siapa yang bertanggung jawab atas laboratorium akademik?",
+        "Apakah ada biaya untuk menggunakan laboratorium?",
+        "Bagaimana cara memesan laboratorium untuk penelitian?",
+        "Apa saja aturan yang harus diikuti di laboratorium akademik?",
+        "Apakah ada pelatihan untuk penggunaan alat di laboratorium?",
+        "Bagaimana cara melaporkan kerusakan alat di laboratorium?"
       ],
       "responses": [
         "UMMI memiliki berbagai laboratorium seperti Laboratorium Teknik Sipil, Laboratorium Kimia, Laboratorium Informatika, dan banyak lagi.",
         "Ya, UMMI memiliki Laboratorium Teknik Sipil.",
-        "Laboratorium Kimia tersedia di UMMI untuk mendukung pembelajaran di bidang tersebut."
+        "Laboratorium Kimia tersedia di UMMI untuk mendukung pembelajaran di bidang tersebut.",
+        "Laboratorium akademik dilengkapi dengan berbagai alat dan bahan untuk mendukung kegiatan praktikum dan penelitian.",
+        "Untuk menggunakan laboratorium akademik, mahasiswa harus mendaftar dan mengikuti prosedur yang ditetapkan.",
+        "Jadwal penggunaan laboratorium diatur oleh fakultas dan dapat dilihat di papan pengumuman atau sistem informasi.",
+        "Prosedur peminjaman alat di laboratorium harus melalui persetujuan pengelola laboratorium.",
+        "Pengelola laboratorium bertanggung jawab atas pengoperasian dan pemeliharaan fasilitas laboratorium."
       ]
     },
     {
@@ -1840,12 +2500,27 @@
         "Layanan apa saja yang disediakan oleh Language Centre?",
         "Apakah Language Centre melayani uji kompetensi bahasa?",
         "Bagaimana cara meningkatkan kemahiran berbahasa di UMMI?",
-        "Apakah Language Centre melayani pengembangan Bahasa Indonesia untuk penutur asing?"
+        "Apakah Language Centre melayani pengembangan Bahasa Indonesia untuk penutur asing?",
+        "Apa saja layanan yang disediakan oleh language centre?",
+        "Bagaimana cara mendaftar kursus di language centre?",
+        "Apakah ada ujian bahasa di language centre?",
+        "Berapa biaya kursus bahasa di language centre?",
+        "Apakah language centre menyediakan kursus untuk semua bahasa?",
+        "Bagaimana jadwal operasional language centre?",
+        "Apa syarat untuk mengikuti kursus di language centre?",
+        "Apakah language centre memberikan sertifikat setelah menyelesaikan kursus?",
+        "Bagaimana cara menghubungi language centre?",
+        "Apakah language centre menyediakan kelas online?"
       ],
       "responses": [
         "Language Centre di UMMI melayani kebutuhan kemahiran berbahasa dan uji kompetensi standar berbahasa.",
         "Language Centre menyediakan layanan pengembangan Bahasa Indonesia untuk penutur asing dan kemahiran berbahasa asing.",
-        "Ya, Language Centre melayani uji kompetensi bahasa untuk civitas academica dan pihak eksternal."
+        "Ya, Language Centre melayani uji kompetensi bahasa untuk civitas academica dan pihak eksternal.",
+        "Language centre menyediakan layanan kursus bahasa, ujian bahasa, dan pelatihan komunikasi.",
+        "Untuk mendaftar kursus di language centre, kunjungi website resmi atau datang langsung ke kantornya.",
+        "Language centre menyelenggarakan ujian bahasa untuk berbagai tingkat kemahiran.",
+        "Biaya kursus bahasa bervariasi tergantung pada jenis kursus dan durasinya.",
+        "Language centre menyediakan kursus untuk berbagai bahasa internasional dan lokal."
       ]
     },
     {
@@ -1855,12 +2530,27 @@
         "Layanan apa saja yang disediakan oleh Pusat Bimbingan AIK?",
         "Bagaimana cara mengikuti bimbingan BTQ di UMMI?",
         "Apakah Pusat Bimbingan AIK menyediakan pelatihan ibadah?",
-        "Apakah ada layanan bimbingan tahsin Qur'an di UMMI?"
+        "Apakah ada layanan bimbingan tahsin Qur'an di UMMI?",
+        "Apa itu Pusat Bimbingan AIK?",
+        "Bagaimana cara mendaftar ke Pusat Bimbingan AIK?",
+        "Apa saja layanan yang disediakan oleh Pusat Bimbingan AIK?",
+        "Siapa yang bisa menggunakan layanan Pusat Bimbingan AIK?",
+        "Apakah ada biaya untuk layanan Pusat Bimbingan AIK?",
+        "Bagaimana cara menghubungi Pusat Bimbingan AIK?",
+        "Apakah ada jadwal khusus untuk konsultasi di Pusat Bimbingan AIK?",
+        "Apakah Pusat Bimbingan AIK menyediakan layanan online?",
+        "Bagaimana cara membuat janji dengan konselor di Pusat Bimbingan AIK?",
+        "Apa saja kegiatan yang dilakukan oleh Pusat Bimbingan AIK?"
       ],
       "responses": [
         "Pusat Bimbingan AIK di UMMI menyediakan bimbingan BTQ, pelatihan ibadah, dan uji Baca Tulis Qur’an.",
         "Layanan yang disediakan meliputi bimbingan BTQ, tahsin Qur'an, dan bimbingan ibadah praktek.",
-        "Ya, Pusat Bimbingan AIK menyediakan bimbingan tahsin Qur'an."
+        "Ya, Pusat Bimbingan AIK menyediakan bimbingan tahsin Qur'an.",
+        "Pusat Bimbingan AIK adalah layanan untuk membantu mahasiswa dalam masalah akademik dan non-akademik.",
+        "Cara mendaftar ke Pusat Bimbingan AIK adalah dengan mengisi formulir pendaftaran di situs web mereka.",
+        "Layanan yang disediakan termasuk konseling, bimbingan akademik, dan kegiatan pengembangan diri.",
+        "Layanan Pusat Bimbingan AIK bisa digunakan oleh semua mahasiswa.",
+        "Tidak ada biaya untuk layanan Pusat Bimbingan AIK."
       ]
     },
     {
@@ -1930,12 +2620,27 @@
         "Apakah ada kegiatan untuk pengembangan daya nalar di UMMI?",
         "Kegiatan apa saja yang mendukung minat dan bakat di UMMI?",
         "Apakah UMMI memiliki program untuk meningkatkan jiwa leadership mahasiswa?",
-        "Bagaimana cara mengembangkan kreatifitas di UMMI?"
+        "Bagaimana cara mengembangkan kreatifitas di UMMI?",
+        "Apa saja kegiatan pengembangan minat dan bakat yang tersedia?",
+        "Bagaimana cara bergabung dengan kegiatan pengembangan minat dan bakat?",
+        "Apakah ada biaya untuk kegiatan pengembangan minat dan bakat?",
+        "Bagaimana cara mengetahui jadwal kegiatan pengembangan minat dan bakat?",
+        "Apakah ada fasilitas khusus untuk pengembangan minat dan bakat?",
+        "Bagaimana cara mengajukan proposal kegiatan minat dan bakat?",
+        "Apakah kegiatan minat dan bakat bisa mendapatkan SKS?",
+        "Bagaimana cara mendapatkan sertifikat dari kegiatan minat dan bakat?",
+        "Apakah kegiatan minat dan bakat terbuka untuk semua mahasiswa?",
+        "Bagaimana cara mengikuti lomba melalui kegiatan minat dan bakat?"
       ],
       "responses": [
         "UMMI mendukung pengembangan minat dan bakat mahasiswa melalui berbagai kegiatan yang meningkatkan daya nalar, jiwa leadership, dan kreatifitas.",
         "Ada berbagai kegiatan yang mendukung pengembangan minat dan bakat serta daya nalar mahasiswa.",
-        "UMMI menyediakan program yang meningkatkan jiwa leadership dan kreatifitas mahasiswa."
+        "UMMI menyediakan program yang meningkatkan jiwa leadership dan kreatifitas mahasiswa.",
+        "Kegiatan pengembangan minat dan bakat yang tersedia termasuk olahraga, seni, dan organisasi mahasiswa.",
+        "Cara bergabung dengan kegiatan pengembangan minat dan bakat dengan mendaftar melalui portal mahasiswa atau sekretariat.",
+        "Beberapa kegiatan pengembangan minat dan bakat mungkin memerlukan biaya pendaftaran.",
+        "Jadwal kegiatan pengembangan minat dan bakat bisa dilihat di website kampus atau papan pengumuman.",
+        "Universitas menyediakan fasilitas seperti gym, studio seni, dan ruang organisasi untuk pengembangan minat dan bakat."
       ]
     },
     {
@@ -1975,12 +2680,27 @@
         "Laboratorium apa saja yang melayani pihak eksternal di UMMI?",
         "Apakah UMMI memiliki laboratorium uji tersertifikasi KAN?",
         "Bagaimana cara mendapatkan layanan laboratorium untuk pihak eksternal di UMMI?",
-        "Apakah layanan laboratorium di UMMI sesuai dengan ISO 17025?"
+        "Apakah layanan laboratorium di UMMI sesuai dengan ISO 17025?",
+        "Apa saja layanan eksternal yang ditawarkan oleh universitas?",
+        "Bagaimana cara mengakses layanan eksternal?",
+        "Apakah ada biaya untuk menggunakan layanan eksternal?",
+        "Siapa yang bisa menggunakan layanan eksternal universitas?",
+        "Bagaimana cara mendapatkan informasi lebih lanjut tentang layanan eksternal?",
+        "Apakah layanan eksternal mencakup program magang?",
+        "Bagaimana cara mendaftar untuk program layanan eksternal?",
+        "Apakah ada batasan waktu untuk menggunakan layanan eksternal?",
+        "Apa manfaat dari layanan eksternal universitas?",
+        "Apakah layanan eksternal termasuk pelatihan dan workshop?"
       ],
       "responses": [
         "UMMI memiliki laboratorium layanan servis untuk pihak eksternal dengan mengacu kepada ISO 17025.",
         "Laboratorium di UMMI melayani kebutuhan eksternal dengan standar yang tinggi.",
-        "Ya, laboratorium uji di UMMI tersertifikasi KAN dan melayani pihak eksternal."
+        "Ya, laboratorium uji di UMMI tersertifikasi KAN dan melayani pihak eksternal.",
+        "Layanan eksternal universitas mencakup program magang, pelatihan, dan workshop untuk mahasiswa dan alumni.",
+        "Untuk mengakses layanan eksternal, hubungi bagian layanan mahasiswa atau kunjungi website resmi universitas.",
+        "Beberapa layanan eksternal mungkin memerlukan biaya pendaftaran atau penggunaan.",
+        "Layanan eksternal bisa digunakan oleh mahasiswa, alumni, dan masyarakat umum tergantung pada jenis layanan.",
+        "Informasi lebih lanjut tentang layanan eksternal dapat diperoleh melalui website universitas atau pusat layanan mahasiswa."
       ]
     },
     {
@@ -1990,12 +2710,27 @@
         "Bagaimana UMMI bekerja sama dengan universitas luar negeri?",
         "Apa tujuan kerjasama internasional di UMMI?",
         "Bagaimana cara UMMI menjalin hubungan internasional?",
-        "Universitas mana saja yang bekerja sama dengan UMMI?"
+        "Universitas mana saja yang bekerja sama dengan UMMI?",
+        "Apa saja program kerjasama internasional yang tersedia?",
+        "Bagaimana cara menjalin kerjasama internasional?",
+        "Apa keuntungan dari kerjasama internasional?",
+        "Dengan negara mana saja kerjasama internasional dijalin?",
+        "Bagaimana saya bisa ikut dalam program kerjasama internasional?",
+        "Apakah ada program pertukaran pelajar internasional?",
+        "Bagaimana prosedur kerjasama internasional?",
+        "Apa saja syarat untuk mengikuti program kerjasama internasional?",
+        "Apa tujuan dari kerjasama internasional?",
+        "Apakah ada kesempatan magang melalui kerjasama internasional?"
       ],
       "responses": [
         "Kerjasama internasional di UMMI melibatkan berbagai program dengan universitas luar negeri.",
         "Tujuan kerjasama internasional adalah untuk meningkatkan mutu pendidikan dan penelitian.",
-        "UMMI menjalin hubungan dengan universitas luar negeri melalui berbagai program kolaborasi."
+        "UMMI menjalin hubungan dengan universitas luar negeri melalui berbagai program kolaborasi.",
+        "Program kerjasama internasional meliputi pertukaran pelajar, penelitian bersama, dan program magang internasional.",
+        "Kerjasama internasional dijalin melalui penandatanganan perjanjian dengan institusi di luar negeri.",
+        "Keuntungan dari kerjasama internasional termasuk kesempatan belajar di luar negeri dan peningkatan kualitas pendidikan.",
+        "Kerjasama internasional dijalin dengan berbagai negara di Asia, Eropa, dan Amerika.",
+        "Untuk ikut dalam program kerjasama internasional, mahasiswa perlu mendaftar melalui bagian kerjasama internasional."
       ]
     },
     {
@@ -2005,12 +2740,27 @@
         "Bagaimana cara mengikuti program pertukaran mahasiswa di UMMI?",
         "Universitas mana saja yang terlibat dalam program pertukaran?",
         "Berapa lama durasi program pertukaran mahasiswa?",
-        "Apa manfaat mengikuti program pertukaran mahasiswa?"
+        "Apa manfaat mengikuti program pertukaran mahasiswa?",
+        "Apa itu program pertukaran mahasiswa?",
+        "Bagaimana cara mendaftar program pertukaran?",
+        "Universitas mana saja yang terlibat dalam program pertukaran?",
+        "Apakah ada biaya untuk program pertukaran?",
+        "Bagaimana cara mengetahui detail program pertukaran?",
+        "Apakah ada syarat khusus untuk mengikuti program pertukaran?",
+        "Kapan pendaftaran program pertukaran dibuka?",
+        "Apakah program pertukaran tersedia untuk semua jurusan?",
+        "Bagaimana cara mendapatkan informasi tentang program pertukaran?",
+        "Apakah ada keuntungan mengikuti program pertukaran?"
       ],
       "responses": [
         "Program pertukaran mahasiswa memungkinkan mahasiswa belajar di universitas mitra luar negeri.",
         "Mahasiswa dapat mendaftar melalui kantor kerjasama internasional UMMI.",
-        "Durasi program pertukaran bervariasi tergantung pada kesepakatan dengan universitas mitra."
+        "Durasi program pertukaran bervariasi tergantung pada kesepakatan dengan universitas mitra.",
+        "Program pertukaran mahasiswa adalah kesempatan untuk belajar di universitas mitra selama satu atau dua semester.",
+        "Cara mendaftar program pertukaran bisa dilihat di situs web universitas atau menghubungi bagian kerjasama internasional.",
+        "Universitas mitra biasanya diumumkan di awal semester.",
+        "Ada biaya tertentu untuk mengikuti program pertukaran tergantung pada universitas mitra.",
+        "Detail program pertukaran bisa diperoleh melalui brosur atau laman resmi universitas."
       ]
     },
     {
@@ -2080,12 +2830,27 @@
         "Berapa skor minimum TOEFL atau IELTS untuk program internasional?",
         "Bagaimana cara mendaftar TOEFL atau IELTS?",
         "Apakah UMMI menyediakan kursus persiapan TOEFL/IELTS?",
-        "Dimana saya bisa mengambil tes TOEFL/IELTS?"
+        "Dimana saya bisa mengambil tes TOEFL/IELTS?",
+        "Apakah UMMI menyediakan tes TOEFL atau IELTS?",
+        "Bagaimana cara mendaftar tes TOEFL di UMMI?",
+        "Kapan tes TOEFL diadakan di UMMI?",
+        "Apa syarat untuk mengikuti tes IELTS di UMMI?",
+        "Bagaimana cara persiapan untuk tes TOEFL di UMMI?",
+        "Apakah tes TOEFL atau IELTS wajib untuk semua mahasiswa?",
+        "Apa yang diujikan dalam tes TOEFL di UMMI?",
+        "Bagaimana hasil tes TOEFL mempengaruhi kelulusan?",
+        "Apakah ada kursus persiapan TOEFL di UMMI?",
+        "Bagaimana prosedur pendaftaran tes IELTS di UMMI?"
       ],
       "responses": [
         "Ya, TOEFL atau IELTS diperlukan untuk beberapa program kerjasama internasional.",
         "Skor minimum bervariasi tergantung pada program dan universitas mitra.",
-        "UMMI menyediakan informasi tentang pendaftaran dan persiapan tes TOEFL/IELTS."
+        "UMMI menyediakan informasi tentang pendaftaran dan persiapan tes TOEFL/IELTS.",
+        "UMMI menyediakan fasilitas untuk tes TOEFL bagi mahasiswa.",
+        "Tes TOEFL biasanya diadakan secara berkala dan mahasiswa dapat mendaftar melalui BAA.",
+        "Tes TOEFL adalah salah satu program wajib universitas untuk mengukur kemampuan bahasa Inggris mahasiswa.",
+        "Hasil tes TOEFL dapat mempengaruhi kelulusan mahasiswa.",
+        "Mahasiswa dapat mengikuti kursus persiapan TOEFL yang disediakan oleh universitas."
       ]
     },
     {
@@ -2095,12 +2860,27 @@
         "Apa persyaratan untuk mendaftar program kerjasama?",
         "Bagaimana proses seleksi mahasiswa untuk program internasional?",
         "Apakah ada kuota untuk program kerjasama?",
-        "Kapan pendaftaran program kerjasama dibuka?"
+        "Kapan pendaftaran program kerjasama dibuka?",
+        "Bagaimana proses rekrutmen mahasiswa baru?",
+        "Apa saja syarat untuk menjadi mahasiswa baru?",
+        "Kapan pendaftaran mahasiswa baru dibuka?",
+        "Bagaimana cara mengajukan aplikasi untuk rekrutmen mahasiswa?",
+        "Apakah ada tes masuk untuk rekrutmen mahasiswa baru?",
+        "Bagaimana cara mengecek status aplikasi rekrutmen mahasiswa?",
+        "Apa saja dokumen yang diperlukan untuk rekrutmen mahasiswa?",
+        "Apakah ada biaya pendaftaran untuk rekrutmen mahasiswa?",
+        "Bagaimana cara mengikuti ujian seleksi rekrutmen mahasiswa?",
+        "Apa yang harus dilakukan setelah dinyatakan lulus rekrutmen mahasiswa?" 
       ],
       "responses": [
         "Proses rekrutmen melibatkan seleksi berdasarkan prestasi akademik dan kemampuan bahasa.",
         "Mahasiswa harus mengisi formulir pendaftaran dan memenuhi persyaratan akademik.",
-        "Seleksi dilakukan secara transparan dan objektif."
+        "Seleksi dilakukan secara transparan dan objektif.",
+        "Proses rekrutmen mahasiswa baru melibatkan seleksi administrasi dan tes masuk.",
+        "Syarat untuk menjadi mahasiswa baru meliputi ijazah, transkrip nilai, dan dokumen identitas.",
+        "Pendaftaran mahasiswa baru biasanya dibuka beberapa bulan sebelum semester baru dimulai.",
+        "Aplikasi untuk rekrutmen mahasiswa bisa diajukan secara online melalui situs web universitas.",
+        "Ada tes masuk yang harus diikuti untuk proses rekrutmen mahasiswa baru."
       ]
     },
     {
@@ -2140,12 +2920,27 @@
         "Apakah UMMI menyediakan asuransi kesehatan untuk mahasiswa internasional?",
         "Bagaimana layanan akomodasi untuk mahasiswa program internasional?",
         "Apakah ada layanan bimbingan akademik untuk mahasiswa internasional?",
-        "Bagaimana cara mengakses layanan pendukung di UMMI?"
+        "Bagaimana cara mengakses layanan pendukung di UMMI?",
+        "Apa itu support services?",
+        "Bagaimana cara mengakses layanan support services?",
+        "Apa saja jenis layanan yang disediakan oleh support services?",
+        "Bagaimana cara mendapatkan bantuan dari support services?",
+        "Apakah support services tersedia untuk semua mahasiswa?",
+        "Bagaimana cara menghubungi support services?",
+        "Apa yang harus dilakukan jika layanan support services tidak memuaskan?",
+        "Apakah ada biaya untuk menggunakan support services?",
+        "Bagaimana cara memberikan feedback untuk support services?",
+        "Apakah support services tersedia selama liburan?"
       ],
       "responses": [
         "UMMI menyediakan berbagai layanan pendukung termasuk bimbingan akademik dan asuransi kesehatan.",
         "Layanan akomodasi tersedia untuk mahasiswa internasional.",
-        "Mahasiswa dapat mengakses layanan pendukung melalui kantor kerjasama internasional."
+        "Mahasiswa dapat mengakses layanan pendukung melalui kantor kerjasama internasional.",
+        "Support services adalah layanan pendukung untuk membantu mahasiswa dalam berbagai aspek akademik dan non-akademik.",
+        "Cara mengakses support services adalah dengan menghubungi bagian layanan mahasiswa atau melalui portal online.",
+        "Jenis layanan yang disediakan termasuk bimbingan akademik, konseling, dan bantuan teknis.",
+        "Untuk mendapatkan bantuan dari support services, ajukan permohonan melalui portal online atau datang langsung ke kantor layanan mahasiswa.",
+        "Support services tersedia untuk semua mahasiswa tanpa biaya tambahan."
       ]
     },
     {
@@ -2155,12 +2950,27 @@
         "Bagaimana cara fakultas di UMMI bekerja sama dengan universitas luar negeri?",
         "Apakah ada program kolaborasi penelitian antar fakultas?",
         "Bagaimana fakultas berpartisipasi dalam program kerjasama?",
-        "Apakah ada dukungan untuk kerjasama fakultas di UMMI?"
+        "Apakah ada dukungan untuk kerjasama fakultas di UMMI?",
+        "Apa saja program kerjasama yang dimiliki fakultas?",
+        "Bagaimana cara fakultas menjalin kerjasama?",
+        "Apa keuntungan dari kerjasama fakultas?",
+        "Fakultas bekerjasama dengan institusi mana saja?",
+        "Bagaimana saya bisa ikut dalam program kerjasama fakultas?",
+        "Apakah ada program pertukaran pelajar di fakultas?",
+        "Bagaimana prosedur kerjasama dengan fakultas?",
+        "Apa saja syarat untuk mengikuti program kerjasama fakultas?",
+        "Apa tujuan dari kerjasama fakultas?",
+        "Apakah ada kesempatan magang melalui kerjasama fakultas?"
       ],
       "responses": [
         "Ya, ada program kerjasama antar fakultas dengan universitas luar negeri.",
         "Fakultas bekerja sama melalui program kolaborasi penelitian dan pertukaran dosen.",
-        "UMMI menyediakan dukungan untuk kerjasama fakultas dalam berbagai program."
+        "UMMI menyediakan dukungan untuk kerjasama fakultas dalam berbagai program.",
+        "Program kerjasama fakultas meliputi penelitian bersama, pertukaran pelajar, dan program magang.",
+        "Fakultas menjalin kerjasama dengan institusi lain melalui penandatanganan MoU dan MoA.",
+        "Keuntungan dari kerjasama fakultas termasuk peningkatan kualitas pendidikan dan kesempatan belajar di luar negeri.",
+        "Fakultas bekerjasama dengan berbagai universitas dan perusahaan baik di dalam maupun luar negeri.",
+        "Untuk ikut dalam program kerjasama fakultas, mahasiswa perlu mendaftar melalui bagian kerjasama fakultas."
       ]
     },
     {
@@ -2200,12 +3010,27 @@
         "Apakah ujian kompetensi keperawatan wajib?",
         "Bagaimana cara lulus ujian kompetensi keperawatan?",
         "Apa yang diujikan dalam ujian kompetensi keperawatan?",
-        "Apakah ada ujian tambahan untuk program studi keperawatan?"
+        "Apakah ada ujian tambahan untuk program studi keperawatan?",
+        "Apa itu uji kompetensi keperawatan di UMMI?",
+        "Bagaimana cara lulus uji kompetensi keperawatan di UMMI?",
+        "Sebutkan syarat lulus uji kompetensi keperawatan di UMMI!",
+        "Apa yang harus dilakukan untuk lulus uji kompetensi keperawatan di UMMI?",
+        "Apa saja tahapan uji kompetensi keperawatan di UMMI?",
+        "Kapan uji kompetensi keperawatan diadakan di UMMI?",
+        "Apa saja yang diuji dalam uji kompetensi keperawatan di UMMI?",
+        "Bagaimana proses uji kompetensi keperawatan di UMMI?",
+        "Apa persyaratan untuk mengikuti uji kompetensi keperawatan di UMMI?",
+        "Apa saja yang perlu dipersiapkan untuk uji kompetensi keperawatan di UMMI?"
       ],
       "responses": [
         "Mahasiswa program studi keperawatan harus lulus Uji Kompetensi.",
         "Ujian kompetensi keperawatan adalah syarat wajib untuk kelulusan.",
-        "Lulus Uji Kompetensi merupakan salah satu syarat kelulusan dari program studi keperawatan."
+        "Lulus Uji Kompetensi merupakan salah satu syarat kelulusan dari program studi keperawatan.",
+        "Uji kompetensi keperawatan di UMMI adalah syarat wajib untuk kelulusan mahasiswa keperawatan.",
+        "Mahasiswa keperawatan harus lulus uji kompetensi untuk mendapatkan gelar profesional.",
+        "Uji kompetensi keperawatan mencakup pengetahuan dan keterampilan praktis keperawatan.",
+        "UMMI menyelenggarakan uji kompetensi keperawatan sesuai standar nasional.",
+        "Mahasiswa harus mempersiapkan diri dengan baik melalui pembelajaran teori dan praktik."
       ]
     },
     {
@@ -2215,12 +3040,27 @@
         "Bagaimana cara mengikuti Tes Komputer Dasar?",
         "Apakah Tes Komputer Dasar wajib untuk semua mahasiswa?",
         "Kapan harus mengikuti Tes Komputer Dasar?",
-        "Apakah ada syarat nilai untuk Tes Komputer Dasar?"
+        "Apakah ada syarat nilai untuk Tes Komputer Dasar?",
+        "Apa itu tes komputer dasar?",
+        "Bagaimana cara mengikuti tes komputer dasar?",
+        "Apa yang diujikan dalam tes komputer dasar?",
+        "Kapan tes komputer dasar diadakan?",
+        "Apa syarat untuk mengikuti tes komputer dasar?",
+        "Tes komputer dasar dilakukan pada semester berapa?",
+        "Apa tujuan dari tes komputer dasar?",
+        "Bagaimana hasil tes komputer dasar mempengaruhi kelulusan?",
+        "Apakah semua mahasiswa wajib mengikuti tes komputer dasar?",
+        "Bagaimana prosedur pendaftaran tes komputer dasar?"
       ],
       "responses": [
         "Tes Komputer Dasar adalah salah satu program wajib universitas untuk kelulusan.",
         "Semua mahasiswa harus mengikuti Tes Komputer Dasar sebagai bagian dari persyaratan kelulusan.",
-        "Tes Komputer Dasar harus diikuti sebelum kelulusan."
+        "Tes Komputer Dasar harus diikuti sebelum kelulusan.",
+        "Tes komputer dasar adalah program wajib universitas untuk mengukur kemampuan dasar komputer mahasiswa.",
+        "Tes komputer dasar biasanya diadakan pada semester awal dan wajib diikuti oleh semua mahasiswa.",
+        "Untuk mengikuti tes komputer dasar, mahasiswa harus mendaftar melalui BAA.",
+        "Hasil tes komputer dasar akan mempengaruhi kelulusan mahasiswa.",
+        "Tes komputer dasar bertujuan untuk memastikan mahasiswa memiliki kemampuan dasar komputer yang memadai."
       ]
     },
     {
@@ -2230,12 +3070,27 @@
         "Bagaimana cara mengikuti Tes BTQ?",
         "Apakah Tes BTQ wajib untuk semua mahasiswa?",
         "Kapan harus mengikuti Tes BTQ?",
-        "Apakah ada syarat nilai untuk Tes BTQ?"
+        "Apakah ada syarat nilai untuk Tes BTQ?",
+        "Apa itu tes BTQ?",
+        "Bagaimana cara mengikuti tes BTQ?",
+        "Apa syarat untuk mengikuti tes BTQ?",
+        "Kapan tes BTQ diadakan?",
+        "Apa yang diujikan dalam tes BTQ?",
+        "Tes BTQ dilakukan pada semester berapa?",
+        "Apa tujuan dari tes BTQ?",
+        "Bagaimana hasil tes BTQ mempengaruhi kelulusan?",
+        "Apakah semua mahasiswa wajib mengikuti tes BTQ?",
+        "Bagaimana prosedur pendaftaran tes BTQ?"
       ],
       "responses": [
         "Tes BTQ adalah salah satu program wajib universitas untuk kelulusan.",
         "Semua mahasiswa harus mengikuti Tes BTQ sebagai bagian dari persyaratan kelulusan.",
-        "Tes BTQ harus diikuti sebelum kelulusan."
+        "Tes BTQ harus diikuti sebelum kelulusan.",
+        "Tes BTQ adalah tes Baca Tulis Al-Quran yang merupakan program wajib universitas.",
+        "Tes BTQ biasanya diadakan pada semester awal dan wajib diikuti oleh semua mahasiswa.",
+        "Untuk mengikuti tes BTQ, mahasiswa harus mendaftar melalui BAA.",
+        "Hasil tes BTQ akan mempengaruhi kelulusan mahasiswa.",
+        "Tes BTQ bertujuan untuk mengukur kemampuan mahasiswa dalam membaca dan menulis Al-Quran."
       ]
     },
     {
@@ -2245,12 +3100,27 @@
         "Apa aturan penulisan tugas akhir?",
         "Format apa yang harus digunakan untuk tugas akhir?",
         "Bagaimana struktur penulisan tugas akhir?",
-        "Apa saja yang harus ada dalam tugas akhir?"
+        "Apa saja yang harus ada dalam tugas akhir?",
+        "Apa format penulisan tugas akhir?",
+        "Bagaimana cara menulis abstrak untuk tugas akhir?",
+        "Apa ketentuan penulisan naskah tugas akhir?",
+        "Bagaimana cara menulis lembar pengesahan untuk tugas akhir?",
+        "Bagaimana struktur isi naskah tugas akhir?",
+        "Apa saja rujukan yang bisa digunakan untuk tugas akhir?",
+        "Bagaimana cara pengecekan plagiasi tugas akhir?",
+        "Apa yang harus ada dalam identitas naskah tugas akhir?",
+        "Berapa persen tingkat similarity yang diizinkan untuk tugas akhir?",
+        "Bagaimana cara menyusun daftar pustaka untuk tugas akhir?"
       ],
       "responses": [
         "Format penulisan tugas akhir harus mencakup abstrak, pendahuluan, kajian literatur, metode penelitian, hasil dan pembahasan, serta penutup.",
         "Abstrak harus ditulis dalam Bahasa Indonesia dan Bahasa Inggris, dan memuat latar belakang, rumusan masalah, metode penelitian, hasil penelitian, dan kata kunci.",
-        "Naskah tugas akhir harus dibuat dalam Bahasa Indonesia atau Bahasa Internasional seperti Inggris, Arab, Mandarin, Spanyol, Rusia, atau Perancis."
+        "Naskah tugas akhir harus dibuat dalam Bahasa Indonesia atau Bahasa Internasional seperti Inggris, Arab, Mandarin, Spanyol, Rusia, atau Perancis.",
+        "Format penulisan tugas akhir mencakup bagian-bagian seperti abstrak, pendahuluan, kajian literatur, metode penelitian, hasil dan pembahasan, serta penutup.",
+        "Abstrak tugas akhir harus mencakup tujuan, metode, hasil, dan kesimpulan dari penelitian.",
+        "Penulisan naskah tugas akhir harus mengikuti Pedoman Penulisan Karya Ilmiah yang ditetapkan UMMI.",
+        "Lembar pengesahan tugas akhir harus memuat tanda tangan pembimbing dan dekan fakultas.",
+        "Daftar pustaka harus disusun sesuai dengan format APA atau format lain yang ditetapkan oleh UMMI."
       ]
     }
   ]
