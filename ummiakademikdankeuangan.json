@@ -4273,6 +4273,415 @@
       "responses": [
           "Biaya per bulan untuk S1 Keperawatan non reguler adalah Rp. 1.672.600 untuk semester 1-4, Rp. 1.623.400 untuk semester 5-6, dan Rp. 1.483.500 untuk semester 7-8. Biaya tersebut sudah termasuk biaya SPP, Registrasi, Kegiatan Kemahasiswaan, Jas Almamater, Praktikum, UTS/UAS, KKN, Magang/PKL/Ristik, dan biaya Tugas Akhir/Skripsi. Juga termasuk biaya atribut dan proses angkat janji, alat kesehatan, dan pelatihan BTCLS."
       ]
-  }
+  },
+  {
+    "tag": "Kalender_Akademik_2022_2023",
+    "patterns": [
+        "Apa itu kalender akademik 2022/2023?",
+        "Bagaimana jadwal kegiatan tahun 2022/2023 dalam kalender akademik?",
+        "Apa yang dimaksud dengan kalender akademik?",
+        "Bagaimana cara melihat kalender akademik di UMMI?",
+        "Apa saja yang tercantum dalam kalender akademik?",
+        "Bagaimana pembagian semester dalam kalender akademik?",
+        "Apa saja kegiatan yang termasuk dalam kalender akademik?",
+        "Bagaimana jadwal pembayaran disesuaikan dengan kalender akademik?",
+        "Di mana saya bisa mengakses kalender akademik UMMI?",
+        "Bagaimana cara mengakses kalender akademik melalui SIAK?",
+        "Apa itu semester gasal, semester genap, dan semester khusus dalam kalender akademik?",
+        "Di mana saya bisa menemukan jadwal ujian dalam kalender akademik?",
+        "Bagaimana cara mendapatkan kalender akademik tahun 2022/2023?",
+        "Apa yang dimaksud dengan jadwal penerimaan peserta didik dalam kalender akademik?",
+        "Bagaimana kalender akademik mempengaruhi proses belajar-mengajar?"
+    ],
+    "responses": [
+        "Kalender akademik adalah istilah umum dalam dunia pendidikan yang merujuk kepada jadwal kegiatan tahunan suatu lembaga pendidikan yang memuat semua hal terkait dengan proses belajar-mengajar, penerimaan peserta didik, dan kelulusan. Kalender akademik ini disusun dalam suatu pola yang menggambarkan jangka waktu dan jenis kegiatan akademik. Pada umumnya, kalender akademik terbagi menjadi tiga bagian, yakni semester gasal, semester genap, dan semester khusus. Jadwal pembayaran disesuaikan dengan kalender akademik atau disesuaikan dengan pengisian KRS dan jadwal ujian. Kalender Akademik dapat dilihat pada menu Kalender Akademik dan juga dapat diakses pada halaman https://ummi.ac.id/id/download/file/kalender-akademik-tahun-akademik-20222023. Selain itu, kalender akademik juga dapat diakses melalui account SIAK masing-masing mahasiswa."
+    ]
+},
+{
+  "tag": "Prosedur_Pembayaran_Studi_Registrasi_dan_KRS_Mahasiswa_Lama",
+  "patterns": [
+      "Bagaimana prosedur pembayaran studi untuk mahasiswa lama?",
+      "Apa langkah-langkah registrasi dan KRS untuk semester 2 dan seterusnya?",
+      "Apa yang harus dilakukan untuk pembayaran biaya studi mahasiswa lama?",
+      "Bagaimana cara melakukan registrasi dan pembayaran untuk semester berikutnya?",
+      "Saya ingin tahu prosedur pembayaran dan registrasi untuk mahasiswa lama.",
+      "Bagaimana cara mengecek pembayaran biaya studi di SIAK?",
+      "Apa saja tahapan untuk registrasi dan KRS mahasiswa lama?",
+      "Bagaimana cara menggunakan Virtual Account untuk pembayaran studi?",
+      "Apa yang harus dilakukan jika pembayaran belum tercatat di sistem?",
+      "Bagaimana langkah-langkah pembayaran melalui Bank Muamalat atau Bank BSI?",
+      "Bagaimana cara konfirmasi pembayaran jika belum masuk sistem?",
+      "Apa saja yang perlu disiapkan untuk registrasi dan KRS mahasiswa lama?",
+      "Bagaimana cara login ke SIAK UMMI untuk registrasi dan KRS?",
+      "Bagaimana prosedur pembayaran dan registrasi untuk mahasiswa semester 2 ke atas?",
+      "Apa langkah yang harus diambil jika pembayaran tidak muncul di SIAK?"
+  ],
+  "responses": [
+      "Prosedur pembayaran studi untuk mahasiswa lama adalah sebagai berikut: 1. Melakukan registrasi dengan membayar biaya studi (minimal 50% dari total tagihan) sesuai program studi melalui Bank Muamalat atau Bank BSI dengan menggunakan Virtual Account pada account SIAK masing-masing mahasiswa. Setiap mahasiswa memiliki nomor Virtual Account yang berbeda. 2. Login pada website SIAK UMMI pada alamat siak.ummi.ac.id untuk mengecek apakah pembayaran sudah masuk sistem atau belum. Apabila belum masuk, segera melakukan konfirmasi pada bagian keuangan fakultas dengan membawa bukti pembayaran yang sah atau langsung menghubungi layanan online via WhatsApp keuangan di 0857-9899-0556. 3. Menyimpan bukti pembayaran dengan baik untuk digunakan seperlunya. 4. Login SIAK untuk melakukan kontrak kuliah (KRS)."
+  ]
+},
+{
+"tag": "Prosedur_Pembayaran_Studi_Calon_Mahasiswa",
+"patterns": [
+    "Bagaimana prosedur pembayaran studi untuk calon mahasiswa?",
+    "Apa langkah-langkah registrasi dan pembayaran untuk calon mahasiswa UMMI?",
+    "Apa yang harus dilakukan untuk pembayaran biaya studi calon mahasiswa?",
+    "Bagaimana cara melakukan registrasi setelah dinyatakan diterima di UMMI?",
+    "Saya ingin tahu prosedur pembayaran dan registrasi untuk calon mahasiswa.",
+    "Bagaimana cara mengecek pembayaran biaya studi di SIAK untuk calon mahasiswa?",
+    "Apa saja tahapan untuk registrasi dan pembayaran calon mahasiswa?",
+    "Bagaimana cara menggunakan Virtual Account untuk pembayaran studi calon mahasiswa?",
+    "Apa yang harus dilakukan jika pembayaran belum tercatat di sistem SIAK?",
+    "Bagaimana langkah-langkah pembayaran melalui Bank Muamalat atau Bank BSI untuk calon mahasiswa?",
+    "Bagaimana cara konfirmasi pembayaran jika belum masuk sistem untuk calon mahasiswa?",
+    "Apa saja yang perlu disiapkan untuk registrasi dan pembayaran calon mahasiswa?",
+    "Bagaimana cara login ke SIAK UMMI untuk registrasi dan pembayaran calon mahasiswa?",
+    "Bagaimana prosedur pembayaran dan registrasi untuk calon mahasiswa yang telah diterima di UMMI?",
+    "Apa langkah yang harus diambil jika pembayaran tidak muncul di SIAK untuk calon mahasiswa?"
+],
+"responses": [
+    "Calon mahasiswa yang telah dinyatakan diterima sebagai mahasiswa UMMI dan telah mendapatkan NIM melakukan registrasi dengan membayar biaya studi (minimal 50% dari total tagihan) sesuai program studi yang dipilih melalui Bank Muamalat atau Bank BSI dengan menggunakan Virtual Account pada akun SIAK masing-masing. Setiap mahasiswa memiliki nomor Virtual Account yang berbeda. Login pada website SIAK UMMI pada alamat siak.ummi.ac.id untuk mengecek apakah pembayaran sudah masuk sistem atau belum. Apabila belum masuk, segera melakukan konfirmasi pada bagian keuangan fakultas dengan membawa bukti pembayaran yang sah atau langsung menghubungi layanan online via WhatsApp keuangan di 0857-9899-0556. Menyimpan bukti pembayaran dengan baik untuk digunakan seperlunya dan login SIAK untuk melakukan kontrak kuliah (KRS)."
+]
+},
+{
+"tag": "Prosedur_Pembayaran_Studi_UTS",
+"patterns": [
+  "Bagaimana prosedur pembayaran biaya UTS?",
+  "Apa langkah-langkah pembayaran untuk Ujian Tengah Semester?",
+  "Apa yang harus dilakukan untuk pembayaran biaya UTS?",
+  "Bagaimana cara melakukan pembayaran biaya UTS?",
+  "Saya ingin tahu prosedur pembayaran UTS.",
+  "Bagaimana cara mengecek pembayaran biaya UTS di SIAK?",
+  "Apa saja tahapan untuk pembayaran biaya UTS?",
+  "Bagaimana cara menggunakan Virtual Account untuk pembayaran biaya UTS?",
+  "Apa yang harus dilakukan jika pembayaran UTS belum tercatat di sistem?",
+  "Bagaimana langkah-langkah pembayaran melalui Bank Muamalat atau Bank BSI untuk UTS?",
+  "Bagaimana cara konfirmasi pembayaran jika belum masuk sistem untuk biaya UTS?",
+  "Apa saja yang perlu disiapkan untuk pembayaran biaya UTS?",
+  "Bagaimana cara login ke SIAK UMMI untuk mengecek dan membayar biaya UTS?",
+  "Bagaimana prosedur pembayaran dan pengecekan biaya UTS?",
+  "Apa langkah yang harus diambil jika pembayaran biaya UTS tidak muncul di SIAK?"
+],
+"responses": [
+  "Sebelum UTS, mahasiswa melakukan sisa pembayaran biaya studi minimal 75% dari total tagihan awal sesuai program studi pada Bank Muamalat atau Bank BSI dengan menggunakan virtual account paling lambat sesuai tanggal yang ditentukan dalam surat pemberitahuan UTS. Login pada website SIAK UMMI pada alamat siak.ummi.ac.id untuk mengecek apakah pembayaran sudah masuk sistem atau belum. Apabila belum masuk, segera melakukan konfirmasi pada bagian keuangan fakultas dengan membawa bukti pembayaran yang sah atau langsung menghubungi layanan online via WhatsApp keuangan di 0857-9899-0556. Mengecek tagihan biaya UTS yang terdapat pada masing-masing akun SIAK mahasiswa. Melakukan pembayaran UTS dengan cara transfer via ATM ataupun Mobile Banking menggunakan nomor virtual account yang ada di masing-masing akun SIAK mahasiswa. Mencetak secara mandiri kartu ujian dengan login pada website SIAK UMMI pada alamat siak.ummi.ac.id. Menyimpan bukti pembayaran dengan baik untuk digunakan seperlunya."
+]
+},
+{
+"tag": "prosedur_pembayaran_uas",
+"patterns": [
+  "Bagaimana prosedur pembayaran biaya UAS?",
+  "Apa saja langkah-langkah pembayaran UAS?",
+  "Bagaimana cara melunasi biaya UAS?",
+  "Apa yang harus dilakukan sebelum UAS terkait pembayaran?",
+  "Bagaimana cara membayar biaya UAS melalui Bank Muamalat?",
+  "Bagaimana cara membayar biaya UAS melalui Bank BSI?",
+  "Apa yang harus dilakukan jika pembayaran UAS belum masuk sistem?",
+  "Bagaimana cara mengecek pembayaran UAS di akun SIAK?",
+  "Apa yang harus saya lakukan jika pembayaran UAS tidak masuk sistem?",
+  "Bagaimana cara melakukan transfer biaya UAS melalui ATM?",
+  "Bagaimana cara menggunakan virtual account untuk pembayaran UAS?",
+  "Bagaimana cara mencetak kartu ujian UAS secara mandiri?",
+  "Apa yang harus dilakukan setelah melakukan pembayaran UAS?",
+  "Bagaimana cara menghubungi layanan keuangan jika ada masalah pembayaran?",
+  "Bagaimana cara menyimpan bukti pembayaran UAS?"
+],
+"responses": [
+  "Berikut adalah prosedur pembayaran biaya Ujian Akhir Semester (UAS):\n\n1. Sebelum UAS, mahasiswa harus melunasi sisa pembayaran biaya studi sesuai program studi melalui Bank Muamalat atau Bank BSI dengan menggunakan virtual account pada akun SIAK masing-masing. Batas waktu pembayaran sesuai tanggal yang ditentukan dalam surat pemberitahuan UAS.\n\n2. Login ke website SIAK UMMI di alamat siak.ummi.ac.id untuk mengecek apakah pembayaran sudah masuk sistem atau belum. Jika belum, segera lakukan konfirmasi pada bagian keuangan fakultas dengan membawa bukti pembayaran yang sah atau hubungi layanan online via WhatsApp keuangan di 0857-9899-0556.\n\n3. Mengecek tagihan biaya UAS yang terdapat pada masing-masing akun SIAK mahasiswa.\n\n4. Melakukan pembayaran UAS dengan cara transfer via ATM atau Mobile Banking menggunakan nomor virtual account yang ada di masing-masing akun SIAK mahasiswa.\n\n5. Mencetak secara mandiri kartu ujian dengan login ke website SIAK UMMI di alamat siak.ummi.ac.id.\n\n6. Menyimpan bukti pembayaran dengan baik untuk digunakan seperlunya."
+]
+},
+{
+"tag": "Prosedur_Pembayaran_Kuliah_Counter_Muamalat",
+"patterns": [
+  "Bagaimana mekanisme pembayaran biaya kuliah melalui counter Muamalat?",
+  "Apa langkah-langkah pembayaran biaya kuliah di Bank Muamalat?",
+  "Bagaimana cara mengisi nomor rekening penerima untuk pembayaran kuliah?",
+  "Apa yang harus diisi pada kolom nama penerima saat membayar biaya kuliah di Bank Muamalat?",
+  "Bagaimana cara mengisi formulir pembayaran di counter Muamalat untuk biaya kuliah?",
+  "Apa yang perlu diperhatikan saat membayar biaya kuliah di Bank Muamalat?",
+  "Bagaimana prosedur pembayaran biaya kuliah via counter Bank Muamalat?",
+  "Bagaimana cara mengisi nama pemohon untuk pembayaran biaya kuliah di Bank Muamalat?",
+  "Apa saja yang harus diisi saat membayar biaya kuliah di counter Muamalat?",
+  "Bagaimana cara mengisi jumlah yang dikirim saat membayar biaya kuliah di Bank Muamalat?",
+  "Berapa biaya admin untuk pembayaran biaya kuliah di Bank Muamalat?",
+  "Bagaimana cara memilih tipe pembayaran saat membayar biaya kuliah di Bank Muamalat?",
+  "Bagaimana cara mengisi nomor rekening debet untuk pembayaran biaya kuliah di Muamalat?",
+  "Apa saja tahapan pembayaran biaya kuliah melalui counter Muamalat?",
+  "Bagaimana cara memastikan pembayaran biaya kuliah di Bank Muamalat sesuai prosedur?"
+],
+"responses": [
+  "Mekanisme dan tata cara pembayaran biaya kuliah melalui counter Muamalat adalah sebagai berikut: 1. Isi Nomor Rekening Penerima dengan Nomor Virtual Account Muamalat. 2. Isi Nama Penerima dengan Nama Virtual Account. 3. Isi Pemohon dengan nama penyetor. 4. Isi Jumlah yang dikirim dengan nominal yang akan disetor, ditambahkan biaya admin sebesar Rp 2.500. 5. Pilih tipe Pembayaran: (Debet rekening: isi No. rekening debet)."
+]
+},
+{
+"tag": "Konfirmasi_Pembayaran_Gagal_SIAK",
+"patterns": [
+  "Bagaimana cara konfirmasi pembayaran yang gagal masuk SIAK?",
+  "Apa yang harus dilakukan jika pembayaran tidak tercatat di SIAK?",
+  "Bagaimana cara mengkonfirmasi pembayaran yang tidak masuk di SIAK?",
+  "Apa langkah-langkah konfirmasi pembayaran gagal di SIAK?",
+  "Bagaimana cara menggunakan menu Konfirmasi Pembayaran di SIAK?",
+  "Apa yang perlu diperhatikan saat konfirmasi pembayaran yang gagal masuk SIAK?",
+  "Bagaimana cara mengatasi pembayaran yang tidak ter-verifikasi di SIAK?",
+  "Apa saja yang harus dihindari saat mengirim foto slip pembayaran?",
+  "Bagaimana jika slip pembayaran tidak terlihat jelas saat konfirmasi?",
+  "Bagaimana cara menghindari kesalahan saat mengkonfirmasi pembayaran di SIAK?",
+  "Apa saja syarat foto slip pembayaran untuk konfirmasi di SIAK?",
+  "Apa saja yang perlu diperhatikan saat mengupload bukti pembayaran ke SIAK?",
+  "Bagaimana cara memastikan pembayaran terkonfirmasi di SIAK?",
+  "Apa yang harus dilakukan jika pembayaran Host to Host tidak ter-verifikasi di SIAK?",
+  "Kapan konfirmasi pembayaran akan diproses di SIAK?"
+],
+"responses": [
+  "Pembayaran yang gagal masuk account SIAK dapat langsung dikonfirmasi melalui menu Konfirmasi Pembayaran. Menu ini dapat digunakan apabila pembayaran Host to Host (H2H) tidak ter-verifikasi secara otomatis pada SIAK. Konfirmasi pembayaran ini akan diproses pada jam kerja, yaitu pukul 08.00 sampai dengan pukul 15.30 WIB (Sabtu dan Minggu Libur). Usahakan ukuran gambar kurang dari 2 Mb agar proses upload lebih cepat. Ekstensi yang diperbolehkan adalah jpeg, jpg, dan png. Hindari pengambilan foto sebagai berikut: Buram/Blur, terlalu jauh sehingga tulisan tidak terlihat jelas, terlalu dekat sehingga komponen lain tidak terfoto, foto miring atau tidak simetris, slip yang difoto tidak asli atau hasil photocopy."
+]
+},
+{
+"tag": "Tempat_Pembayaran_Biaya_Pendidikan",
+"patterns": [
+  "Di mana saya bisa membayar biaya pendidikan?",
+  "Bagaimana cara membayar biaya pendidikan di kampus?",
+  "Apa saja tempat pembayaran biaya pendidikan di UMMI?",
+  "Di mana kantor Payment Point Bank Syariah Indonesia berada?",
+  "Bagaimana cara membayar biaya pendidikan melalui Bank Muamalat?",
+  "Bisakah membayar biaya pendidikan melalui ATM?",
+  "Bagaimana cara menggunakan virtual account untuk membayar biaya pendidikan?",
+  "Apa saja cara untuk membayar biaya pendidikan di UMMI?",
+  "Bisakah saya membayar biaya pendidikan melalui Mobile Banking?",
+  "Berapa biaya admin untuk pembayaran biaya pendidikan melalui transfer?",
+  "Apakah saya bisa membayar biaya pendidikan secara tunai di kampus?",
+  "Bagaimana prosedur pembayaran biaya pendidikan melalui teller bank?",
+  "Bagaimana cara menggunakan nomor virtual account untuk pembayaran biaya pendidikan?",
+  "Apakah ada biaya tambahan saat membayar biaya pendidikan melalui ATM?",
+  "Bisakah membayar biaya pendidikan melalui mesin ATM dari berbagai bank?"
+],
+"responses": [
+  "Seluruh biaya pendidikan dapat dibayarkan secara tunai melalui Kantor Payment Point Bank Syariah Indonesia yang berada di Kampus Universitas Muhammadiyah Sukabumi dan Bank Muamalat Kantor Cabang Sukabumi. Seluruh biaya pendidikan dapat dibayarkan secara transfer melalui mesin ATM dari berbagai bank dengan menggunakan nomor virtual account yang ada pada masing-masing account SIAK mahasiswa. Seluruh biaya pendidikan juga dapat dibayarkan secara transfer melalui Mobile Banking dari berbagai bank dengan menggunakan nomor virtual account yang ada pada masing-masing account SIAK mahasiswa. CATATAN: Seluruh pembayaran biaya pendidikan melalui transfer via ATM/Mobile Banking ataupun pembayaran cash via teller dimohon untuk ditambahkan Rp 2.000,- untuk biaya admin bank."
+]
+},
+{
+"tag": "Pembayaran_Mahasiswa_Semester_Lanjut",
+"patterns": [
+  "Apa itu mahasiswa semester lanjut?",
+  "Bagaimana pembayaran bagi mahasiswa semester lanjut?",
+  "Apa saja biaya yang dikenakan bagi mahasiswa semester lanjut?",
+  "Berapa biaya SPP untuk mahasiswa semester lanjut?",
+  "Bagaimana pembayaran bagi mahasiswa semester VII ke atas?",
+  "Bagaimana pembayaran bagi mahasiswa semester IX ke atas?",
+  "Bagaimana pembayaran bagi mahasiswa semester V ke atas di program S2?",
+  "Apa yang dimaksud dengan herregistrasi bagi mahasiswa semester lanjut?",
+  "Bagaimana biaya praktikum untuk mahasiswa semester lanjut?",
+  "Berapa biaya bagi mahasiswa yang hanya menyelesaikan tugas akhir?",
+  "Bagaimana biaya herregistrasi bagi mahasiswa yang menunggu wisuda?",
+  "Apa yang harus dibayar oleh mahasiswa yang mengulang mata kuliah di semester lanjut?",
+  "Bagaimana prosedur pembayaran bagi mahasiswa yang hanya mengambil skripsi?",
+  "Berapa biaya ujian perbaikan di luar jadwal UAS?",
+  "Bagaimana cara membayar biaya pendidikan bagi mahasiswa semester lanjut?"
+],
+"responses": [
+  "Mahasiswa semester lanjut Program D-3 adalah mahasiswa yang memasuki semester VII dan seterusnya. Mahasiswa semester lanjut Program S1 adalah mahasiswa yang memasuki semester IX dan seterusnya. Mahasiswa semester lanjut Program S2 adalah mahasiswa yang memasuki semester V dan seterusnya. Biaya yang dikenakan adalah sebagai berikut: 100% dari SPP, herregistrasi, dan praktikum bagi mahasiswa yang masih memiliki kontrak mata kuliah atau mengulang mata kuliah; 50% dari SPP dan 100% dari herregistrasi bagi mahasiswa yang hanya menyelesaikan tugas akhir/skripsi; herregistrasi bagi mahasiswa yang hanya menunggu untuk mengikuti wisuda. Jika dilaksanakan ujian perbaikan di luar jadwal UAS yang ditetapkan, maka biaya ujian akan ditentukan tersendiri."
+]
+},
+{
+"tag": "Pembayaran_Mahasiswa_Cuti_NonAktif",
+"patterns": [
+  "Apa itu mahasiswa cuti kuliah?",
+  "Bagaimana biaya yang dikenakan bagi mahasiswa yang mengambil cuti kuliah?",
+  "Bagaimana prosedur untuk mengambil cuti kuliah?",
+  "Berapa lama maksimal mahasiswa dapat mengambil cuti kuliah?",
+  "Apa itu mahasiswa non aktif?",
+  "Bagaimana biaya yang harus dibayar oleh mahasiswa non aktif?",
+  "Apa yang dimaksud dengan herregistrasi bagi mahasiswa non aktif?",
+  "Bagaimana cara pembayaran biaya herregistrasi bagi mahasiswa non aktif?",
+  "Apakah mahasiswa non aktif harus membayar biaya SPP?",
+  "Berapa persen biaya SPP yang harus dibayar oleh mahasiswa non aktif?",
+  "Apakah mahasiswa non aktif harus membayar biaya praktikum?",
+  "Bagaimana cara mahasiswa non aktif membayar biaya praktikum?",
+  "Bagaimana jika mahasiswa tidak mengambil cuti sebelum UTS?",
+  "Apakah ada batas waktu pengajuan cuti kuliah?",
+  "Bagaimana prosedur untuk mengajukan cuti kuliah?"
+],
+"responses": [
+  "Mahasiswa yang mengajukan cuti kuliah dikenakan biaya herregistrasi dan harus melunasi tagihan keuangan semester sebelumnya. Mahasiswa hanya diperbolehkan mengambil cuti kuliah maksimal 2 semester selama masa studi dan dapat mengambil cuti ketika memasuki semester 3. Batas akhir pengajuan cuti sesuai aturan akademik adalah sebelum memasuki masa UTS. Apabila setelah masa UTS mahasiswa tidak mengambil cuti, maka status akademiknya menjadi non aktif. Mahasiswa non aktif harus membayar biaya yang terdiri dari: a. Biaya herregistrasi sebesar 100%, b. Biaya SPP sebesar 50%, c. Biaya praktikum sebesar 50%."
+]
+},
+{
+"tag": "Pembayaran_Mahasiswa_Pindah_Program_Kelas",
+"patterns": [
+  "Bagaimana pembayaran bagi mahasiswa yang pindah program studi?",
+  "Apa yang harus dilakukan untuk pembayaran mahasiswa yang pindah program studi?",
+  "Bagaimana biaya konversi bagi mahasiswa yang pindah program studi?",
+  "Berapa biaya konversi per SKS untuk mahasiswa yang pindah program studi?",
+  "Bagaimana prosedur pembayaran biaya DPP untuk mahasiswa pindah program studi?",
+  "Apa yang harus dibayar mahasiswa saat pindah program studi?",
+  "Bagaimana prosedur pembayaran bagi mahasiswa yang pindah kelas?",
+  "Apa saja biaya tambahan saat mahasiswa pindah kelas?",
+  "Apakah ada biaya tambahan saat mahasiswa pindah kelas?",
+  "Berapa biaya studi jika mahasiswa pindah kelas sebelum semester 7?",
+  "Berapa biaya studi jika mahasiswa pindah kelas pada semester 7 atau lebih?",
+  "Bagaimana cara melunasi tambahan biaya DPP saat pindah kelas?",
+  "Apa yang harus dibayar oleh mahasiswa saat pindah kelas dari Reguler ke Non Reguler?",
+  "Bagaimana prosedur pembayaran biaya tambahan saat pindah kelas?",
+  "Apa itu biaya studi kelas Non Reguler?"
+],
+"responses": [
+  "Pembayaran bagi mahasiswa lama yang telah mendapat persetujuan pindah program studi dan pindah kelas diatur sebagai berikut: 1. Pada program studi asal, mahasiswa harus melunasi seluruh pembiayaan semester yang telah ditempuh. 2. Pada program studi yang dituju, dikenakan biaya konversi sebesar Rp 15.000 per SKS untuk perpindahan antar program studi (kecuali bagi mahasiswa Universitas Muhammadiyah Sukabumi yang tidak dikenakan biaya konversi), biaya konversi dibayarkan langsung ke bagian keuangan Universitas. Selain itu, ada penyesuaian biaya studi berdasarkan tarif tahun akademik berjalan dan melunasi tambahan biaya DPP saat perpindahan. Pembayaran dilakukan setelah ada pengesahan dari Ketua Prodi. 3. Pembayaran bagi mahasiswa yang pindah kelas dari Reguler ke Non Reguler tergantung pada saat perpindahan: a. Jika pindah sebelum semester 7, dikenakan biaya studi sesuai dengan biaya tahun akademik berjalan. b. Jika pindah pada semester 7 atau lebih, dikenakan biaya studi kelas Non Reguler pada tahun akademik masuk."
+]
+},
+{
+"tag": "Pembayaran_Persemester_Pendek",
+"patterns": [
+  "Apa itu perkuliahan semester pendek?",
+  "Bagaimana biaya perkuliahan untuk semester pendek?",
+  "Berapa biaya per SKS untuk perkuliahan semester pendek?",
+  "Bagaimana cara pembayaran untuk perkuliahan semester pendek?",
+  "Apa yang harus dibayar mahasiswa untuk mengikuti perkuliahan semester pendek?",
+  "Bagaimana prosedur pembayaran untuk semester pendek?",
+  "Apakah ada penyesuaian biaya lain untuk perkuliahan semester pendek?",
+  "Bagaimana cara setor pembayaran untuk semester pendek?",
+  "Dimana harus disetorkan pembayaran untuk semester pendek?",
+  "Apakah ada nomor rekening khusus untuk pembayaran semester pendek?",
+  "Bagaimana jika mahasiswa ingin mengikuti perkuliahan semester pendek?",
+  "Berapa biaya total yang harus dibayar untuk mengikuti perkuliahan semester pendek?",
+  "Apakah ada batas waktu pembayaran untuk semester pendek?",
+  "Apa yang dimaksud dengan biaya perkuliahan berdasarkan jumlah SKS?",
+  "Bagaimana jika ada perubahan biaya untuk perkuliahan semester pendek?"
+],
+"responses": [
+  "Biaya untuk mengikuti perkuliahan pada semester pendek dihitung berdasarkan jumlah SKS yang diambil, dengan besaran biaya per SKS sebesar Rp 200.000. Pembayaran semester pendek disetorkan ke Rekening BSI atas nama Univ. Muhammadiyah Smi/Lain2 Nomor Rekening 7011501944."
+]
+},
+{
+"tag": "Biaya_Pendidikan_RPL",
+"patterns": [
+  "Apa itu Program RPL di UMMI?",
+  "Bagaimana biaya pendidikan untuk Program RPL di UMMI?",
+  "Berapa besar SPP yang harus dibayar untuk Program RPL?",
+  "Apa yang termasuk dalam biaya pendidikan untuk Program RPL di UMMI?",
+  "Bagaimana cara pembayaran Dana Pengembangan Pendidikan (DPP) untuk mahasiswa Program RPL?",
+  "Apakah ada biaya tambahan yang harus dibayar oleh mahasiswa baru di Program RPL?",
+  "Bagaimana dengan pembayaran uang praktikum bagi mahasiswa di Program RPL?",
+  "Apakah ada biaya lain yang perlu dibayar oleh mahasiswa Program RPL di UMMI?",
+  "Bagaimana mekanisme pembayaran untuk Rekognisi (Assessment, Konversi, dan Martikulasi) di Program RPL?",
+  "Apa saja komponen biaya yang harus diperhatikan oleh mahasiswa Program RPL?",
+  "Bagaimana jika ada perubahan biaya pendidikan di Program RPL?",
+  "Apakah ada potongan atau diskon biaya pendidikan untuk mahasiswa Program RPL?",
+  "Bagaimana dengan pembayaran Pendaftaran Ulang (Herregistrasi) bagi mahasiswa Program RPL?",
+  "Apakah biaya Sumbangan Sarana hanya berlaku pada tahun pertama saja untuk mahasiswa Program RPL?",
+  "Kapan pembayaran untuk kegiatan seperti Bahasa Asing, UTS, UAS, KKN, PKL/PLP/KP/Magang, Skripsi, dan Wisuda diatur?"
+],
+"responses": [
+  "Program Rekognisi Pembelajaran Lampau (RPL) UMMI mencakup berbagai biaya seperti Sumbangan Pembinaan Pendidikan (SPP) setiap semester, Dana Pengembangan Pendidikan (DPP) pada awal registrasi semester pertama, Sumbangan Sarana hanya pada tahun pertama saat registrasi, dan biaya Rekognisi (Assessment, Konversi, dan Martikulasi) pada awal semester pertama. Uang praktikum dibayarkan setiap awal semester, sementara Pendaftaran Ulang (Herregistrasi) bersamaan dengan pembayaran SPP dan lain-lain setiap awal semester. Pembayaran untuk keuangan lainnya seperti Bahasa Asing, UTS, UAS, KKN, PKL/PLP/KP/Magang, Skripsi, dan Wisuda akan diatur sesuai dengan kegiatan yang dilaksanakan."
+]
+},
+{
+"tag": "Ketentuan_Pengunduran_Diri",
+"patterns": [
+  "Bagaimana prosedur untuk mengajukan pengunduran diri di UMMI?",
+  "Apakah ada persyaratan khusus untuk pengunduran diri mahasiswa UMMI?",
+  "Kapan waktu yang tepat untuk mengajukan pengunduran diri dari UMMI?",
+  "Bagaimana jika saya ingin berhenti kuliah di UMMI karena diterima di PTN/PTS lain?",
+  "Apakah biaya pengunduran diri di UMMI dapat dikembalikan?",
+  "Bagaimana cara mendapatkan pengembalian biaya setelah pengunduran diri di UMMI?",
+  "Apakah ada batas waktu untuk mengajukan pengunduran diri setelah melakukan pembayaran?",
+  "Apa saja alasan yang dapat diterima untuk pengunduran diri di UMMI?",
+  "Bagaimana pengaturan pengembalian biaya jika saya mengundurkan diri dari UMMI?",
+  "Apakah saya dapat mengajukan pengunduran diri setelah melewati batas waktu yang ditentukan?",
+  "Bagaimana cara memastikan bahwa pengunduran diri saya di UMMI sudah diproses?",
+  "Apakah ada konsekuensi jika saya mengundurkan diri dari UMMI setelah batas waktu yang ditentukan?",
+  "Bagaimana jika saya ingin membatalkan pengunduran diri setelah mengajukannya?",
+  "Apakah ada syarat lain yang harus dipenuhi untuk mendapatkan pengembalian biaya setelah pengunduran diri?",
+  "Bagaimana prosedur pembayaran kembali biaya yang telah dikembalikan setelah pengunduran diri?"
+],
+"responses": [
+  "Pengunduran diri mahasiswa UMMI karena diterima di Perguruan Tinggi Negeri (PTN) atau Perguruan Tinggi Swasta (PTS) lain, atau alasan lainnya, hanya dapat dilayani jika diajukan kurang dari 1 (satu) bulan setelah pembayaran dilakukan. Pengembalian biaya yang akan diterima adalah sebesar 50% dari total biaya yang telah dibayarkan."
+]
+},
+{
+"tag": "Beasiswa_Muhammadiyah",
+"patterns": [
+  "Bagaimana cara mengajukan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
+  "Siapa yang memenuhi syarat untuk mendapatkan potongan DPP sebagai Warga Muhammadiyah?",
+  "Apa yang harus dilampirkan untuk mengajukan beasiswa Muhammadiyah sebagai Warga Muhammadiyah?",
+  "Kapan batas waktu pengajuan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
+  "Apakah alumni Sekolah Muhammadiyah mendapatkan beasiswa potongan DPP?",
+  "Berapa besar potongan DPP yang diberikan kepada alumni Sekolah Muhammadiyah?",
+  "Bagaimana cara alumni Sekolah Muhammadiyah yang meraih prestasi dapat mengajukan beasiswa Bebas DPP?",
+  "Apakah ada syarat khusus untuk mendapatkan beasiswa Bebas DPP sebagai alumni Sekolah Muhammadiyah?",
+  "Siapa yang dapat memberikan rekomendasi untuk pengajuan beasiswa sebagai Warga Muhammadiyah?",
+  "Apakah pengajuan beasiswa sebagai alumni Sekolah Muhammadiyah memiliki batas waktu tertentu?"
+],
+"responses": [
+  "Beasiswa Muhammadiyah meliputi potongan DPP untuk Warga Muhammadiyah dan alumni Sekolah Muhammadiyah. Warga Muhammadiyah putera/i atau saudara kandung Kader Muhammadiyah yang bukan dari SMA/SMK/MA Muhammadiyah dapat mendapatkan potongan DPP 50% dengan melampirkan fotokopi kartu anggota dan rekomendasi dari PDM. Pengajuan beasiswa ini harus diajukan paling lambat tanggal 30 September 2022. Alumni Sekolah Muhammadiyah dari seluruh Indonesia mendapatkan potongan DPP sebesar Rp 2.812.500. Alumni yang meraih prestasi Akademik atau Non Akademik peringkat 1-3 minimal tingkat kota/kabupaten dapat mendapatkan beasiswa Bebas DPP."
+]
+},
+{
+"tag": "Beasiswa_Akademik",
+"patterns": [
+  "Apa yang harus dilakukan untuk mendapatkan beasiswa akademik jika meraih nilai UN 1-3 tingkat jurusan?",
+  "Siapa yang memenuhi syarat untuk mendapatkan potongan DPP jika meraih nilai UN 1-3 tingkat sekolah?",
+  "Berapa besar potongan DPP yang diberikan jika meraih nilai UN 1-3 tingkat kota/kabupaten?",
+  "Apakah ada batas waktu pengajuan untuk mendapatkan beasiswa akademik berdasarkan peringkat kelas?",
+  "Bagaimana prosedur pengajuan beasiswa jika meraih nilai UN 1-3 tingkat kota/kabupaten?",
+  "Apakah mahasiswa yang meraih peringkat kelas 1-5 otomatis mendapatkan beasiswa akademik?",
+  "Bagaimana cara membuktikan bahwa saya meraih nilai UN 1-3 tingkat jurusan untuk mendapatkan beasiswa?",
+  "Apakah syarat untuk mendapatkan potongan DPP berbeda jika meraih nilai UN 1-3 tingkat sekolah?",
+  "Kapan pengumuman penerimaan beasiswa berdasarkan nilai UN 1-3 tingkat kota/kabupaten diumumkan?",
+  "Apakah beasiswa akademik berdasarkan peringkat kelas terbuka untuk semua program studi?",
+  "Bagaimana jika saya meraih nilai UN 1-3 tingkat kota/kabupaten dari luar daerah, apakah saya tetap memenuhi syarat?",
+  "Apakah beasiswa akademik berdasarkan nilai UN 1-3 tingkat jurusan hanya untuk program sarjana?",
+  "Bagaimana jika saya meraih peringkat kelas 5, apakah saya masih memenuhi syarat untuk beasiswa?",
+  "Apakah ada persyaratan tambahan yang harus dipenuhi untuk mendapatkan potongan DPP berdasarkan nilai UN 1-3 tingkat sekolah?",
+  "Bagaimana cara mengajukan keberatan jika tidak diterima sebagai penerima beasiswa berdasarkan peringkat kelas?"
+],
+"responses": [
+  "Beasiswa akademik memberikan potongan DPP berdasarkan peringkat kelas dan nilai UN. Peringkat kelas 1-5 mendapatkan potongan DPP sebesar Rp 562.500,-. Meraih nilai UN 1-3 tingkat jurusan mendapatkan potongan DPP sebesar Rp 750.000,-. Sementara itu, meraih nilai UN 1-3 tingkat sekolah mendapatkan potongan DPP sebesar Rp 1.125.000,-. Untuk meraih nilai UN 1-3 tingkat kota/kabupaten, potongan DPP yang diberikan sebesar Rp 1.500.000,-."
+]
+},
+{
+"tag": "Beasiswa_Non_Akademik",
+"patterns": [
+  "Bagaimana cara mendapatkan potongan DPP jika meraih peringkat 1-3 tingkat kota/kabupaten?",
+  "Apa yang harus dilakukan untuk mendapatkan beasiswa non akademik berdasarkan peringkat 1-3 tingkat provinsi?",
+  "Siapa yang memenuhi syarat untuk mendapatkan potongan DPP jika meraih peringkat 1-3 tingkat nasional?",
+  "Berapa besar potongan DPP yang diberikan jika meraih peringkat 1-3 tingkat internasional?",
+  "Apakah ada batas waktu pengajuan untuk mendapatkan beasiswa non akademik berdasarkan peringkat 1-3 tingkat kota/kabupaten?",
+  "Bagaimana prosedur pengajuan beasiswa jika meraih peringkat 1-3 tingkat provinsi?",
+  "Apakah mahasiswa yang meraih peringkat 1-3 tingkat nasional otomatis mendapatkan beasiswa non akademik?",
+  "Bagaimana cara membuktikan bahwa saya meraih peringkat 1-3 tingkat internasional untuk mendapatkan beasiswa?",
+  "Apakah syarat untuk mendapatkan potongan DPP berbeda jika meraih peringkat 1-3 tingkat provinsi?",
+  "Kapan pengumuman penerimaan beasiswa berdasarkan peringkat 1-3 tingkat nasional diumumkan?",
+  "Apakah beasiswa non akademik berdasarkan peringkat 1-3 tingkat kota/kabupaten terbuka untuk semua program studi?",
+  "Bagaimana jika saya meraih peringkat 3 tingkat provinsi, apakah saya tetap memenuhi syarat untuk beasiswa?",
+  "Apakah beasiswa non akademik berdasarkan peringkat 1-3 tingkat internasional hanya untuk program sarjana?",
+  "Bagaimana jika saya meraih peringkat 1 tingkat nasional dari luar daerah, apakah saya tetap memenuhi syarat?",
+  "Apakah ada persyaratan tambahan yang harus dipenuhi untuk mendapatkan potongan DPP berdasarkan peringkat 1-3 tingkat provinsi?"
+],
+"responses": [
+  "Beasiswa non akademik memberikan potongan DPP berdasarkan prestasi pada tingkat kota/kabupaten, provinsi, nasional, dan internasional. Peringkat 1-3 tingkat kota/kabupaten mendapat potongan DPP sebesar Rp 750.000,-. Peringkat 1-3 tingkat provinsi mendapat potongan DPP sebesar Rp 1.125.000,-. Peringkat 1-3 tingkat nasional mendapat potongan DPP sebesar Rp 1.500.000,-. Peringkat 1-3 tingkat internasional mendapat potongan DPP sebesar Rp 2.250.000,-."
+]
+},
+{
+"tag": "Beasiswa_Hafidz_Quran",
+"patterns": [
+  "Bagaimana cara mendapatkan potongan DPP jika telah menghafal 1 Juz Qur'an?",
+  "Apa yang harus dilakukan untuk mendapatkan beasiswa Hafidz Qur'an dengan menghafal 2 Juz Qur'an?",
+  "Siapa yang memenuhi syarat untuk mendapatkan potongan DPP dengan menghafal 3 Juz Qur'an?",
+  "Berapa besar potongan DPP yang diberikan jika telah menghafal 4 Juz Qur'an?",
+  "Apakah ada batas waktu pengajuan untuk mendapatkan beasiswa Hafidz Qur'an dengan menghafal 5 Juz Qur'an?",
+  "Bagaimana prosedur pengajuan beasiswa jika telah menghafal 6 Juz Qur'an?",
+  "Apakah mahasiswa yang telah menghafal 7 Juz Qur'an otomatis mendapatkan beasiswa Hafidz Qur'an?",
+  "Bagaimana cara membuktikan bahwa saya telah menghafal 8 Juz Qur'an untuk mendapatkan potongan DPP?",
+  "Apakah syarat untuk mendapatkan potongan DPP berbeda jika telah menghafal 9 Juz Qur'an?",
+  "Kapan pengumuman penerimaan beasiswa Hafidz Qur'an diumumkan?",
+  "Apakah beasiswa Hafidz Qur'an terbuka untuk semua program studi?",
+  "Bagaimana jika saya telah menghafal 3 Juz Qur'an, apakah saya tetap memenuhi syarat untuk beasiswa?",
+  "Apakah beasiswa Hafidz Qur'an hanya untuk program sarjana?",
+  "Bagaimana jika saya telah menghafal 5 Juz Qur'an dari luar daerah, apakah saya tetap memenuhi syarat?",
+  "Apakah ada persyaratan tambahan yang harus dipenuhi untuk mendapatkan potongan DPP dengan menghafal 7 Juz Qur'an?"
+],
+"responses": [
+  "Beasiswa Hafidz Qur'an Universitas Muhammadiyah memberikan potongan biaya pendidikan (DPP) berdasarkan jumlah hafalan Juz Qur'an yang telah dikuasai. Potongan DPP yang diberikan adalah sebagai berikut:\n1 Juz: Rp 562.000,-\n2 Juz: Rp 750.000,-\n3 Juz: Rp 937.500,-\n4 Juz: Rp 1.125.000,-\n5 Juz: Rp 1.312.000,-\n6 Juz: Rp 1.500.000,-\n7 Juz: Rp 1.687.000,-\n8 Juz: Rp 1.875.000,-\n9 Juz: Rp 2.062.500,-"
+]
+}
   ]
 }

@@ -3261,6 +3261,29 @@
         "Lembar pengesahan tugas akhir harus memuat tanda tangan pembimbing dan dekan fakultas.",
         "Daftar pustaka harus disusun sesuai dengan format APA atau format lain yang ditetapkan oleh UMMI."
       ]
-    }
+    },
+    {
+      "tag": "Kalender_Akademik_2022_2023",
+      "patterns": [
+          "Apa itu kalender akademik 2022/2023?",
+          "Bagaimana jadwal kegiatan tahun 2022/2023 dalam kalender akademik?",
+          "Apa yang dimaksud dengan kalender akademik?",
+          "Bagaimana cara melihat kalender akademik di UMMI?",
+          "Apa saja yang tercantum dalam kalender akademik?",
+          "Bagaimana pembagian semester dalam kalender akademik?",
+          "Apa saja kegiatan yang termasuk dalam kalender akademik?",
+          "Bagaimana jadwal pembayaran disesuaikan dengan kalender akademik?",
+          "Di mana saya bisa mengakses kalender akademik UMMI?",
+          "Bagaimana cara mengakses kalender akademik melalui SIAK?",
+          "Apa itu semester gasal, semester genap, dan semester khusus dalam kalender akademik?",
+          "Di mana saya bisa menemukan jadwal ujian dalam kalender akademik?",
+          "Bagaimana cara mendapatkan kalender akademik tahun 2022/2023?",
+          "Apa yang dimaksud dengan jadwal penerimaan peserta didik dalam kalender akademik?",
+          "Bagaimana kalender akademik mempengaruhi proses belajar-mengajar?"
+      ],
+      "responses": [
+          "Kalender akademik adalah istilah umum dalam dunia pendidikan yang merujuk kepada jadwal kegiatan tahunan suatu lembaga pendidikan yang memuat semua hal terkait dengan proses belajar-mengajar, penerimaan peserta didik, dan kelulusan. Kalender akademik ini disusun dalam suatu pola yang menggambarkan jangka waktu dan jenis kegiatan akademik. Pada umumnya, kalender akademik terbagi menjadi tiga bagian, yakni semester gasal, semester genap, dan semester khusus. Jadwal pembayaran disesuaikan dengan kalender akademik atau disesuaikan dengan pengisian KRS dan jadwal ujian. Kalender Akademik dapat dilihat pada menu Kalender Akademik dan juga dapat diakses pada halaman https://ummi.ac.id/id/download/file/kalender-akademik-tahun-akademik-20222023. Selain itu, kalender akademik juga dapat diakses melalui account SIAK masing-masing mahasiswa."
+      ]
+  }
   ]
 }
