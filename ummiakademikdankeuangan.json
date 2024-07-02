@@ -4597,22 +4597,27 @@
 ]
 },
 {
-"tag": "Beasiswa_Muhammadiyah",
-"patterns": [
-  "Bagaimana cara mengajukan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
-  "Siapa yang memenuhi syarat untuk mendapatkan potongan DPP sebagai Warga Muhammadiyah?",
-  "Apa yang harus dilampirkan untuk mengajukan beasiswa Muhammadiyah sebagai Warga Muhammadiyah?",
-  "Kapan batas waktu pengajuan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
-  "Apakah alumni Sekolah Muhammadiyah mendapatkan beasiswa potongan DPP?",
-  "Berapa besar potongan DPP yang diberikan kepada alumni Sekolah Muhammadiyah?",
-  "Bagaimana cara alumni Sekolah Muhammadiyah yang meraih prestasi dapat mengajukan beasiswa Bebas DPP?",
-  "Apakah ada syarat khusus untuk mendapatkan beasiswa Bebas DPP sebagai alumni Sekolah Muhammadiyah?",
-  "Siapa yang dapat memberikan rekomendasi untuk pengajuan beasiswa sebagai Warga Muhammadiyah?",
-  "Apakah pengajuan beasiswa sebagai alumni Sekolah Muhammadiyah memiliki batas waktu tertentu?"
-],
-"responses": [
-  "Beasiswa Muhammadiyah meliputi potongan DPP untuk Warga Muhammadiyah dan alumni Sekolah Muhammadiyah. Warga Muhammadiyah putera/i atau saudara kandung Kader Muhammadiyah yang bukan dari SMA/SMK/MA Muhammadiyah dapat mendapatkan potongan DPP 50% dengan melampirkan fotokopi kartu anggota dan rekomendasi dari PDM. Pengajuan beasiswa ini harus diajukan paling lambat tanggal 30 September 2022. Alumni Sekolah Muhammadiyah dari seluruh Indonesia mendapatkan potongan DPP sebesar Rp 2.812.500. Alumni yang meraih prestasi Akademik atau Non Akademik peringkat 1-3 minimal tingkat kota/kabupaten dapat mendapatkan beasiswa Bebas DPP."
-]
+  "tag": "Beasiswa_Muhammadiyah",
+  "patterns": [
+      "Bagaimana cara mengajukan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
+      "Siapa yang memenuhi syarat untuk mendapatkan potongan DPP sebagai Warga Muhammadiyah?",
+      "Apa yang harus dilampirkan untuk mengajukan beasiswa Muhammadiyah sebagai Warga Muhammadiyah?",
+      "Kapan batas waktu pengajuan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
+      "Apakah alumni Sekolah Muhammadiyah mendapatkan beasiswa potongan DPP?",
+      "Berapa besar potongan DPP yang diberikan kepada alumni Sekolah Muhammadiyah?",
+      "Bagaimana cara alumni Sekolah Muhammadiyah yang meraih prestasi dapat mengajukan beasiswa Bebas DPP?",
+      "Apakah ada syarat khusus untuk mendapatkan beasiswa Bebas DPP sebagai alumni Sekolah Muhammadiyah?",
+      "Siapa yang dapat memberikan rekomendasi untuk pengajuan beasiswa sebagai Warga Muhammadiyah?",
+      "Apakah pengajuan beasiswa sebagai alumni Sekolah Muhammadiyah memiliki batas waktu tertentu?",
+      "Bagaimana cara mendapatkan potongan DPP sebagai anggota Warga Muhammadiyah?",
+      "Apakah ada persyaratan tambahan untuk mengajukan beasiswa Muhammadiyah selain fotokopi kartu anggota?",
+      "Berapa lama proses pengajuan beasiswa Muhammadiyah untuk Warga Muhammadiyah?",
+      "Apakah ada biaya administrasi untuk pengajuan beasiswa Muhammadiyah?",
+      "Bagaimana jika saya tidak memiliki rekomendasi dari PDM untuk mengajukan beasiswa Muhammadiyah?"
+  ],
+  "responses": [
+      "Beasiswa Muhammadiyah meliputi potongan DPP untuk Warga Muhammadiyah dan alumni Sekolah Muhammadiyah. Warga Muhammadiyah putera/i atau saudara kandung Kader Muhammadiyah yang bukan dari SMA/SMK/MA Muhammadiyah dapat mendapatkan potongan DPP 50% dengan melampirkan fotokopi kartu anggota dan rekomendasi dari PDM. Pengajuan beasiswa ini harus diajukan paling lambat tanggal 30 September 2022. Alumni Sekolah Muhammadiyah dari seluruh Indonesia mendapatkan potongan DPP sebesar Rp 2.812.500. Alumni yang meraih prestasi Akademik atau Non Akademik peringkat 1-3 minimal tingkat kota/kabupaten dapat mendapatkan beasiswa Bebas DPP."
+  ]
 },
 {
 "tag": "Beasiswa_Akademik",
